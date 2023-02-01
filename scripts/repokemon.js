@@ -38,8 +38,14 @@ const done = function () {
   fs.writeFileSync('data/last-updated.txt', new Date().toJSON());
 };
 
-const removeUnsearchableChars = (str) =>
-  str.replace(/[^A-zÀ-ú0-9 .\-_:]/gi, '');
+function formatPokemonName(str) {
+  var normalize = str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  normalize = normalize.replace(/[^A-zÀ-ú0-9 .\-_:]/gi, '');
+  normalize = normalize.toLowerCase();
+
+  return normalize
+}
+
 
 const fetch = function () {
   if (count >= total) return done();
@@ -47,11 +53,15 @@ const fetch = function () {
   var d = data[count++];
   var pokemonName = d.name;
   var pokemonSlug = d.slug;
+  pokemonName = formatPokemonName(pokemonName)
+  pokemonSlug = formatPokemonName(pokemonSlug)
+
 
   console.log(count + ' Catching ' + pokemonName + '...');
+
   https.get(
     `https://api.github.com/search/repositories?per_page=100&q=${encodeURIComponent(
-      `${removeUnsearchableChars(pokemonName)} mirror:false`,
+      `${pokemonName} in:name mirror:false fork:false sort:stars`,
     )}`,
     {
       auth: `${GH_CLIENT_ID}:${GH_CLIENT_SECRET}`,
@@ -68,29 +78,28 @@ const fetch = function () {
         var data = JSON.parse(body);
         var items = data.items;
         if (items && items.length) {
+          console.log('Found ' + items.length + ' ' + pokemonName + '...');
           items = items.filter(function (item) {
+            var repoName = formatPokemonName(item.name)
             return (
-              item.description &&
-              item.language &&
-              (item.name.toLowerCase() == pokemonName.toLowerCase() ||
-                item.name.toLowerCase() ==
-                  removeUnsearchableChars(pokemonName.toLowerCase()) ||
-                item.name.toLowerCase() == pokemonSlug.toLowerCase() ||
-                item.name.toLowerCase() ==
-                  pokemonSlug.toLowerCase().replace(/_/g, '-') ||
-                item.name.toLowerCase() ==
-                  pokemonSlug.toLowerCase().replace(/_/g, ''))
-            );
+              repoName == pokemonName ||
+              repoName == pokemonSlug ||
+              repoName == pokemonSlug.replace(/_/g, '-') ||
+              repoName == pokemonSlug.replace(/_/g, '')
+            )
           });
+
+          console.log('Found ' + items.length + ' ' + pokemonName + ' after filter...');
+
           if (!items.length) {
             setTimeout(fetch, 2000); // 2 seconds interval
             return;
           }
+
           var item = items.sort(function (a, b) {
-            var s = b.stargazers_count - a.stargazers_count;
-            if (s != 0) return s;
-            return new Date(b.pushed_at) - new Date(a.pushed_at);
+            return b.stargazers_count - a.stargazers_count || new Date(b.pushed_at) - new Date(a.pushed_at)
           })[0];
+
           d.repo = {
             id: item.id,
             name: item.name,
@@ -104,7 +113,14 @@ const fetch = function () {
             watches: item.watchers_count,
             forks: item.forks_count,
           };
+        } else {
+          console.log('Found 0 ' + pokemonName + ', sorry.');
+
+          if (data.message) {
+            console.log('message: ', data.message);
+          }
         }
+
         setTimeout(fetch, 2000); // 2 seconds interval
       });
     },
