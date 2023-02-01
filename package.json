@@ -15,7 +15,7 @@
     "node": ">=12.4"
   },
   "scripts": {
-    "pokemon": "curl https://www.pokemon.com/us/api/pokedex/kalos | json > data/pokemon-list.json",
+    "pokemon": "curl https://www.pokemon.com/fr/api/pokedex/kalos | json > data/pokemon-list.json",
     "repokemon": "node scripts/repokemon",
     "gemoji": "node scripts/gemoji.mjs",
     "min-repokemon": "node scripts/min-repokemon",
