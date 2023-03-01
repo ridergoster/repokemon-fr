@@ -1,3 +1,20 @@
+# Wed, 01 Mar 2023 01:10:28 GMT
+
+## Added: 1
+
+- timothybail/GaleKing
+
+## Removed: 2
+
+- Pik2/Scarabrute
+- guilhem0908/cradopaud
+
+## Changed: 3
+
+- NayMak/ronflex → macdon4ryl/Ronflex
+- teetbox/Chartor → Xyphenore/chartor
+- Skires/Darkrai → Rb99k/darkrai
+
 # Wed, 15 Feb 2023 01:03:36 GMT
 
 ## Removed: 1

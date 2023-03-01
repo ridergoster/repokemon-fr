@@ -30847,6 +30847,27 @@
     ]
   },
   {
+    "abilities": [],
+    "detailPageURL": "/fr/pokedex/mordudor",
+    "weight": 0.1,
+    "weakness": [
+      "Spectre",
+      "Ténèbres"
+    ],
+    "number": "0999",
+    "height": 0.1,
+    "collectibles_slug": "gimmighoul",
+    "featured": "true",
+    "slug": "mordudor",
+    "name": "Mordudor",
+    "ThumbnailAltText": "Mordudor",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/999.png",
+    "id": 999,
+    "type": [
+      "ghost"
+    ]
+  },
+  {
     "abilities": [
       "Phobique"
     ],
