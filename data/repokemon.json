@@ -192,8 +192,8 @@
 			"url": "https://github.com/chistopher/arbok",
 			"desc": "Directed Spanning Trees",
 			"lang": "Jupyter Notebook",
-			"stars": 6,
-			"watches": 6,
+			"stars": 5,
+			"watches": 5,
 			"forks": 1
 		}
 	},
@@ -210,9 +210,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 2707,
-			"watches": 2707,
-			"forks": 628
+			"stars": 2730,
+			"watches": 2730,
+			"forks": 633
 		}
 	},
 	{
@@ -230,7 +230,7 @@
 			"lang": "Python",
 			"stars": 17,
 			"watches": 17,
-			"forks": 92
+			"forks": 93
 		}
 	},
 	{
@@ -380,17 +380,17 @@
 		"name": "Rafflesia",
 		"slug": "rafflesia",
 		"repo": {
-			"id": 364161213,
-			"name": "Rafflesia",
-			"full_name": "TelepathicFart/Rafflesia",
-			"owner_name": "TelepathicFart",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/83614397?v=4",
-			"url": "https://github.com/TelepathicFart/Rafflesia",
-			"desc": "Bot for Lineage 2 Classic",
-			"lang": "C++",
+			"id": 469325625,
+			"name": "rafflesia",
+			"full_name": "Iyxan23/rafflesia",
+			"owner_name": "Iyxan23",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/31884435?v=4",
+			"url": "https://github.com/Iyxan23/rafflesia",
+			"desc": "A language that compiles to sketchware projects",
+			"lang": "Rust",
 			"stars": 7,
 			"watches": 7,
-			"forks": 2
+			"forks": 0
 		}
 	},
 	{
@@ -493,8 +493,8 @@
 			"url": "https://github.com/rezakamalifard/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 165,
-			"watches": 165,
+			"stars": 166,
+			"watches": 166,
 			"forks": 30
 		}
 	},
@@ -874,8 +874,8 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1237,
-			"watches": 1237,
+			"stars": 1238,
+			"watches": 1238,
 			"forks": 50
 		}
 	},
@@ -927,8 +927,8 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10723,
-			"watches": 10723,
+			"stars": 10725,
+			"watches": 10725,
 			"forks": 1262
 		}
 	},
@@ -963,9 +963,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 249,
-			"watches": 249,
-			"forks": 59
+			"stars": 254,
+			"watches": 254,
+			"forks": 61
 		}
 	},
 	{
@@ -991,8 +991,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 284,
-			"watches": 284,
+			"stars": 285,
+			"watches": 285,
 			"forks": 20
 		}
 	},
@@ -1019,8 +1019,8 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2074,
-			"watches": 2074,
+			"stars": 2076,
+			"watches": 2076,
 			"forks": 309
 		}
 	},
@@ -1309,8 +1309,8 @@
 			"url": "https://github.com/amethyst/evoli",
 			"desc": "An ecosystem-simulation game made with Amethyst",
 			"lang": "Rust",
-			"stars": 213,
-			"watches": 213,
+			"stars": 212,
+			"watches": 212,
 			"forks": 30
 		}
 	},
@@ -1432,8 +1432,8 @@
 			"url": "https://github.com/Tak-Iwamoto/ptera",
 			"desc": "Ptera is DateTime library for Deno",
 			"lang": "TypeScript",
-			"stars": 59,
-			"watches": 59,
+			"stars": 61,
+			"watches": 61,
 			"forks": 6
 		}
 	},
@@ -1514,9 +1514,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 5498,
-			"watches": 5498,
-			"forks": 867
+			"stars": 5520,
+			"watches": 5520,
+			"forks": 869
 		}
 	},
 	{
@@ -1578,8 +1578,8 @@
 			"url": "https://github.com/supersu-man/macronium",
 			"desc": "Website for macronium",
 			"lang": "CSS",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -1808,8 +1808,8 @@
 			"url": "https://github.com/mistodon/melo",
 			"desc": "A music notation language and compiler to MIDI.",
 			"lang": "Rust",
-			"stars": 111,
-			"watches": 111,
+			"stars": 112,
+			"watches": 112,
 			"forks": 8
 		}
 	},
@@ -2312,7 +2312,7 @@
 			"lang": "Go",
 			"stars": 180,
 			"watches": 180,
-			"forks": 27
+			"forks": 28
 		}
 	},
 	{
@@ -2358,8 +2358,8 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 92,
-			"watches": 92,
+			"stars": 104,
+			"watches": 104,
 			"forks": 7
 		}
 	},
@@ -2376,8 +2376,8 @@
 			"url": "https://github.com/charliesbot/donphan",
 			"desc": null,
 			"lang": "Java",
-			"stars": 20,
-			"watches": 20,
+			"stars": 21,
+			"watches": 21,
 			"forks": 1
 		}
 	},
@@ -2563,7 +2563,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的���型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 463,
 			"watches": 463,
@@ -2886,8 +2886,8 @@
 			"url": "https://github.com/krshoss/gardevoir",
 			"desc": "The Modern CSS Reset 🚀 (Formerly Reseter.css)",
 			"lang": "SCSS",
-			"stars": 1147,
-			"watches": 1147,
+			"stars": 1153,
+			"watches": 1153,
 			"forks": 91
 		}
 	},
@@ -3011,8 +3011,8 @@
 			"url": "https://github.com/ridergoster/Ramboum",
 			"desc": "un petit jeux de voiture arduino initial D style ",
 			"lang": "C++",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -3633,7 +3633,7 @@
 			"lang": "Python",
 			"stars": 350,
 			"watches": 350,
-			"forks": 60
+			"forks": 59
 		}
 	},
 	{
@@ -3834,8 +3834,8 @@
 			"url": "https://github.com/JaavierR/regice",
 			"desc": "javierreyes.dev - written with Astro",
 			"lang": "Astro",
-			"stars": 1,
-			"watches": 1,
+			"stars": 2,
+			"watches": 2,
 			"forks": 0
 		}
 	},
@@ -4509,8 +4509,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 758,
-			"watches": 758,
+			"stars": 761,
+			"watches": 761,
 			"forks": 74
 		}
 	},
@@ -4550,7 +4550,20 @@
 	{
 		"id": "453",
 		"name": "Cradopaud",
-		"slug": "cradopaud"
+		"slug": "cradopaud",
+		"repo": {
+			"id": 221479883,
+			"name": "cradopaud",
+			"full_name": "guilhem0908/cradopaud",
+			"owner_name": "guilhem0908",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/57716752?v=4",
+			"url": "https://github.com/guilhem0908/cradopaud",
+			"desc": null,
+			"lang": "JavaScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "454",
@@ -4797,7 +4810,7 @@
 			"lang": "Python",
 			"stars": 9,
 			"watches": 9,
-			"forks": 3
+			"forks": 4
 		}
 	},
 	{
@@ -5022,8 +5035,8 @@
 			"url": "https://github.com/ridergoster/chacripan",
 			"desc": "parse Nintendo eshop in graphQL 😼 😼 😼",
 			"lang": "JavaScript",
-			"stars": 1,
-			"watches": 1,
+			"stars": 2,
+			"watches": 2,
 			"forks": 0
 		}
 	},
@@ -5088,8 +5101,8 @@
 			"url": "https://github.com/MQuy/munna",
 			"desc": "Simple wrapper cache for ActiveRecord, Ruby Object",
 			"lang": "Ruby",
-			"stars": 22,
-			"watches": 22,
+			"stars": 23,
+			"watches": 23,
 			"forks": 3
 		}
 	},
@@ -5378,8 +5391,8 @@
 			"url": "https://github.com/ridergoster/tutafeh",
 			"desc": null,
 			"lang": "Java",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -5502,16 +5515,16 @@
 		"name": "Méios",
 		"slug": "meios",
 		"repo": {
-			"id": 514880789,
-			"name": "meiOS",
-			"full_name": "harikrishnan94/meiOS",
-			"owner_name": "harikrishnan94",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/6957719?v=4",
-			"url": "https://github.com/harikrishnan94/meiOS",
-			"desc": "meiOS is a Unix like kernel for Raspberry pi 3/4 written in Rust",
-			"lang": "Rust",
-			"stars": 2,
-			"watches": 2,
+			"id": 121217143,
+			"name": "Meios",
+			"full_name": "wrudnicki16/Meios",
+			"owner_name": "wrudnicki16",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/6581671?v=4",
+			"url": "https://github.com/wrudnicki16/Meios",
+			"desc": null,
+			"lang": "JavaScript",
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -5680,8 +5693,8 @@
 			"url": "https://github.com/ropensci/tic",
 			"desc": "Tasks Integrating Continuously: CI-Agnostic Workflow Definitions",
 			"lang": "R",
-			"stars": 152,
-			"watches": 152,
+			"stars": 151,
+			"watches": 151,
 			"forks": 18
 		}
 	},
@@ -5773,8 +5786,8 @@
 			"url": "https://github.com/ridergoster/hexagel",
 			"desc": "shell script for temperature to MQTT",
 			"lang": "Shell",
-			"stars": 1,
-			"watches": 1,
+			"stars": 2,
+			"watches": 2,
 			"forks": 0
 		}
 	},
@@ -5999,8 +6012,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Sparkling Android Web Browser⚡",
 			"lang": "Kotlin",
-			"stars": 195,
-			"watches": 195,
+			"stars": 199,
+			"watches": 199,
 			"forks": 23
 		}
 	},
@@ -6107,8 +6120,8 @@
 			"url": "https://github.com/spktrm/meloetta",
 			"desc": "A Pokémon Battle Client and Reinforcement Learning Library for Interacting with Pokémon Showdown written in Python",
 			"lang": "JavaScript",
-			"stars": 7,
-			"watches": 7,
+			"stars": 8,
+			"watches": 8,
 			"forks": 0
 		}
 	},
@@ -7069,8 +7082,8 @@
 			"url": "https://github.com/ridergoster/mimiqui",
 			"desc": "camoufler des fichiers dans des images en Python",
 			"lang": "Python",
-			"stars": 1,
-			"watches": 1,
+			"stars": 2,
+			"watches": 2,
 			"forks": 0
 		}
 	},
@@ -7142,14 +7155,14 @@
 		"name": "Cosmog",
 		"slug": "cosmog",
 		"repo": {
-			"id": 268201808,
+			"id": 514034704,
 			"name": "cosmog",
-			"full_name": "kattakatkatherine/cosmog",
-			"owner_name": "kattakatkatherine",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/66186293?v=4",
-			"url": "https://github.com/kattakatkatherine/cosmog",
-			"desc": "A general-purpose Discord bot with a variety of useful commands.",
-			"lang": "Lua",
+			"full_name": "kjema/cosmog",
+			"owner_name": "kjema",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/31766485?v=4",
+			"url": "https://github.com/kjema/cosmog",
+			"desc": "Next.js template for CodeSandbox Projects ",
+			"lang": "TypeScript",
 			"stars": 1,
 			"watches": 1,
 			"forks": 0
@@ -7165,14 +7178,14 @@
 		"name": "Solgaleo",
 		"slug": "solgaleo",
 		"repo": {
-			"id": 211364326,
+			"id": 454624239,
 			"name": "Solgaleo",
-			"full_name": "zAidenKFC/Solgaleo",
-			"owner_name": "zAidenKFC",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/55891527?v=4",
-			"url": "https://github.com/zAidenKFC/Solgaleo",
-			"desc": "EL MAS WAPO",
-			"lang": null,
+			"full_name": "jonahnm/Solgaleo",
+			"owner_name": "jonahnm",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/61718056?v=4",
+			"url": "https://github.com/jonahnm/Solgaleo",
+			"desc": null,
+			"lang": "C++",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
