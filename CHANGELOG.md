@@ -1,3 +1,24 @@
+# Sat, 01 Apr 2023 01:01:57 GMT
+
+## Added: 5
+
+- PingoLeon/PingoLeon
+- gamma-delta/regigigas
+- aakashsreekumar01/CRESSELIA
+- uimm-charleville/Archeduc
+- ShiftCodeEU/Regieleki
+
+## Changed: 8
+
+- Iyxan23/rafflesia → TelepathicFart/Rafflesia
+- AlphaGit/kecleon → DanielSanRocha/kecleon
+- Kimyoung-hyun/LockPin → g-jiuyang/LockPIN
+- Rb99k/darkrai → AGalabov/Darkrai
+- wrudnicki16/Meios → harikrishnan94/meiOS
+- MegaZekrom/zekrom → TerrniT/Zekrom
+- mdirshaddev/kyurem → CTLi0128/Kyurem
+- garciaemanuel63/zeraora → aixcyi/zeraora
+
 # Wed, 15 Mar 2023 01:02:52 GMT
 
 ## Added: 1

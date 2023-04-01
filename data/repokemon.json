@@ -210,9 +210,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 2730,
-			"watches": 2730,
-			"forks": 633
+			"stars": 2757,
+			"watches": 2757,
+			"forks": 635
 		}
 	},
 	{
@@ -228,9 +228,9 @@
 			"url": "https://github.com/AMANTYA1/RaiChu",
 			"desc": "RaiChu music by https://t.me/FriDayNetwork",
 			"lang": "Python",
-			"stars": 17,
-			"watches": 17,
-			"forks": 93
+			"stars": 16,
+			"watches": 16,
+			"forks": 94
 		}
 	},
 	{
@@ -380,17 +380,17 @@
 		"name": "Rafflesia",
 		"slug": "rafflesia",
 		"repo": {
-			"id": 469325625,
-			"name": "rafflesia",
-			"full_name": "Iyxan23/rafflesia",
-			"owner_name": "Iyxan23",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/31884435?v=4",
-			"url": "https://github.com/Iyxan23/rafflesia",
-			"desc": "A language that compiles to sketchware projects",
-			"lang": "Rust",
+			"id": 364161213,
+			"name": "Rafflesia",
+			"full_name": "TelepathicFart/Rafflesia",
+			"owner_name": "TelepathicFart",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/83614397?v=4",
+			"url": "https://github.com/TelepathicFart/Rafflesia",
+			"desc": "Bot for Lineage 2 Classic",
+			"lang": "C++",
 			"stars": 7,
 			"watches": 7,
-			"forks": 0
+			"forks": 2
 		}
 	},
 	{
@@ -406,8 +406,8 @@
 			"url": "https://github.com/pokepay/paras",
 			"desc": "Embedded trivial Lisp-dialect.",
 			"lang": "Common Lisp",
-			"stars": 21,
-			"watches": 21,
+			"stars": 20,
+			"watches": 20,
 			"forks": 2
 		}
 	},
@@ -602,7 +602,7 @@
 			"lang": "Elixir",
 			"stars": 40,
 			"watches": 40,
-			"forks": 14
+			"forks": 15
 		}
 	},
 	{
@@ -856,9 +856,9 @@
 			"url": "https://github.com/megagonlabs/doduo",
 			"desc": "Annotating Columns with Pre-trained Language Models",
 			"lang": "Python",
-			"stars": 13,
-			"watches": 13,
-			"forks": 2
+			"stars": 14,
+			"watches": 14,
+			"forks": 3
 		}
 	},
 	{
@@ -929,7 +929,7 @@
 			"lang": "JavaScript",
 			"stars": 10725,
 			"watches": 10725,
-			"forks": 1262
+			"forks": 1266
 		}
 	},
 	{
@@ -963,9 +963,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 254,
-			"watches": 254,
-			"forks": 61
+			"stars": 267,
+			"watches": 267,
+			"forks": 65
 		}
 	},
 	{
@@ -1019,8 +1019,8 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2076,
-			"watches": 2076,
+			"stars": 2080,
+			"watches": 2080,
 			"forks": 309
 		}
 	},
@@ -1432,8 +1432,8 @@
 			"url": "https://github.com/Tak-Iwamoto/ptera",
 			"desc": "Ptera is DateTime library for Deno",
 			"lang": "TypeScript",
-			"stars": 61,
-			"watches": 61,
+			"stars": 62,
+			"watches": 62,
 			"forks": 6
 		}
 	},
@@ -1514,9 +1514,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 5520,
-			"watches": 5520,
-			"forks": 869
+			"stars": 5557,
+			"watches": 5557,
+			"forks": 880
 		}
 	},
 	{
@@ -1555,8 +1555,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1482,
-			"watches": 1482,
+			"stars": 1479,
+			"watches": 1479,
 			"forks": 25
 		}
 	},
@@ -1622,7 +1622,7 @@
 			"owner_name": "cliffano",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/86285?v=4",
 			"url": "https://github.com/cliffano/typhlosion",
-			"desc": "My son's random Pokémon stuffs",
+			"desc": "Random Pokémon stuffs with Little Godzilla",
 			"lang": null,
 			"stars": 0,
 			"watches": 0,
@@ -1774,7 +1774,7 @@
 			"lang": "Shell",
 			"stars": 0,
 			"watches": 0,
-			"forks": 3
+			"forks": 4
 		}
 	},
 	{
@@ -1867,8 +1867,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 173,
-			"watches": 173,
+			"stars": 172,
+			"watches": 172,
 			"forks": 4
 		}
 	},
@@ -1885,8 +1885,8 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 9,
-			"watches": 9,
+			"stars": 10,
+			"watches": 10,
 			"forks": 1
 		}
 	},
@@ -2310,8 +2310,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 180,
-			"watches": 180,
+			"stars": 182,
+			"watches": 182,
 			"forks": 28
 		}
 	},
@@ -2358,9 +2358,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 104,
-			"watches": 104,
-			"forks": 7
+			"stars": 112,
+			"watches": 112,
+			"forks": 8
 		}
 	},
 	{
@@ -2532,8 +2532,8 @@
 			"url": "https://github.com/froggestspirit/suiCune",
 			"desc": "A C port of Pokemon Crystal",
 			"lang": "Assembly",
-			"stars": 13,
-			"watches": 13,
+			"stars": 14,
+			"watches": 14,
 			"forks": 2
 		}
 	},
@@ -2563,10 +2563,10 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的���型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模��管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
-			"stars": 463,
-			"watches": 463,
+			"stars": 462,
+			"watches": 462,
 			"forks": 54
 		}
 	},
@@ -2886,9 +2886,9 @@
 			"url": "https://github.com/krshoss/gardevoir",
 			"desc": "The Modern CSS Reset 🚀 (Formerly Reseter.css)",
 			"lang": "SCSS",
-			"stars": 1153,
-			"watches": 1153,
-			"forks": 91
+			"stars": 1156,
+			"watches": 1156,
+			"forks": 89
 		}
 	},
 	{
@@ -3605,16 +3605,16 @@
 		"name": "Kecleon",
 		"slug": "kecleon",
 		"repo": {
-			"id": 396570639,
+			"id": 620018446,
 			"name": "kecleon",
-			"full_name": "AlphaGit/kecleon",
-			"owner_name": "AlphaGit",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/1113433?v=4",
-			"url": "https://github.com/AlphaGit/kecleon",
-			"desc": "Unsupervised style-transfer",
-			"lang": "Jupyter Notebook",
-			"stars": 0,
-			"watches": 0,
+			"full_name": "DanielSanRocha/kecleon",
+			"owner_name": "DanielSanRocha",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/11764388?v=4",
+			"url": "https://github.com/DanielSanRocha/kecleon",
+			"desc": "A simple Operating System for educational pourposes.",
+			"lang": "Rust",
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -3631,8 +3631,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 350,
-			"watches": 350,
+			"stars": 351,
+			"watches": 351,
 			"forks": 59
 		}
 	},
@@ -3978,8 +3978,8 @@
 			"url": "https://github.com/nexxeln/deoxys",
 			"desc": "deoxys is a fast and optimized link shortener",
 			"lang": "TypeScript",
-			"stars": 19,
-			"watches": 19,
+			"stars": 20,
+			"watches": 20,
 			"forks": 3
 		}
 	},
@@ -4065,7 +4065,20 @@
 	{
 		"id": "395",
 		"name": "Pingoléon",
-		"slug": "pingoleon"
+		"slug": "pingoleon",
+		"repo": {
+			"id": 620418704,
+			"name": "PingoLeon",
+			"full_name": "PingoLeon/PingoLeon",
+			"owner_name": "PingoLeon",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/60449031?v=4",
+			"url": "https://github.com/PingoLeon/PingoLeon",
+			"desc": "Me ",
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "396",
@@ -4349,14 +4362,14 @@
 		"name": "Lockpin",
 		"slug": "lockpin",
 		"repo": {
-			"id": 467833009,
-			"name": "LockPin",
-			"full_name": "Kimyoung-hyun/LockPin",
-			"owner_name": "Kimyoung-hyun",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/67143589?v=4",
-			"url": "https://github.com/Kimyoung-hyun/LockPin",
+			"id": 620674475,
+			"name": "LockPIN",
+			"full_name": "g-jiuyang/LockPIN",
+			"owner_name": "g-jiuyang",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/113672758?v=4",
+			"url": "https://github.com/g-jiuyang/LockPIN",
 			"desc": null,
-			"lang": "JavaScript",
+			"lang": "SCSS",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4509,9 +4522,9 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 761,
-			"watches": 761,
-			"forks": 74
+			"stars": 764,
+			"watches": 764,
+			"forks": 75
 		}
 	},
 	{
@@ -4793,7 +4806,20 @@
 	{
 		"id": "486",
 		"name": "Regigigas",
-		"slug": "regigigas"
+		"slug": "regigigas",
+		"repo": {
+			"id": 516943985,
+			"name": "regigigas",
+			"full_name": "gamma-delta/regigigas",
+			"owner_name": "gamma-delta",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/29877714?v=4",
+			"url": "https://github.com/gamma-delta/regigigas",
+			"desc": "Registration system for game objects",
+			"lang": "Rust",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "487",
@@ -4816,7 +4842,20 @@
 	{
 		"id": "488",
 		"name": "Cresselia",
-		"slug": "cresselia"
+		"slug": "cresselia",
+		"repo": {
+			"id": 618136060,
+			"name": "CRESSELIA",
+			"full_name": "aakashsreekumar01/CRESSELIA",
+			"owner_name": "aakashsreekumar01",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/124523864?v=4",
+			"url": "https://github.com/aakashsreekumar01/CRESSELIA",
+			"desc": null,
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "489",
@@ -4859,13 +4898,13 @@
 		"name": "Darkrai",
 		"slug": "darkrai",
 		"repo": {
-			"id": 603780750,
-			"name": "darkrai",
-			"full_name": "Rb99k/darkrai",
-			"owner_name": "Rb99k",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/125710924?v=4",
-			"url": "https://github.com/Rb99k/darkrai",
-			"desc": null,
+			"id": 619262713,
+			"name": "Darkrai",
+			"full_name": "AGalabov/Darkrai",
+			"owner_name": "AGalabov",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/44395908?v=4",
+			"url": "https://github.com/AGalabov/Darkrai",
+			"desc": "A pitch black VS Code theme",
 			"lang": null,
 			"stars": 0,
 			"watches": 0,
@@ -5367,10 +5406,10 @@
 		"repo": {
 			"id": 511491979,
 			"name": "Cryptero",
-			"full_name": "ed1ndev/Cryptero",
-			"owner_name": "ed1ndev",
+			"full_name": "ka1ry/Cryptero",
+			"owner_name": "ka1ry",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/80115301?v=4",
-			"url": "https://github.com/ed1ndev/Cryptero",
+			"url": "https://github.com/ka1ry/Cryptero",
 			"desc": "Discord bot for encryption and decryption",
 			"lang": "JavaScript",
 			"stars": 0,
@@ -5515,16 +5554,16 @@
 		"name": "Méios",
 		"slug": "meios",
 		"repo": {
-			"id": 121217143,
-			"name": "Meios",
-			"full_name": "wrudnicki16/Meios",
-			"owner_name": "wrudnicki16",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/6581671?v=4",
-			"url": "https://github.com/wrudnicki16/Meios",
-			"desc": null,
-			"lang": "JavaScript",
-			"stars": 1,
-			"watches": 1,
+			"id": 514880789,
+			"name": "meiOS",
+			"full_name": "harikrishnan94/meiOS",
+			"owner_name": "harikrishnan94",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/6957719?v=4",
+			"url": "https://github.com/harikrishnan94/meiOS",
+			"desc": "meiOS is a Unix like kernel for Raspberry pi 3/4 written in Rust",
+			"lang": "Rust",
+			"stars": 2,
+			"watches": 2,
 			"forks": 0
 		}
 	},
@@ -5937,7 +5976,7 @@
 			"lang": "Python",
 			"stars": 238,
 			"watches": 238,
-			"forks": 218
+			"forks": 216
 		}
 	},
 	{
@@ -6012,9 +6051,9 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Sparkling Android Web Browser⚡",
 			"lang": "Kotlin",
-			"stars": 199,
-			"watches": 199,
-			"forks": 23
+			"stars": 205,
+			"watches": 205,
+			"forks": 25
 		}
 	},
 	{
@@ -6040,14 +6079,14 @@
 		"name": "Zekrom",
 		"slug": "zekrom",
 		"repo": {
-			"id": 317180456,
-			"name": "zekrom",
-			"full_name": "MegaZekrom/zekrom",
-			"owner_name": "MegaZekrom",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/74098954?v=4",
-			"url": "https://github.com/MegaZekrom/zekrom",
-			"desc": null,
-			"lang": null,
+			"id": 618606014,
+			"name": "Zekrom",
+			"full_name": "TerrniT/Zekrom",
+			"owner_name": "TerrniT",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/79077994?v=4",
+			"url": "https://github.com/TerrniT/Zekrom",
+			"desc": "Desktop markdown editor built in with Rust + React (Typescript)",
+			"lang": "TypeScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -6076,16 +6115,16 @@
 		"name": "Kyurem",
 		"slug": "kyurem",
 		"repo": {
-			"id": 547174091,
-			"name": "kyurem",
-			"full_name": "mdirshaddev/kyurem",
-			"owner_name": "mdirshaddev",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/68414911?v=4",
-			"url": "https://github.com/mdirshaddev/kyurem",
-			"desc": "Google Drive clone build with Next.js and AWS Cloud Services",
-			"lang": null,
-			"stars": 1,
-			"watches": 1,
+			"id": 554628904,
+			"name": "Kyurem",
+			"full_name": "CTLi0128/Kyurem",
+			"owner_name": "CTLi0128",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/103995512?v=4",
+			"url": "https://github.com/CTLi0128/Kyurem",
+			"desc": null,
+			"lang": "HTML",
+			"stars": 0,
+			"watches": 0,
 			"forks": 0
 		}
 	},
@@ -6626,8 +6665,8 @@
 			"url": "https://github.com/zygarde-projects/zygarde",
 			"desc": "Progressive Entity-first application development base on spring-boot and kotlin",
 			"lang": "Kotlin",
-			"stars": 5,
-			"watches": 5,
+			"stars": 7,
+			"watches": 7,
 			"forks": 0
 		}
 	},
@@ -6698,7 +6737,20 @@
 	{
 		"id": "724",
 		"name": "Archéduc",
-		"slug": "archeduc"
+		"slug": "archeduc",
+		"repo": {
+			"id": 614420456,
+			"name": "Archeduc",
+			"full_name": "uimm-charleville/Archeduc",
+			"owner_name": "uimm-charleville",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/125017671?v=4",
+			"url": "https://github.com/uimm-charleville/Archeduc",
+			"desc": "Projet hackathon 2023 uimm charleville",
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "725",
@@ -7222,9 +7274,9 @@
 			"url": "https://github.com/HelloZeroNet/ZeroID",
 			"desc": "ZeroNet authentication provider",
 			"lang": "CoffeeScript",
-			"stars": 38,
-			"watches": 38,
-			"forks": 25
+			"stars": 39,
+			"watches": 39,
+			"forks": 26
 		}
 	},
 	{
@@ -7362,14 +7414,14 @@
 		"name": "Zeraora",
 		"slug": "zeraora",
 		"repo": {
-			"id": 494586088,
+			"id": 617865764,
 			"name": "zeraora",
-			"full_name": "garciaemanuel63/zeraora",
-			"owner_name": "garciaemanuel63",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/104876324?v=4",
-			"url": "https://github.com/garciaemanuel63/zeraora",
-			"desc": null,
-			"lang": "CSS",
+			"full_name": "aixcyi/zeraora",
+			"owner_name": "aixcyi",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/75880483?v=4",
+			"url": "https://github.com/aixcyi/zeraora",
+			"desc": "一个包含常用工具类的Python库。",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -7503,10 +7555,10 @@
 		"repo": {
 			"id": 559148893,
 			"name": "goupilou",
-			"full_name": "goupilou/goupilou",
-			"owner_name": "goupilou",
+			"full_name": "RemyDeB/goupilou",
+			"owner_name": "RemyDeB",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/116943597?v=4",
-			"url": "https://github.com/goupilou/goupilou",
+			"url": "https://github.com/RemyDeB/goupilou",
 			"desc": "Config files for my GitHub profile.",
 			"lang": null,
 			"stars": 0,
@@ -7990,7 +8042,20 @@
 	{
 		"id": "894",
 		"name": "Regieleki",
-		"slug": "regieleki"
+		"slug": "regieleki",
+		"repo": {
+			"id": 618429002,
+			"name": "Regieleki",
+			"full_name": "ShiftCodeEU/Regieleki",
+			"owner_name": "ShiftCodeEU",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/124820172?v=4",
+			"url": "https://github.com/ShiftCodeEU/Regieleki",
+			"desc": "Blazingly fast pokedex application completely fullstack using the t3-turbo setup.",
+			"lang": "TypeScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "895",
