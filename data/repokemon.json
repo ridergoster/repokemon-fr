@@ -210,9 +210,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 2781,
-			"watches": 2781,
-			"forks": 643
+			"stars": 2815,
+			"watches": 2815,
+			"forks": 646
 		}
 	},
 	{
@@ -230,7 +230,7 @@
 			"lang": "Python",
 			"stars": 15,
 			"watches": 15,
-			"forks": 94
+			"forks": 95
 		}
 	},
 	{
@@ -390,7 +390,7 @@
 			"lang": "C++",
 			"stars": 7,
 			"watches": 7,
-			"forks": 2
+			"forks": 3
 		}
 	},
 	{
@@ -493,8 +493,8 @@
 			"url": "https://github.com/rezakamalifard/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 168,
-			"watches": 168,
+			"stars": 169,
+			"watches": 169,
 			"forks": 30
 		}
 	},
@@ -856,8 +856,8 @@
 			"url": "https://github.com/megagonlabs/doduo",
 			"desc": "Annotating Columns with Pre-trained Language Models",
 			"lang": "Python",
-			"stars": 14,
-			"watches": 14,
+			"stars": 15,
+			"watches": 15,
 			"forks": 4
 		}
 	},
@@ -876,7 +876,7 @@
 			"lang": "Rust",
 			"stars": 1237,
 			"watches": 1237,
-			"forks": 50
+			"forks": 51
 		}
 	},
 	{
@@ -927,9 +927,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10734,
-			"watches": 10734,
-			"forks": 1269
+			"stars": 10730,
+			"watches": 10730,
+			"forks": 1271
 		}
 	},
 	{
@@ -963,9 +963,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 290,
-			"watches": 290,
-			"forks": 67
+			"stars": 305,
+			"watches": 305,
+			"forks": 70
 		}
 	},
 	{
@@ -1019,9 +1019,9 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2082,
-			"watches": 2082,
-			"forks": 309
+			"stars": 2080,
+			"watches": 2080,
+			"forks": 310
 		}
 	},
 	{
@@ -1283,17 +1283,17 @@
 		"name": "Métamorph",
 		"slug": "metamorph",
 		"repo": {
-			"id": 70312994,
+			"id": 617207370,
 			"name": "metamorph",
-			"full_name": "mchorse/metamorph",
-			"owner_name": "mchorse",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/19908073?v=4",
-			"url": "https://github.com/mchorse/metamorph",
-			"desc": "Morphing mod for Minecraft 1.12.2",
-			"lang": "Java",
-			"stars": 63,
-			"watches": 63,
-			"forks": 35
+			"full_name": "victorb/metamorph",
+			"owner_name": "victorb",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/459764?v=4",
+			"url": "https://github.com/victorb/metamorph",
+			"desc": "Self-editing GPT-4 application",
+			"lang": "JavaScript",
+			"stars": 62,
+			"watches": 62,
+			"forks": 1
 		}
 	},
 	{
@@ -1309,8 +1309,8 @@
 			"url": "https://github.com/amethyst/evoli",
 			"desc": "An ecosystem-simulation game made with Amethyst",
 			"lang": "Rust",
-			"stars": 212,
-			"watches": 212,
+			"stars": 213,
+			"watches": 213,
 			"forks": 30
 		}
 	},
@@ -1398,7 +1398,7 @@
 			"lang": "Python",
 			"stars": 2,
 			"watches": 2,
-			"forks": 4
+			"forks": 6
 		}
 	},
 	{
@@ -1450,8 +1450,8 @@
 			"url": "https://github.com/Nariod/ronflex",
 			"desc": "Attempts to suspend all known AV/EDRs processes on Windows using syscalls and the undocumented NtSuspendProcess API. Made with <3 for pentesters. Written in Rust.",
 			"lang": "Rust",
-			"stars": 4,
-			"watches": 4,
+			"stars": 5,
+			"watches": 5,
 			"forks": 0
 		}
 	},
@@ -1514,9 +1514,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 5586,
-			"watches": 5586,
-			"forks": 883
+			"stars": 5623,
+			"watches": 5623,
+			"forks": 891
 		}
 	},
 	{
@@ -1555,8 +1555,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1478,
-			"watches": 1478,
+			"stars": 1476,
+			"watches": 1476,
 			"forks": 25
 		}
 	},
@@ -1771,7 +1771,7 @@
 			"owner_avatar": "https://avatars.githubusercontent.com/u/61601144?v=4",
 			"url": "https://github.com/RoboSubCSULA/lanturn",
 			"desc": "A meta repository used for guides, scripts and other useful information for the Lanturn RoboSub",
-			"lang": "Shell",
+			"lang": "TeX",
 			"stars": 0,
 			"watches": 0,
 			"forks": 4
@@ -1867,8 +1867,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 173,
-			"watches": 173,
+			"stars": 175,
+			"watches": 175,
 			"forks": 4
 		}
 	},
@@ -2139,8 +2139,8 @@
 			"url": "https://github.com/FL33TW00D/steelix",
 			"desc": "Your one stop CLI for ONNX model analysis.",
 			"lang": "Rust",
-			"stars": 24,
-			"watches": 24,
+			"stars": 25,
+			"watches": 25,
 			"forks": 0
 		}
 	},
@@ -2358,8 +2358,8 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 122,
-			"watches": 122,
+			"stars": 139,
+			"watches": 139,
 			"forks": 8
 		}
 	},
@@ -2488,14 +2488,14 @@
 		"name": "Raikou",
 		"slug": "raikou",
 		"repo": {
-			"id": 541772322,
-			"name": "Raikou",
-			"full_name": "theedward/Raikou",
-			"owner_name": "theedward",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/3615214?v=4",
-			"url": "https://github.com/theedward/Raikou",
-			"desc": "After creation and before listening, sound is electricity",
-			"lang": "Kotlin",
+			"id": 633348895,
+			"name": "raikou",
+			"full_name": "paulm17/raikou",
+			"owner_name": "paulm17",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/387463?v=4",
+			"url": "https://github.com/paulm17/raikou",
+			"desc": "A mantine fork to twind",
+			"lang": "TypeScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -2534,7 +2534,7 @@
 			"lang": "Assembly",
 			"stars": 14,
 			"watches": 14,
-			"forks": 2
+			"forks": 3
 		}
 	},
 	{
@@ -2886,8 +2886,8 @@
 			"url": "https://github.com/krshoss/gardevoir",
 			"desc": "The Modern CSS Reset 🚀 (Formerly Reseter.css)",
 			"lang": "SCSS",
-			"stars": 1157,
-			"watches": 1157,
+			"stars": 1158,
+			"watches": 1158,
 			"forks": 90
 		}
 	},
@@ -3980,7 +3980,7 @@
 			"lang": "TypeScript",
 			"stars": 20,
 			"watches": 20,
-			"forks": 3
+			"forks": 4
 		}
 	},
 	{
@@ -4522,8 +4522,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 763,
-			"watches": 763,
+			"stars": 762,
+			"watches": 762,
 			"forks": 75
 		}
 	},
@@ -4834,9 +4834,9 @@
 			"url": "https://github.com/Giratina-net/Giratina",
 			"desc": null,
 			"lang": "Python",
-			"stars": 9,
-			"watches": 9,
-			"forks": 4
+			"stars": 10,
+			"watches": 10,
+			"forks": 6
 		}
 	},
 	{
@@ -6025,17 +6025,17 @@
 		"name": "Boréas",
 		"slug": "boreas",
 		"repo": {
-			"id": 160380134,
-			"name": "Boreas",
-			"full_name": "aeri/Boreas",
-			"owner_name": "aeri",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/23065231?v=4",
-			"url": "https://github.com/aeri/Boreas",
-			"desc": "A cute Linda implementation in C++",
-			"lang": "C++",
-			"stars": 7,
-			"watches": 7,
-			"forks": 2
+			"id": 26591045,
+			"name": "boreas",
+			"full_name": "vnmc/boreas",
+			"owner_name": "vnmc",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/1099338?v=4",
+			"url": "https://github.com/vnmc/boreas",
+			"desc": "A neat css parser written in TypeScript",
+			"lang": "TypeScript",
+			"stars": 8,
+			"watches": 8,
+			"forks": 4
 		}
 	},
 	{
@@ -6051,8 +6051,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Sparkling Android Web Browser⚡",
 			"lang": "Kotlin",
-			"stars": 218,
-			"watches": 218,
+			"stars": 232,
+			"watches": 232,
 			"forks": 26
 		}
 	},
@@ -6159,8 +6159,8 @@
 			"url": "https://github.com/spktrm/meloetta",
 			"desc": "A Pokémon Battle Client and Reinforcement Learning Library for Interacting with Pokémon Showdown written in Python",
 			"lang": "JavaScript",
-			"stars": 9,
-			"watches": 9,
+			"stars": 11,
+			"watches": 11,
 			"forks": 0
 		}
 	},
@@ -7422,8 +7422,8 @@
 			"url": "https://github.com/aixcyi/zeraora",
 			"desc": "一个长期维护的个人开源工具库。",
 			"lang": "Python",
-			"stars": 1,
-			"watches": 1,
+			"stars": 2,
+			"watches": 2,
 			"forks": 0
 		}
 	},
@@ -7493,7 +7493,20 @@
 	{
 		"id": "818",
 		"name": "Lézargus",
-		"slug": "lezargus"
+		"slug": "lezargus",
+		"repo": {
+			"id": 629293340,
+			"name": "Lezargus",
+			"full_name": "psmd-iberutaru/Lezargus",
+			"owner_name": "psmd-iberutaru",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/34015840?v=4",
+			"url": "https://github.com/psmd-iberutaru/Lezargus",
+			"desc": "The accompanying data software package to the IRTF SPECTRE Spectrograph.",
+			"lang": "Python",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "819",

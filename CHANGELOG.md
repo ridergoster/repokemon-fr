@@ -1,3 +1,15 @@
+# Mon, 01 May 2023 01:02:14 GMT
+
+## Added: 1
+
+- psmd-iberutaru/Lezargus
+
+## Changed: 3
+
+- mchorse/metamorph → victorb/metamorph
+- theedward/Raikou → paulm17/raikou
+- aeri/Boreas → vnmc/boreas
+
 # Sat, 15 Apr 2023 01:04:56 GMT
 
 ## Removed: 1
