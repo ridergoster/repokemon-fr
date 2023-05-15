@@ -1,3 +1,13 @@
+# Mon, 15 May 2023 01:02:06 GMT
+
+## Changed: 5
+
+- JonathanNOIRET/Salameche → henrotaym/salameche
+- ET12Objetos/Caninos → Betsy16/caninos
+- victorb/metamorph → mchorse/metamorph
+- paulm17/raikou → Ryuux/Raikou
+- akluth/dedenne → felippemafdiasferreira/Dedenne
+
 # Mon, 01 May 2023 01:02:14 GMT
 
 ## Added: 1
