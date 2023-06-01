@@ -1,3 +1,19 @@
+# Thu, 01 Jun 2023 01:11:03 GMT
+
+## Added: 1
+
+- bcostantino/dynavolt
+
+## Changed: 7
+
+- mchorse/metamorph → agrimgupta92/metamorph
+- whyfuture/Ursaring → lenisko/ursaring
+- vollov/delcatty → DiabolicWitch/Delcatty
+- contoh-oraganisasi/okeoke → rizkyromadhon/okeoke
+- chunibyo-wly/Riolu → tibor309/riolu
+- DDoS-Archive22/darkrai → Egida/darkrai
+- vnmc/boreas → aeri/Boreas
+
 # Mon, 15 May 2023 01:02:06 GMT
 
 ## Changed: 5
