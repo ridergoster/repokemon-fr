@@ -1,3 +1,21 @@
+# Thu, 15 Jun 2023 01:14:41 GMT
+
+## New pokemons: 2
+
+- Serpente-Eau
+- Vert-de-Fer
+
+## Added: 1
+
+- meteno/meteno
+
+## Changed: 4
+
+- TelepathicFart/Rafflesia → Iyxan23/rafflesia
+- majidln/STARI → Th3-L3G3ND-IM4do/stari
+- Tiernebre/ninjask → aditya-exe/ninjask
+- Egida/darkrai → Rb99k/darkrai
+
 # Thu, 01 Jun 2023 01:11:03 GMT
 
 ## Added: 1

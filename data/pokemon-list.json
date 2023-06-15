@@ -2023,7 +2023,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Intimidation",
+      "Torche"
+    ],
     "detailPageURL": "/fr/pokedex/caninos",
     "weight": 22.7,
     "weakness": [
@@ -2072,7 +2075,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Intimidation",
+      "Torche"
+    ],
     "detailPageURL": "/fr/pokedex/arcanin",
     "weight": 168,
     "weakness": [
@@ -3562,7 +3568,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Anti-Bruit",
+      "Statik"
+    ],
     "detailPageURL": "/fr/pokedex/voltorbe",
     "weight": 13,
     "weakness": [
@@ -3609,7 +3618,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Anti-Bruit",
+      "Statik"
+    ],
     "detailPageURL": "/fr/pokedex/electrode",
     "weight": 71,
     "weakness": [
@@ -5530,7 +5542,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Brasier"
+    ],
     "detailPageURL": "/fr/pokedex/typhlosion",
     "weight": 69.8,
     "weakness": [
@@ -7017,7 +7031,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Glissade",
+      "Point Poison"
+    ],
     "detailPageURL": "/fr/pokedex/qwilfish",
     "weight": 3.9,
     "weakness": [
@@ -7190,7 +7207,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Attention",
+      "Regard Vif"
+    ],
     "detailPageURL": "/fr/pokedex/farfuret",
     "weight": 27,
     "weakness": [
@@ -15126,7 +15146,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Pression"
+    ],
     "detailPageURL": "/fr/pokedex/dialga",
     "weight": 850,
     "weakness": [
@@ -15172,7 +15194,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Pression"
+    ],
     "detailPageURL": "/fr/pokedex/palkia",
     "weight": 660,
     "weakness": [
@@ -15715,7 +15739,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Torrent"
+    ],
     "detailPageURL": "/fr/pokedex/clamiral",
     "weight": 58.2,
     "weakness": [
@@ -16958,7 +16984,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Agitation",
+      "Chlorophylle"
+    ],
     "detailPageURL": "/fr/pokedex/fragilady",
     "weight": 19.2,
     "weakness": [
@@ -17011,7 +17040,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Adaptabilité",
+      "Phobique"
+    ],
     "detailPageURL": "/fr/pokedex/bargantua",
     "weight": 18,
     "weakness": [
@@ -17677,7 +17709,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Illusion"
+    ],
     "detailPageURL": "/fr/pokedex/zorua",
     "weight": 12.5,
     "weakness": [
@@ -17722,7 +17756,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Illusion"
+    ],
     "detailPageURL": "/fr/pokedex/zoroark",
     "weight": 73,
     "weakness": [
@@ -19440,7 +19476,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Regard Vif",
+      "Sans Limite"
+    ],
     "detailPageURL": "/fr/pokedex/gueriaigle",
     "weight": 43.4,
     "weakness": [
@@ -21967,7 +22006,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Coque Armure",
+      "Herbivore"
+    ],
     "detailPageURL": "/fr/pokedex/colimucus",
     "weight": 68.5,
     "weakness": [
@@ -22014,7 +22056,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Coque Armure",
+      "Herbivore"
+    ],
     "detailPageURL": "/fr/pokedex/muplodocus",
     "weight": 334.1,
     "weakness": [
@@ -22223,7 +22268,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Corps Gel",
+      "Prognathe"
+    ],
     "detailPageURL": "/fr/pokedex/seracrawl",
     "weight": 262.4,
     "weakness": [
@@ -22632,7 +22680,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Engrais"
+    ],
     "detailPageURL": "/fr/pokedex/archeduc",
     "weight": 37,
     "weakness": [
@@ -28055,7 +28105,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Fouille",
+      "Intimidation"
+    ],
     "detailPageURL": "/fr/pokedex/cerbyllin",
     "weight": 95.1,
     "weakness": [
@@ -28077,7 +28130,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Essaim",
+      "Sans Limite"
+    ],
     "detailPageURL": "/fr/pokedex/hachecateur",
     "weight": 89,
     "weakness": [
@@ -28100,7 +28156,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Cran",
+      "Pare-Balles"
+    ],
     "detailPageURL": "/fr/pokedex/ursaking",
     "weight": 290,
     "weakness": [
@@ -28124,7 +28183,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Adaptabilité",
+      "Glissade"
+    ],
     "detailPageURL": "/fr/pokedex/paragruel",
     "weight": 110,
     "weakness": [
@@ -28148,7 +28210,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Adaptabilité",
+      "Glissade"
+    ],
     "detailPageURL": "/fr/pokedex/paragruel",
     "weight": 110,
     "weakness": [
@@ -28172,7 +28237,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Délestage",
+      "Pression"
+    ],
     "detailPageURL": "/fr/pokedex/farfurex",
     "weight": 43,
     "weakness": [
@@ -28195,7 +28263,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Glissade",
+      "Point Poison"
+    ],
     "detailPageURL": "/fr/pokedex/qwilpik",
     "weight": 60.5,
     "weakness": [
@@ -28216,7 +28287,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Envelocape"
+    ],
     "detailPageURL": "/fr/pokedex/amovenus",
     "weight": 48,
     "weakness": [
@@ -28241,7 +28314,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Joli Sourire"
+    ],
     "detailPageURL": "/fr/pokedex/amovenus",
     "weight": 48,
     "weakness": [
@@ -30847,7 +30922,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Fuite"
+    ],
     "detailPageURL": "/fr/pokedex/mordudor",
     "weight": 0.1,
     "weakness": [
@@ -31132,6 +31209,59 @@
     "type": [
       "electric",
       "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Paléosynthèse"
+    ],
+    "detailPageURL": "/fr/pokedex/serpente-eau",
+    "weight": 280,
+    "weakness": [
+      "Fée",
+      "Dragon"
+    ],
+    "number": "1009",
+    "height": 3.5,
+    "collectibles_slug": "walking-wake",
+    "featured": "true",
+    "slug": "serpente-eau",
+    "name": "Serpente-Eau",
+    "ThumbnailAltText": "Serpente-Eau",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1009.png",
+    "id": 1009,
+    "type": [
+      "water",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Charge Quantique"
+    ],
+    "detailPageURL": "/fr/pokedex/vert-de-fer",
+    "weight": 125,
+    "weakness": [
+      "Spectre",
+      "Feu",
+      "Vol",
+      "Glace",
+      "Ténèbres",
+      "Poison",
+      "Insecte"
+    ],
+    "number": "1010",
+    "height": 1.5,
+    "collectibles_slug": "iron-leaves",
+    "featured": "true",
+    "slug": "vert-de-fer",
+    "name": "Vert-de-Fer",
+    "ThumbnailAltText": "Vert-de-Fer",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1010.png",
+    "id": 1010,
+    "type": [
+      "grass",
+      "psychic"
     ]
   }
 ]
