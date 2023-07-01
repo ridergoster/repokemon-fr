@@ -1,3 +1,13 @@
+# Sat, 01 Jul 2023 01:10:51 GMT
+
+## Changed: 5
+
+- MSBARAKA/dracaufeu → moussa223/Dracaufeu
+- Ryuux/Raikou → paulm17/raikou
+- linuxguy2020/Altaria → shmoe6/Altaria
+- MonsterSkas/Rayquaza → Rit-Chakraborty/Rayquaza
+- CTLi0128/Kyurem → JosephPrichard/Kyurem
+
 # Thu, 15 Jun 2023 01:14:41 GMT
 
 ## New pokemons: 2
