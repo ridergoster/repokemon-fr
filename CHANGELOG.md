@@ -1,3 +1,18 @@
+# Sat, 15 Jul 2023 01:09:41 GMT
+
+## Removed: 1
+
+- pokepay/paras
+
+## Changed: 6
+
+- iyxan23/rafflesia → TelepathicFart/Rafflesia
+- agrimgupta92/metamorph → victorb/metamorph
+- 12ian34/kabuto → kokimame/kabuto
+- paulm17/raikou → paulm17/raikou
+- filipedaniel/torterra → Kevontym/torterra
+- felippemafdiasferreira/Dedenne → gamma-delta/dedenne
+
 # Sat, 01 Jul 2023 01:10:51 GMT
 
 ## Changed: 5
