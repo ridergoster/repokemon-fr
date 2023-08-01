@@ -1,3 +1,17 @@
+# Tue, 01 Aug 2023 01:06:19 GMT
+
+## Added: 1
+
+- pokepay/paras
+
+## Changed: 5
+
+- Betsy16/caninos → MaryorisRc/caninos
+- victorb/metamorph → agrimgupta92/metamorph
+- Rit-Chakraborty/Rayquaza → EugerBonete/rayquaza
+- tibor309/riolu → chunibyo-wly/Riolu
+- Rb99k/darkrai → liuxian496/darkrai
+
 # Sat, 15 Jul 2023 01:09:41 GMT
 
 ## Removed: 1
