@@ -1,3 +1,16 @@
+# Tue, 15 Aug 2023 01:00:08 GMT
+
+## Removed: 1
+
+- aakashsreekumar01/CRESSELIA
+
+## Changed: 4
+
+- agrimgupta92/metamorph → victorb/metamorph
+- EugerBonete/rayquaza → Rit-Chakraborty/Rayquaza
+- Nymphadelle/Phyllali → phyllali/Phyllali
+- neatteamsoftware/Magearna → Guaxininho/Magearna
+
 # Tue, 01 Aug 2023 01:06:19 GMT
 
 ## Added: 1
