@@ -1,3 +1,17 @@
+# Fri, 01 Sep 2023 01:02:19 GMT
+
+## Added: 2
+
+- nbittich/tortank
+- NDRAEY/Koraidon
+
+## Changed: 4
+
+- victorb/metamorph → agrimgupta92/metamorph
+- RoboSubCSULA/lanturn → lanturn-defi/lanturn
+- kasyu-create/manzai → daishiman/manzAI
+- gamma-delta/regigigas → LucasWyski001/regigigas
+
 # Tue, 15 Aug 2023 01:00:08 GMT
 
 ## Removed: 1

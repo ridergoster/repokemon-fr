@@ -94,7 +94,20 @@
 	{
 		"id": "009",
 		"name": "Tortank",
-		"slug": "tortank"
+		"slug": "tortank",
+		"repo": {
+			"id": 683028039,
+			"name": "tortank",
+			"full_name": "nbittich/tortank",
+			"owner_name": "nbittich",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/3816305?v=4",
+			"url": "https://github.com/nbittich/tortank",
+			"desc": "Turtle parser",
+			"lang": "Rust",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "010",
@@ -210,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3007,
-			"watches": 3007,
-			"forks": 675
+			"stars": 3035,
+			"watches": 3035,
+			"forks": 676
 		}
 	},
 	{
@@ -495,7 +508,7 @@
 			"lang": "Python",
 			"stars": 176,
 			"watches": 176,
-			"forks": 31
+			"forks": 32
 		}
 	},
 	{
@@ -584,7 +597,7 @@
 			"lang": "Java",
 			"stars": 67,
 			"watches": 67,
-			"forks": 12
+			"forks": 11
 		}
 	},
 	{
@@ -858,7 +871,7 @@
 			"lang": "Python",
 			"stars": 23,
 			"watches": 23,
-			"forks": 9
+			"forks": 10
 		}
 	},
 	{
@@ -874,8 +887,8 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1237,
-			"watches": 1237,
+			"stars": 1236,
+			"watches": 1236,
 			"forks": 52
 		}
 	},
@@ -927,9 +940,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10759,
-			"watches": 10759,
-			"forks": 1277
+			"stars": 10766,
+			"watches": 10766,
+			"forks": 1278
 		}
 	},
 	{
@@ -963,9 +976,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 476,
-			"watches": 476,
-			"forks": 96
+			"stars": 499,
+			"watches": 499,
+			"forks": 102
 		}
 	},
 	{
@@ -991,8 +1004,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 286,
-			"watches": 286,
+			"stars": 287,
+			"watches": 287,
 			"forks": 20
 		}
 	},
@@ -1019,9 +1032,9 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2087,
-			"watches": 2087,
-			"forks": 310
+			"stars": 2088,
+			"watches": 2088,
+			"forks": 312
 		}
 	},
 	{
@@ -1283,17 +1296,17 @@
 		"name": "Métamorph",
 		"slug": "metamorph",
 		"repo": {
-			"id": 617207370,
+			"id": 472829176,
 			"name": "metamorph",
-			"full_name": "victorb/metamorph",
-			"owner_name": "victorb",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/459764?v=4",
-			"url": "https://github.com/victorb/metamorph",
-			"desc": "Self-editing GPT-4 application",
-			"lang": "JavaScript",
+			"full_name": "agrimgupta92/metamorph",
+			"owner_name": "agrimgupta92",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/16674541?v=4",
+			"url": "https://github.com/agrimgupta92/metamorph",
+			"desc": "Code for \"MetaMorph: Learning Universal Controllers with Transformers\", Gupta et al, ICLR 2022",
+			"lang": "Python",
 			"stars": 67,
 			"watches": 67,
-			"forks": 1
+			"forks": 9
 		}
 	},
 	{
@@ -1309,8 +1322,8 @@
 			"url": "https://github.com/amethyst/evoli",
 			"desc": "An ecosystem-simulation game made with Amethyst",
 			"lang": "Rust",
-			"stars": 215,
-			"watches": 215,
+			"stars": 214,
+			"watches": 214,
 			"forks": 33
 		}
 	},
@@ -1514,9 +1527,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 5822,
-			"watches": 5822,
-			"forks": 911
+			"stars": 5839,
+			"watches": 5839,
+			"forks": 916
 		}
 	},
 	{
@@ -1555,8 +1568,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1481,
-			"watches": 1481,
+			"stars": 1482,
+			"watches": 1482,
 			"forks": 28
 		}
 	},
@@ -1764,17 +1777,17 @@
 		"name": "Lanturn",
 		"slug": "lanturn",
 		"repo": {
-			"id": 530078659,
+			"id": 684813360,
 			"name": "lanturn",
-			"full_name": "RoboSubCSULA/lanturn",
-			"owner_name": "RoboSubCSULA",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/61601144?v=4",
-			"url": "https://github.com/RoboSubCSULA/lanturn",
-			"desc": "A meta repository used for guides, scripts and other useful information for the Lanturn RoboSub",
-			"lang": "TeX",
-			"stars": 0,
-			"watches": 0,
-			"forks": 4
+			"full_name": "lanturn-defi/lanturn",
+			"owner_name": "lanturn-defi",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/138214901?v=4",
+			"url": "https://github.com/lanturn-defi/lanturn",
+			"desc": null,
+			"lang": "Python",
+			"stars": 3,
+			"watches": 3,
+			"forks": 0
 		}
 	},
 	{
@@ -1808,8 +1821,8 @@
 			"url": "https://github.com/mistodon/melo",
 			"desc": "A music notation language and compiler to MIDI.",
 			"lang": "Rust",
-			"stars": 113,
-			"watches": 113,
+			"stars": 114,
+			"watches": 114,
 			"forks": 8
 		}
 	},
@@ -1867,8 +1880,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 191,
-			"watches": 191,
+			"stars": 193,
+			"watches": 193,
 			"forks": 6
 		}
 	},
@@ -1885,9 +1898,9 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 28,
-			"watches": 28,
-			"forks": 1
+			"stars": 30,
+			"watches": 30,
+			"forks": 2
 		}
 	},
 	{
@@ -2358,9 +2371,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 298,
-			"watches": 298,
-			"forks": 24
+			"stars": 325,
+			"watches": 325,
+			"forks": 26
 		}
 	},
 	{
@@ -2532,8 +2545,8 @@
 			"url": "https://github.com/froggestspirit/suiCune",
 			"desc": "A C port of Pokemon Crystal",
 			"lang": "Assembly",
-			"stars": 16,
-			"watches": 16,
+			"stars": 17,
+			"watches": 17,
 			"forks": 3
 		}
 	},
@@ -2563,7 +2576,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的���型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的��型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 464,
 			"watches": 464,
@@ -2886,8 +2899,8 @@
 			"url": "https://github.com/krshoss/gardevoir",
 			"desc": "The Modern CSS Reset 🚀 (Formerly Reseter.css)",
 			"lang": "SCSS",
-			"stars": 1170,
-			"watches": 1170,
+			"stars": 1172,
+			"watches": 1172,
 			"forks": 90
 		}
 	},
@@ -3270,7 +3283,7 @@
 			"owner_name": "nargyanti",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/56666206?v=4",
 			"url": "https://github.com/nargyanti/Roselia",
-			"desc": "Project submission \"Belajar Dasar Pemrograman Web\" di Dicoding",
+			"desc": "Project submission \"Belajar Dasar Pemrograman Web\" at Dicoding",
 			"lang": "HTML",
 			"stars": 2,
 			"watches": 2,
@@ -3644,9 +3657,9 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 358,
-			"watches": 358,
-			"forks": 61
+			"stars": 360,
+			"watches": 360,
+			"forks": 63
 		}
 	},
 	{
@@ -3993,7 +4006,7 @@
 			"lang": "TypeScript",
 			"stars": 20,
 			"watches": 20,
-			"forks": 4
+			"forks": 5
 		}
 	},
 	{
@@ -4190,8 +4203,8 @@
 			"url": "https://github.com/3096/luxray",
 			"desc": "an overlay utility for Pokémon on Nintendo Switch",
 			"lang": "C++",
-			"stars": 31,
-			"watches": 31,
+			"stars": 32,
+			"watches": 32,
 			"forks": 7
 		}
 	},
@@ -4438,14 +4451,14 @@
 		"name": "Manzaï",
 		"slug": "manzai",
 		"repo": {
-			"id": 278795475,
-			"name": "manzai",
-			"full_name": "kasyu-create/manzai",
-			"owner_name": "kasyu-create",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/63037931?v=4",
-			"url": "https://github.com/kasyu-create/manzai",
+			"id": 685511765,
+			"name": "manzAI",
+			"full_name": "daishiman/manzAI",
+			"owner_name": "daishiman",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/71166086?v=4",
+			"url": "https://github.com/daishiman/manzAI",
 			"desc": null,
-			"lang": "Ruby",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4535,8 +4548,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 766,
-			"watches": 766,
+			"stars": 769,
+			"watches": 769,
 			"forks": 77
 		}
 	},
@@ -4821,14 +4834,14 @@
 		"name": "Regigigas",
 		"slug": "regigigas",
 		"repo": {
-			"id": 516943985,
+			"id": 681434784,
 			"name": "regigigas",
-			"full_name": "gamma-delta/regigigas",
-			"owner_name": "gamma-delta",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/29877714?v=4",
-			"url": "https://github.com/gamma-delta/regigigas",
-			"desc": "Registration system for game objects",
-			"lang": "Rust",
+			"full_name": "LucasWyski001/regigigas",
+			"owner_name": "LucasWyski001",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/109931537?v=4",
+			"url": "https://github.com/LucasWyski001/regigigas",
+			"desc": null,
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4942,8 +4955,8 @@
 			"url": "https://github.com/FirezTheGreat/Arceus",
 			"desc": "Discord Bot Focused On Modmail With Mongoose Using discord.js v13",
 			"lang": "JavaScript",
-			"stars": 15,
-			"watches": 15,
+			"stars": 14,
+			"watches": 14,
 			"forks": 7
 		}
 	},
@@ -6051,9 +6064,9 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Sparkling Android Web Browser⚡",
 			"lang": "Kotlin",
-			"stars": 305,
-			"watches": 305,
-			"forks": 34
+			"stars": 308,
+			"watches": 308,
+			"forks": 36
 		}
 	},
 	{
@@ -7269,8 +7282,8 @@
 			"url": "https://github.com/LunalaProject/lunala",
 			"desc": "💎│ The official Lunala's source code! Yet a modern space exploration bot.",
 			"lang": "Kotlin",
-			"stars": 23,
-			"watches": 23,
+			"stars": 22,
+			"watches": 22,
 			"forks": 1
 		}
 	},
@@ -8706,8 +8719,8 @@
 			"url": "https://github.com/btechpt/yuyu",
 			"desc": null,
 			"lang": "Python",
-			"stars": 24,
-			"watches": 24,
+			"stars": 23,
+			"watches": 23,
 			"forks": 4
 		}
 	},
@@ -8724,7 +8737,20 @@
 	{
 		"id": "1007",
 		"name": "Koraidon",
-		"slug": "koraidon"
+		"slug": "koraidon",
+		"repo": {
+			"id": 685037174,
+			"name": "Koraidon",
+			"full_name": "NDRAEY/Koraidon",
+			"owner_name": "NDRAEY",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/47180136?v=4",
+			"url": "https://github.com/NDRAEY/Koraidon",
+			"desc": "Custom Firmware for Android devices wirtten in C.",
+			"lang": "C",
+			"stars": 1,
+			"watches": 1,
+			"forks": 0
+		}
 	},
 	{
 		"id": "1008",
