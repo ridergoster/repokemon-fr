@@ -1,3 +1,19 @@
+# Fri, 15 Sep 2023 01:01:15 GMT
+
+## Added: 1
+
+- crillab/crustabri
+
+## Removed: 1
+
+- guilhem0908/cradopaud
+
+## Changed: 3
+
+- agrimgupta92/metamorph → victorb/metamorph
+- spktrm/meloetta → MarianVulpes/Meloetta
+- o-p/morpeko → embersee/morpeko
+
 # Fri, 01 Sep 2023 01:02:19 GMT
 
 ## Added: 2

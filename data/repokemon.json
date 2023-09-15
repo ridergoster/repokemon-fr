@@ -205,8 +205,8 @@
 			"url": "https://github.com/chistopher/arbok",
 			"desc": "Directed Spanning Trees",
 			"lang": "Jupyter Notebook",
-			"stars": 7,
-			"watches": 7,
+			"stars": 8,
+			"watches": 8,
 			"forks": 1
 		}
 	},
@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3035,
-			"watches": 3035,
-			"forks": 676
+			"stars": 3062,
+			"watches": 3062,
+			"forks": 680
 		}
 	},
 	{
@@ -437,8 +437,8 @@
 			"url": "https://github.com/AvyFly/parasect",
 			"desc": "Parameter management tool for autopilots",
 			"lang": "Python",
-			"stars": 18,
-			"watches": 18,
+			"stars": 19,
+			"watches": 19,
 			"forks": 3
 		}
 	},
@@ -500,14 +500,14 @@
 		"repo": {
 			"id": 12823010,
 			"name": "persian",
-			"full_name": "rezakamalifard/persian",
-			"owner_name": "rezakamalifard",
+			"full_name": "rezkam/persian",
+			"owner_name": "rezkam",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/1498074?v=4",
-			"url": "https://github.com/rezakamalifard/persian",
+			"url": "https://github.com/rezkam/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 176,
-			"watches": 176,
+			"stars": 177,
+			"watches": 177,
 			"forks": 32
 		}
 	},
@@ -597,7 +597,7 @@
 			"lang": "Java",
 			"stars": 67,
 			"watches": 67,
-			"forks": 11
+			"forks": 12
 		}
 	},
 	{
@@ -613,8 +613,8 @@
 			"url": "https://github.com/codedge-llc/kadabra",
 			"desc": "HTTP/2 client for Elixir",
 			"lang": "Elixir",
-			"stars": 41,
-			"watches": 41,
+			"stars": 42,
+			"watches": 42,
 			"forks": 17
 		}
 	},
@@ -920,7 +920,20 @@
 	{
 		"id": "091",
 		"name": "Crustabri",
-		"slug": "crustabri"
+		"slug": "crustabri",
+		"repo": {
+			"id": 688028322,
+			"name": "crustabri",
+			"full_name": "crillab/crustabri",
+			"owner_name": "crillab",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/32325236?v=4",
+			"url": "https://github.com/crillab/crustabri",
+			"desc": "An argumentation framework library & solver.",
+			"lang": "Rust",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "092",
@@ -940,9 +953,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10766,
-			"watches": 10766,
-			"forks": 1278
+			"stars": 10775,
+			"watches": 10775,
+			"forks": 1277
 		}
 	},
 	{
@@ -976,9 +989,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 499,
-			"watches": 499,
-			"forks": 102
+			"stars": 520,
+			"watches": 520,
+			"forks": 106
 		}
 	},
 	{
@@ -1004,8 +1017,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 287,
-			"watches": 287,
+			"stars": 286,
+			"watches": 286,
 			"forks": 20
 		}
 	},
@@ -1032,8 +1045,8 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2088,
-			"watches": 2088,
+			"stars": 2091,
+			"watches": 2091,
 			"forks": 312
 		}
 	},
@@ -1296,17 +1309,17 @@
 		"name": "Métamorph",
 		"slug": "metamorph",
 		"repo": {
-			"id": 472829176,
+			"id": 617207370,
 			"name": "metamorph",
-			"full_name": "agrimgupta92/metamorph",
-			"owner_name": "agrimgupta92",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/16674541?v=4",
-			"url": "https://github.com/agrimgupta92/metamorph",
-			"desc": "Code for \"MetaMorph: Learning Universal Controllers with Transformers\", Gupta et al, ICLR 2022",
-			"lang": "Python",
+			"full_name": "victorb/metamorph",
+			"owner_name": "victorb",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/459764?v=4",
+			"url": "https://github.com/victorb/metamorph",
+			"desc": "Self-editing GPT-4 application",
+			"lang": "JavaScript",
 			"stars": 67,
 			"watches": 67,
-			"forks": 9
+			"forks": 1
 		}
 	},
 	{
@@ -1527,9 +1540,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 5839,
-			"watches": 5839,
-			"forks": 916
+			"stars": 5862,
+			"watches": 5862,
+			"forks": 919
 		}
 	},
 	{
@@ -1568,9 +1581,9 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1482,
-			"watches": 1482,
-			"forks": 28
+			"stars": 1481,
+			"watches": 1481,
+			"forks": 29
 		}
 	},
 	{
@@ -1785,9 +1798,9 @@
 			"url": "https://github.com/lanturn-defi/lanturn",
 			"desc": null,
 			"lang": "Python",
-			"stars": 3,
-			"watches": 3,
-			"forks": 0
+			"stars": 5,
+			"watches": 5,
+			"forks": 2
 		}
 	},
 	{
@@ -1898,9 +1911,9 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 30,
-			"watches": 30,
-			"forks": 2
+			"stars": 31,
+			"watches": 31,
+			"forks": 3
 		}
 	},
 	{
@@ -2152,8 +2165,8 @@
 			"url": "https://github.com/FL33TW00D/steelix",
 			"desc": "Your one stop CLI for ONNX model analysis.",
 			"lang": "Rust",
-			"stars": 29,
-			"watches": 29,
+			"stars": 30,
+			"watches": 30,
 			"forks": 2
 		}
 	},
@@ -2371,9 +2384,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 325,
-			"watches": 325,
-			"forks": 26
+			"stars": 348,
+			"watches": 348,
+			"forks": 30
 		}
 	},
 	{
@@ -2545,8 +2558,8 @@
 			"url": "https://github.com/froggestspirit/suiCune",
 			"desc": "A C port of Pokemon Crystal",
 			"lang": "Assembly",
-			"stars": 17,
-			"watches": 17,
+			"stars": 16,
+			"watches": 16,
 			"forks": 3
 		}
 	},
@@ -2576,7 +2589,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的��型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 464,
 			"watches": 464,
@@ -2899,8 +2912,8 @@
 			"url": "https://github.com/krshoss/gardevoir",
 			"desc": "The Modern CSS Reset 🚀 (Formerly Reseter.css)",
 			"lang": "SCSS",
-			"stars": 1172,
-			"watches": 1172,
+			"stars": 1174,
+			"watches": 1174,
 			"forks": 90
 		}
 	},
@@ -3124,8 +3137,8 @@
 			"url": "https://github.com/MarianVulpes/Delcatty",
 			"desc": "Gerador de imagens de gatinhos, com música calma para ajudar na ansiedade!",
 			"lang": "Python",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -3657,8 +3670,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 360,
-			"watches": 360,
+			"stars": 361,
+			"watches": 361,
 			"forks": 63
 		}
 	},
@@ -4548,8 +4561,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 769,
-			"watches": 769,
+			"stars": 772,
+			"watches": 772,
 			"forks": 77
 		}
 	},
@@ -4589,20 +4602,7 @@
 	{
 		"id": "453",
 		"name": "Cradopaud",
-		"slug": "cradopaud",
-		"repo": {
-			"id": 221479883,
-			"name": "cradopaud",
-			"full_name": "guilhem0908/cradopaud",
-			"owner_name": "guilhem0908",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/57716752?v=4",
-			"url": "https://github.com/guilhem0908/cradopaud",
-			"desc": null,
-			"lang": "JavaScript",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "cradopaud"
 	},
 	{
 		"id": "454",
@@ -6064,9 +6064,9 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Sparkling Android Web Browser⚡",
 			"lang": "Kotlin",
-			"stars": 308,
-			"watches": 308,
-			"forks": 36
+			"stars": 309,
+			"watches": 309,
+			"forks": 37
 		}
 	},
 	{
@@ -6164,16 +6164,16 @@
 		"name": "Meloetta",
 		"slug": "meloetta",
 		"repo": {
-			"id": 568548195,
-			"name": "meloetta",
-			"full_name": "spktrm/meloetta",
-			"owner_name": "spktrm",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/72776130?v=4",
-			"url": "https://github.com/spktrm/meloetta",
-			"desc": "A Pokémon Battle Client and Reinforcement Learning Library for Interacting with Pokémon Showdown written in Python",
-			"lang": "JavaScript",
-			"stars": 13,
-			"watches": 13,
+			"id": 661209590,
+			"name": "Meloetta",
+			"full_name": "MarianVulpes/Meloetta",
+			"owner_name": "MarianVulpes",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/82874011?v=4",
+			"url": "https://github.com/MarianVulpes/Meloetta",
+			"desc": "Spotify playlist downloader.",
+			"lang": "Python",
+			"stars": 17,
+			"watches": 17,
 			"forks": 0
 		}
 	},
@@ -6714,8 +6714,8 @@
 			"url": "https://github.com/hudangwei/hoopa",
 			"desc": "springboot+jpa代码自动生成工具",
 			"lang": "Go",
-			"stars": 15,
-			"watches": 15,
+			"stars": 16,
+			"watches": 16,
 			"forks": 6
 		}
 	},
@@ -7528,7 +7528,7 @@
 			"owner_avatar": "https://avatars.githubusercontent.com/u/34015840?v=4",
 			"url": "https://github.com/psmd-iberutaru/Lezargus",
 			"desc": "The accompanying data software package to the IRTF SPECTRE Spectrograph.",
-			"lang": "Python",
+			"lang": "Jupyter Notebook",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -7933,13 +7933,13 @@
 		"name": "Morpeko",
 		"slug": "morpeko",
 		"repo": {
-			"id": 322200346,
+			"id": 689717768,
 			"name": "morpeko",
-			"full_name": "o-p/morpeko",
-			"owner_name": "o-p",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/15345991?v=4",
-			"url": "https://github.com/o-p/morpeko",
-			"desc": "莫魯貝可在飽腹時，性情平和，不易暴怒；但是飢餓時，莫魯貝可的性情隨激素狀態的改變而變得凶暴。與皮丘、皮卡丘、雷丘同屬於電鼠類寶可夢。",
+			"full_name": "embersee/morpeko",
+			"owner_name": "embersee",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/78863729?v=4",
+			"url": "https://github.com/embersee/morpeko",
+			"desc": null,
 			"lang": "TypeScript",
 			"stars": 0,
 			"watches": 0,
