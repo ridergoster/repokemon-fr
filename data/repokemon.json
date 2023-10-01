@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3062,
-			"watches": 3062,
-			"forks": 680
+			"stars": 3089,
+			"watches": 3089,
+			"forks": 684
 		}
 	},
 	{
@@ -506,8 +506,8 @@
 			"url": "https://github.com/rezkam/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 177,
-			"watches": 177,
+			"stars": 178,
+			"watches": 178,
 			"forks": 32
 		}
 	},
@@ -595,8 +595,8 @@
 			"url": "https://github.com/mozack/abra",
 			"desc": "Assembly Based ReAligner",
 			"lang": "Java",
-			"stars": 67,
-			"watches": 67,
+			"stars": 68,
+			"watches": 68,
 			"forks": 12
 		}
 	},
@@ -825,17 +825,17 @@
 		"name": "Magnéton",
 		"slug": "magneton",
 		"repo": {
-			"id": 64878762,
+			"id": 180017293,
 			"name": "magneton",
-			"full_name": "concretesolutions/magneton",
-			"owner_name": "concretesolutions",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/858781?v=4",
-			"url": "https://github.com/concretesolutions/magneton",
-			"desc": "A simple gem to generate all files needed in a project that will support Cucumber, SitePrism, Capybara and Selenium.",
-			"lang": "Ruby",
+			"full_name": "DaanVandenBosch/magneton",
+			"owner_name": "DaanVandenBosch",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/18369066?v=4",
+			"url": "https://github.com/DaanVandenBosch/magneton",
+			"desc": "Kotlin frontend framework inspired by React and MobX.",
+			"lang": "Kotlin",
 			"stars": 17,
 			"watches": 17,
-			"forks": 11
+			"forks": 0
 		}
 	},
 	{
@@ -887,8 +887,8 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1236,
-			"watches": 1236,
+			"stars": 1238,
+			"watches": 1238,
 			"forks": 52
 		}
 	},
@@ -930,8 +930,8 @@
 			"url": "https://github.com/crillab/crustabri",
 			"desc": "An argumentation framework library & solver.",
 			"lang": "Rust",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -953,9 +953,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10775,
-			"watches": 10775,
-			"forks": 1277
+			"stars": 10782,
+			"watches": 10782,
+			"forks": 1274
 		}
 	},
 	{
@@ -989,9 +989,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 520,
-			"watches": 520,
-			"forks": 106
+			"stars": 541,
+			"watches": 541,
+			"forks": 111
 		}
 	},
 	{
@@ -1017,9 +1017,9 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 286,
-			"watches": 286,
-			"forks": 20
+			"stars": 288,
+			"watches": 288,
+			"forks": 19
 		}
 	},
 	{
@@ -1045,9 +1045,9 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2091,
-			"watches": 2091,
-			"forks": 312
+			"stars": 2093,
+			"watches": 2093,
+			"forks": 314
 		}
 	},
 	{
@@ -1317,8 +1317,8 @@
 			"url": "https://github.com/victorb/metamorph",
 			"desc": "Self-editing GPT-4 application",
 			"lang": "JavaScript",
-			"stars": 67,
-			"watches": 67,
+			"stars": 68,
+			"watches": 68,
 			"forks": 1
 		}
 	},
@@ -1335,8 +1335,8 @@
 			"url": "https://github.com/amethyst/evoli",
 			"desc": "An ecosystem-simulation game made with Amethyst",
 			"lang": "Rust",
-			"stars": 214,
-			"watches": 214,
+			"stars": 213,
+			"watches": 213,
 			"forks": 33
 		}
 	},
@@ -1460,7 +1460,7 @@
 			"lang": "TypeScript",
 			"stars": 69,
 			"watches": 69,
-			"forks": 6
+			"forks": 7
 		}
 	},
 	{
@@ -1540,9 +1540,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 5862,
-			"watches": 5862,
-			"forks": 919
+			"stars": 5891,
+			"watches": 5891,
+			"forks": 920
 		}
 	},
 	{
@@ -1581,8 +1581,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1481,
-			"watches": 1481,
+			"stars": 1480,
+			"watches": 1480,
 			"forks": 29
 		}
 	},
@@ -1630,7 +1630,20 @@
 	{
 		"id": "155",
 		"name": "Héricendre",
-		"slug": "hericendre"
+		"slug": "hericendre",
+		"repo": {
+			"id": 677791770,
+			"name": "hericendre",
+			"full_name": "nplinden/hericendre",
+			"owner_name": "nplinden",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/57541749?v=4",
+			"url": "https://github.com/nplinden/hericendre",
+			"desc": null,
+			"lang": "Python",
+			"stars": 1,
+			"watches": 1,
+			"forks": 1
+		}
 	},
 	{
 		"id": "156",
@@ -1650,8 +1663,8 @@
 			"url": "https://github.com/cliffano/typhlosion",
 			"desc": "Random Pokémon stuffs with Little Godzilla",
 			"lang": null,
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -1772,14 +1785,14 @@
 		"name": "Loupio",
 		"slug": "loupio",
 		"repo": {
-			"id": 223810731,
+			"id": 695148349,
 			"name": "loupio",
-			"full_name": "loupio82/loupio",
-			"owner_name": "loupio82",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/58150383?v=4",
-			"url": "https://github.com/loupio82/loupio",
-			"desc": null,
-			"lang": null,
+			"full_name": "CyrilBouchut/loupio",
+			"owner_name": "CyrilBouchut",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/62898341?v=4",
+			"url": "https://github.com/CyrilBouchut/loupio",
+			"desc": "Outil pour l'école avec laravel",
+			"lang": "PHP",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -1816,8 +1829,8 @@
 			"url": "https://github.com/lumap/Pichu",
 			"desc": null,
 			"lang": "JavaScript",
-			"stars": 4,
-			"watches": 4,
+			"stars": 3,
+			"watches": 3,
 			"forks": 3
 		}
 	},
@@ -1834,8 +1847,8 @@
 			"url": "https://github.com/mistodon/melo",
 			"desc": "A music notation language and compiler to MIDI.",
 			"lang": "Rust",
-			"stars": 114,
-			"watches": 114,
+			"stars": 113,
+			"watches": 113,
 			"forks": 8
 		}
 	},
@@ -1911,9 +1924,9 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 31,
-			"watches": 31,
-			"forks": 3
+			"stars": 35,
+			"watches": 35,
+			"forks": 4
 		}
 	},
 	{
@@ -2384,9 +2397,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 348,
-			"watches": 348,
-			"forks": 30
+			"stars": 358,
+			"watches": 358,
+			"forks": 31
 		}
 	},
 	{
@@ -2591,8 +2604,8 @@
 			"url": "https://github.com/lugia-ysstech/lugia",
 			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
-			"stars": 464,
-			"watches": 464,
+			"stars": 463,
+			"watches": 463,
 			"forks": 55
 		}
 	},
@@ -2906,14 +2919,14 @@
 		"repo": {
 			"id": 337284161,
 			"name": "gardevoir",
-			"full_name": "krshoss/gardevoir",
-			"owner_name": "krshoss",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/122237139?v=4",
-			"url": "https://github.com/krshoss/gardevoir",
+			"full_name": "xkrishguptaa/gardevoir",
+			"owner_name": "xkrishguptaa",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/135469703?v=4",
+			"url": "https://github.com/xkrishguptaa/gardevoir",
 			"desc": "The Modern CSS Reset 🚀 (Formerly Reseter.css)",
 			"lang": "SCSS",
-			"stars": 1174,
-			"watches": 1174,
+			"stars": 1176,
+			"watches": 1176,
 			"forks": 90
 		}
 	},
@@ -3326,8 +3339,8 @@
 			"url": "https://github.com/nirewen/carvanha",
 			"desc": "A simple chat app written in Java using UDP packets",
 			"lang": "Java",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -3670,8 +3683,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 361,
-			"watches": 361,
+			"stars": 362,
+			"watches": 362,
 			"forks": 63
 		}
 	},
@@ -4017,8 +4030,8 @@
 			"url": "https://github.com/nexxeln/deoxys",
 			"desc": "deoxys is a fast and optimized link shortener",
 			"lang": "TypeScript",
-			"stars": 20,
-			"watches": 20,
+			"stars": 21,
+			"watches": 21,
 			"forks": 5
 		}
 	},
@@ -4083,14 +4096,14 @@
 		"name": "Tiplouf",
 		"slug": "tiplouf",
 		"repo": {
-			"id": 434582949,
-			"name": "Tiplouf",
-			"full_name": "Shishi42/Tiplouf",
-			"owner_name": "Shishi42",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/37541779?v=4",
-			"url": "https://github.com/Shishi42/Tiplouf",
-			"desc": "Shiny ✨Tiplouf✨Tracker",
-			"lang": "HTML",
+			"id": 694158635,
+			"name": "tiplouf",
+			"full_name": "Mudadaa/tiplouf",
+			"owner_name": "Mudadaa",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/95051643?v=4",
+			"url": "https://github.com/Mudadaa/tiplouf",
+			"desc": null,
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4216,8 +4229,8 @@
 			"url": "https://github.com/3096/luxray",
 			"desc": "an overlay utility for Pokémon on Nintendo Switch",
 			"lang": "C++",
-			"stars": 32,
-			"watches": 32,
+			"stars": 33,
+			"watches": 33,
 			"forks": 7
 		}
 	},
@@ -4561,8 +4574,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 772,
-			"watches": 772,
+			"stars": 773,
+			"watches": 773,
 			"forks": 77
 		}
 	},
@@ -6064,8 +6077,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Sparkling Android Web Browser⚡",
 			"lang": "Kotlin",
-			"stars": 309,
-			"watches": 309,
+			"stars": 326,
+			"watches": 326,
 			"forks": 37
 		}
 	},
@@ -6740,7 +6753,20 @@
 	{
 		"id": "722",
 		"name": "Brindibou",
-		"slug": "brindibou"
+		"slug": "brindibou",
+		"repo": {
+			"id": 694199563,
+			"name": "brindibou",
+			"full_name": "moulindavid/brindibou",
+			"owner_name": "moulindavid",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/22837832?v=4",
+			"url": "https://github.com/moulindavid/brindibou",
+			"desc": null,
+			"lang": "Java",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "723",
@@ -7300,8 +7326,8 @@
 			"url": "https://github.com/HelloZeroNet/ZeroID",
 			"desc": "ZeroNet authentication provider",
 			"lang": "CoffeeScript",
-			"stars": 41,
-			"watches": 41,
+			"stars": 42,
+			"watches": 42,
 			"forks": 26
 		}
 	},

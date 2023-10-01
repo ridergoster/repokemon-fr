@@ -1,3 +1,16 @@
+# Sun, 01 Oct 2023 01:05:48 GMT
+
+## Added: 2
+
+- nplinden/hericendre
+- moulindavid/brindibou
+
+## Changed: 3
+
+- concretesolutions/magneton → DaanVandenBosch/magneton
+- loupio82/loupio → CyrilBouchut/loupio
+- Shishi42/Tiplouf → Mudadaa/tiplouf
+
 # Fri, 15 Sep 2023 01:01:15 GMT
 
 ## Added: 1
