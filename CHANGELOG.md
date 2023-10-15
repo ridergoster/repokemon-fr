@@ -1,3 +1,14 @@
+# Sun, 15 Oct 2023 01:04:10 GMT
+
+## Added: 1
+
+- ladecadence/Vemini
+
+## Changed: 2
+
+- 2081/boustiflor → Quentin404/boustiflor
+- JosephPrichard/Kyurem → CTLi0128/Kyurem
+
 # Sun, 01 Oct 2023 01:05:48 GMT
 
 ## Added: 2
