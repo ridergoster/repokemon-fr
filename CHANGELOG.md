@@ -1,3 +1,15 @@
+# Wed, 01 Nov 2023 01:03:13 GMT
+
+## Removed: 1
+
+- simplicit-dev/geolithe
+
+## Changed: 3
+
+- Rit-Chakraborty/Rayquaza → KasarLabs/rayquaza
+- liuxian496/darkrai → hikaruy0804/Darkrai
+- embersee/morpeko → o-p/morpeko
+
 # Sun, 15 Oct 2023 01:04:10 GMT
 
 ## Added: 1
