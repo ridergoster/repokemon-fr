@@ -205,9 +205,9 @@
 			"url": "https://github.com/chistopher/arbok",
 			"desc": "Directed Spanning Trees",
 			"lang": "Jupyter Notebook",
-			"stars": 8,
-			"watches": 8,
-			"forks": 1
+			"stars": 9,
+			"watches": 9,
+			"forks": 2
 		}
 	},
 	{
@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3128,
-			"watches": 3128,
-			"forks": 684
+			"stars": 3148,
+			"watches": 3148,
+			"forks": 689
 		}
 	},
 	{
@@ -887,15 +887,28 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1239,
-			"watches": 1239,
+			"stars": 1240,
+			"watches": 1240,
 			"forks": 52
 		}
 	},
 	{
 		"id": "086",
 		"name": "Otaria",
-		"slug": "otaria"
+		"slug": "otaria",
+		"repo": {
+			"id": 715578063,
+			"name": "Otaria",
+			"full_name": "Bianca652/Otaria",
+			"owner_name": "Bianca652",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/127752863?v=4",
+			"url": "https://github.com/Bianca652/Otaria",
+			"desc": "Olha minha tia, da próxima vez que eu achar uma pagina do github sua aberta, vou criar 10 repositórios novos de pirraça.",
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "087",
@@ -989,9 +1002,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 570,
-			"watches": 570,
-			"forks": 114
+			"stars": 582,
+			"watches": 582,
+			"forks": 115
 		}
 	},
 	{
@@ -1017,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 293,
-			"watches": 293,
+			"stars": 296,
+			"watches": 296,
 			"forks": 20
 		}
 	},
@@ -1045,9 +1058,9 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2094,
-			"watches": 2094,
-			"forks": 314
+			"stars": 2092,
+			"watches": 2092,
+			"forks": 313
 		}
 	},
 	{
@@ -1317,8 +1330,8 @@
 			"url": "https://github.com/victorb/metamorph",
 			"desc": "Self-editing GPT-4 application",
 			"lang": "JavaScript",
-			"stars": 69,
-			"watches": 69,
+			"stars": 70,
+			"watches": 70,
 			"forks": 1
 		}
 	},
@@ -1540,9 +1553,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 5944,
-			"watches": 5944,
-			"forks": 927
+			"stars": 5954,
+			"watches": 5954,
+			"forks": 928
 		}
 	},
 	{
@@ -1847,8 +1860,8 @@
 			"url": "https://github.com/mistodon/melo",
 			"desc": "A music notation language and compiler to MIDI.",
 			"lang": "Rust",
-			"stars": 114,
-			"watches": 114,
+			"stars": 113,
+			"watches": 113,
 			"forks": 8
 		}
 	},
@@ -2178,8 +2191,8 @@
 			"url": "https://github.com/FL33TW00D/steelix",
 			"desc": "Your one stop CLI for ONNX model analysis.",
 			"lang": "Rust",
-			"stars": 31,
-			"watches": 31,
+			"stars": 32,
+			"watches": 32,
 			"forks": 2
 		}
 	},
@@ -2351,7 +2364,7 @@
 			"lang": "Go",
 			"stars": 181,
 			"watches": 181,
-			"forks": 29
+			"forks": 30
 		}
 	},
 	{
@@ -2397,9 +2410,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 429,
-			"watches": 429,
-			"forks": 42
+			"stars": 453,
+			"watches": 453,
+			"forks": 43
 		}
 	},
 	{
@@ -2925,8 +2938,8 @@
 			"url": "https://github.com/xkrishguptaa/gardevoir",
 			"desc": "The Modern CSS Reset 🚀 (Formerly Reseter.css)",
 			"lang": "SCSS",
-			"stars": 1187,
-			"watches": 1187,
+			"stars": 1192,
+			"watches": 1192,
 			"forks": 91
 		}
 	},
@@ -3683,9 +3696,9 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 366,
-			"watches": 366,
-			"forks": 63
+			"stars": 368,
+			"watches": 368,
+			"forks": 64
 		}
 	},
 	{
@@ -4229,8 +4242,8 @@
 			"url": "https://github.com/3096/luxray",
 			"desc": "an overlay utility for Pokémon on Nintendo Switch",
 			"lang": "C++",
-			"stars": 33,
-			"watches": 33,
+			"stars": 34,
+			"watches": 34,
 			"forks": 7
 		}
 	},
@@ -4414,14 +4427,14 @@
 		"name": "Lockpin",
 		"slug": "lockpin",
 		"repo": {
-			"id": 620674475,
-			"name": "LockPIN",
-			"full_name": "g-jiuyang/LockPIN",
-			"owner_name": "g-jiuyang",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/113672758?v=4",
-			"url": "https://github.com/g-jiuyang/LockPIN",
+			"id": 467833009,
+			"name": "LockPin",
+			"full_name": "Kimyoung-hyun/LockPin",
+			"owner_name": "Kimyoung-hyun",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/67143589?v=4",
+			"url": "https://github.com/Kimyoung-hyun/LockPin",
 			"desc": null,
-			"lang": "SCSS",
+			"lang": "JavaScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4574,8 +4587,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 775,
-			"watches": 775,
+			"stars": 779,
+			"watches": 779,
 			"forks": 77
 		}
 	},
@@ -5110,17 +5123,17 @@
 		"name": "Léopardus",
 		"slug": "leopardus",
 		"repo": {
-			"id": 420949760,
+			"id": 158317568,
 			"name": "leopardus",
-			"full_name": "jlescroart/leopardus",
-			"owner_name": "jlescroart",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/93121856?v=4",
-			"url": "https://github.com/jlescroart/leopardus",
-			"desc": "Scripts for phylogenomic research in the genus Leopardus.",
-			"lang": "Python",
-			"stars": 5,
-			"watches": 5,
-			"forks": 0
+			"full_name": "leopardus-net/leopardus",
+			"owner_name": "leopardus-net",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/44537948?v=4",
+			"url": "https://github.com/leopardus-net/leopardus",
+			"desc": "Open source, modular and multilanguage system based on Laravel. For the creation of personal or business web tools. ",
+			"lang": "CSS",
+			"stars": 2,
+			"watches": 2,
+			"forks": 1
 		}
 	},
 	{
@@ -6064,8 +6077,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 351,
-			"watches": 351,
+			"stars": 357,
+			"watches": 357,
 			"forks": 39
 		}
 	},
@@ -6518,14 +6531,14 @@
 		"name": "Amagara",
 		"slug": "amagara",
 		"repo": {
-			"id": 27825934,
+			"id": 716243941,
 			"name": "amagara",
-			"full_name": "surpass1/amagara",
-			"owner_name": "surpass1",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/3679143?v=4",
-			"url": "https://github.com/surpass1/amagara",
-			"desc": null,
-			"lang": "CSS",
+			"full_name": "juwiragiye/amagara",
+			"owner_name": "juwiragiye",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/81994413?v=4",
+			"url": "https://github.com/juwiragiye/amagara",
+			"desc": "Amagara Africa is a web-based AI assistant designed to provide vital medical information, advice, and assistance to communities that often lack access to healthcare resources. ",
+			"lang": "TypeScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -7387,8 +7400,8 @@
 			"url": "https://github.com/xsoma/necrozma",
 			"desc": "an internal rage cheat for cs:go, with javascript support. (thanks \"apologies\" <3)",
 			"lang": "C",
-			"stars": 5,
-			"watches": 5,
+			"stars": 4,
+			"watches": 4,
 			"forks": 1
 		}
 	},
@@ -7484,14 +7497,14 @@
 		"name": "Meltan",
 		"slug": "meltan",
 		"repo": {
-			"id": 161002068,
+			"id": 718470299,
 			"name": "meltan",
-			"full_name": "mudkipme/meltan",
-			"owner_name": "mudkipme",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/518069?v=4",
-			"url": "https://github.com/mudkipme/meltan",
-			"desc": "A collection of Dockerfiles for services running on 52Poké.",
-			"lang": "Shell",
+			"full_name": "leiddx/meltan",
+			"owner_name": "leiddx",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/2911470?v=4",
+			"url": "https://github.com/leiddx/meltan",
+			"desc": null,
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -7554,7 +7567,7 @@
 			"owner_avatar": "https://avatars.githubusercontent.com/u/34015840?v=4",
 			"url": "https://github.com/psmd-iberutaru/Lezargus",
 			"desc": "The accompanying data software package to the IRTF SPECTRE Spectrograph.",
-			"lang": "Jupyter Notebook",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0

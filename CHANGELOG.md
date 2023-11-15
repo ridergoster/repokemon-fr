@@ -1,3 +1,16 @@
+# Wed, 15 Nov 2023 01:02:47 GMT
+
+## Added: 1
+
+- Bianca652/Otaria
+
+## Changed: 4
+
+- g-jiuyang/LockPIN → Kimyoung-hyun/LockPin
+- jlescroart/leopardus → leopardus-net/leopardus
+- surpass1/amagara → juwiragiye/amagara
+- mudkipme/meltan → leiddx/meltan
+
 # Wed, 01 Nov 2023 01:03:13 GMT
 
 ## Removed: 1
