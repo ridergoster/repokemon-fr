@@ -205,8 +205,8 @@
 			"url": "https://github.com/chistopher/arbok",
 			"desc": "Directed Spanning Trees",
 			"lang": "Jupyter Notebook",
-			"stars": 9,
-			"watches": 9,
+			"stars": 10,
+			"watches": 10,
 			"forks": 2
 		}
 	},
@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3148,
-			"watches": 3148,
-			"forks": 689
+			"stars": 3172,
+			"watches": 3172,
+			"forks": 690
 		}
 	},
 	{
@@ -437,8 +437,8 @@
 			"url": "https://github.com/AvyFly/parasect",
 			"desc": "Parameter management tool for autopilots",
 			"lang": "Python",
-			"stars": 20,
-			"watches": 20,
+			"stars": 21,
+			"watches": 21,
 			"forks": 3
 		}
 	},
@@ -615,7 +615,7 @@
 			"lang": "Elixir",
 			"stars": 42,
 			"watches": 42,
-			"forks": 18
+			"forks": 19
 		}
 	},
 	{
@@ -966,9 +966,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10788,
-			"watches": 10788,
-			"forks": 1276
+			"stars": 10789,
+			"watches": 10789,
+			"forks": 1274
 		}
 	},
 	{
@@ -1002,9 +1002,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 582,
-			"watches": 582,
-			"forks": 115
+			"stars": 599,
+			"watches": 599,
+			"forks": 119
 		}
 	},
 	{
@@ -1030,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 296,
-			"watches": 296,
+			"stars": 297,
+			"watches": 297,
 			"forks": 20
 		}
 	},
@@ -1060,7 +1060,7 @@
 			"lang": "HTML",
 			"stars": 2092,
 			"watches": 2092,
-			"forks": 313
+			"forks": 312
 		}
 	},
 	{
@@ -1404,14 +1404,14 @@
 		"name": "Amonita",
 		"slug": "amonita",
 		"repo": {
-			"id": 275683435,
-			"name": "amonita",
-			"full_name": "juhnowski/amonita",
-			"owner_name": "juhnowski",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/2850471?v=4",
-			"url": "https://github.com/juhnowski/amonita",
-			"desc": "amonita startup",
-			"lang": "Kotlin",
+			"id": 724681156,
+			"name": "AMONITA",
+			"full_name": "TecnologiasVirtuales/AMONITA",
+			"owner_name": "TecnologiasVirtuales",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/135071557?v=4",
+			"url": "https://github.com/TecnologiasVirtuales/AMONITA",
+			"desc": null,
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -1499,14 +1499,14 @@
 		"name": "Artikodin",
 		"slug": "artikodin",
 		"repo": {
-			"id": 433167004,
+			"id": 722681750,
 			"name": "artikodin",
-			"full_name": "Naxi209/artikodin",
-			"owner_name": "Naxi209",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/95148884?v=4",
-			"url": "https://github.com/Naxi209/artikodin",
-			"desc": "Notre premier jeu 3D ",
-			"lang": null,
+			"full_name": "suric-at/artikodin",
+			"owner_name": "suric-at",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/151867586?v=4",
+			"url": "https://github.com/suric-at/artikodin",
+			"desc": "Freeze management through github actions",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -1553,9 +1553,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 5954,
-			"watches": 5954,
-			"forks": 928
+			"stars": 5981,
+			"watches": 5981,
+			"forks": 930
 		}
 	},
 	{
@@ -1594,8 +1594,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1480,
-			"watches": 1480,
+			"stars": 1481,
+			"watches": 1481,
 			"forks": 29
 		}
 	},
@@ -1824,8 +1824,8 @@
 			"url": "https://github.com/lanturn-defi/lanturn",
 			"desc": null,
 			"lang": "Python",
-			"stars": 5,
-			"watches": 5,
+			"stars": 6,
+			"watches": 6,
 			"forks": 2
 		}
 	},
@@ -1860,8 +1860,8 @@
 			"url": "https://github.com/mistodon/melo",
 			"desc": "A music notation language and compiler to MIDI.",
 			"lang": "Rust",
-			"stars": 113,
-			"watches": 113,
+			"stars": 112,
+			"watches": 112,
 			"forks": 8
 		}
 	},
@@ -1885,7 +1885,7 @@
 			"lang": "Python",
 			"stars": 23,
 			"watches": 23,
-			"forks": 1
+			"forks": 2
 		}
 	},
 	{
@@ -1919,8 +1919,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 195,
-			"watches": 195,
+			"stars": 196,
+			"watches": 196,
 			"forks": 6
 		}
 	},
@@ -1937,8 +1937,8 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 42,
-			"watches": 42,
+			"stars": 44,
+			"watches": 44,
 			"forks": 7
 		}
 	},
@@ -2191,8 +2191,8 @@
 			"url": "https://github.com/FL33TW00D/steelix",
 			"desc": "Your one stop CLI for ONNX model analysis.",
 			"lang": "Rust",
-			"stars": 32,
-			"watches": 32,
+			"stars": 34,
+			"watches": 34,
 			"forks": 2
 		}
 	},
@@ -2410,9 +2410,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 453,
-			"watches": 453,
-			"forks": 43
+			"stars": 473,
+			"watches": 473,
+			"forks": 45
 		}
 	},
 	{
@@ -2617,8 +2617,8 @@
 			"url": "https://github.com/lugia-ysstech/lugia",
 			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的��型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
-			"stars": 463,
-			"watches": 463,
+			"stars": 462,
+			"watches": 462,
 			"forks": 55
 		}
 	},
@@ -2930,17 +2930,17 @@
 		"name": "Gardevoir",
 		"slug": "gardevoir",
 		"repo": {
-			"id": 337284161,
+			"id": 673511491,
 			"name": "gardevoir",
-			"full_name": "xkrishguptaa/gardevoir",
-			"owner_name": "xkrishguptaa",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/135469703?v=4",
-			"url": "https://github.com/xkrishguptaa/gardevoir",
-			"desc": "The Modern CSS Reset 🚀 (Formerly Reseter.css)",
-			"lang": "SCSS",
-			"stars": 1192,
-			"watches": 1192,
-			"forks": 91
+			"full_name": "R0dn3yS/gardevoir",
+			"owner_name": "R0dn3yS",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/32163808?v=4",
+			"url": "https://github.com/R0dn3yS/gardevoir",
+			"desc": null,
+			"lang": "JavaScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
 		}
 	},
 	{
@@ -3101,14 +3101,14 @@
 		"name": "Azurill",
 		"slug": "azurill",
 		"repo": {
-			"id": 530037868,
-			"name": "azurill",
-			"full_name": "ArcNyxx/azurill",
-			"owner_name": "ArcNyxx",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/69222294?v=4",
-			"url": "https://github.com/ArcNyxx/azurill",
-			"desc": "init system",
-			"lang": "C",
+			"id": 724913632,
+			"name": "Azurill",
+			"full_name": "heyshizuna/Azurill",
+			"owner_name": "heyshizuna",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/130021106?v=4",
+			"url": "https://github.com/heyshizuna/Azurill",
+			"desc": null,
+			"lang": "HTML",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -3696,8 +3696,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 368,
-			"watches": 368,
+			"stars": 369,
+			"watches": 369,
 			"forks": 64
 		}
 	},
@@ -3935,8 +3935,8 @@
 			"url": "https://github.com/yjy910323/latias",
 			"desc": null,
 			"lang": "Dart",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -6002,7 +6002,7 @@
 			"lang": "Python",
 			"stars": 237,
 			"watches": 237,
-			"forks": 216
+			"forks": 215
 		}
 	},
 	{
@@ -6077,8 +6077,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 357,
-			"watches": 357,
+			"stars": 363,
+			"watches": 363,
 			"forks": 39
 		}
 	},
@@ -8750,17 +8750,17 @@
 		"name": "Yuyu",
 		"slug": "yuyu",
 		"repo": {
-			"id": 491752418,
+			"id": 662055705,
 			"name": "yuyu",
-			"full_name": "btechpt/yuyu",
-			"owner_name": "btechpt",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/10798058?v=4",
-			"url": "https://github.com/btechpt/yuyu",
+			"full_name": "Yang-Zhiqiang/yuyu",
+			"owner_name": "Yang-Zhiqiang",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/137146139?v=4",
+			"url": "https://github.com/Yang-Zhiqiang/yuyu",
 			"desc": null,
-			"lang": "Python",
-			"stars": 23,
-			"watches": 23,
-			"forks": 4
+			"lang": "Java",
+			"stars": 63,
+			"watches": 63,
+			"forks": 0
 		}
 	},
 	{

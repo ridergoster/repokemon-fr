@@ -1,3 +1,13 @@
+# Fri, 01 Dec 2023 01:04:58 GMT
+
+## Changed: 5
+
+- juhnowski/amonita → TecnologiasVirtuales/AMONITA
+- Naxi209/artikodin → suric-at/artikodin
+- xkrishguptaa/gardevoir → R0dn3yS/gardevoir
+- ArcNyxx/azurill → heyshizuna/Azurill
+- btechpt/yuyu → Yang-Zhiqiang/yuyu
+
 # Wed, 15 Nov 2023 01:02:47 GMT
 
 ## Added: 1
