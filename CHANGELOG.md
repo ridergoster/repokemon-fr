@@ -1,3 +1,20 @@
+# Fri, 15 Dec 2023 01:02:30 GMT
+
+## Added: 1
+
+- juliTorossian/Melmetal
+
+## Removed: 3
+
+- Vitagliano/Tauros
+- meew0/Mewtwo
+- hudangwei/hoopa
+
+## Changed: 2
+
+- hikaruy0804/Darkrai → avsd/darkrai
+- xsoma/necrozma → thedarksoull/necrozma
+
 # Fri, 01 Dec 2023 01:04:58 GMT
 
 ## Changed: 5

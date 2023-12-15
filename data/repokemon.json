@@ -205,8 +205,8 @@
 			"url": "https://github.com/chistopher/arbok",
 			"desc": "Directed Spanning Trees",
 			"lang": "Jupyter Notebook",
-			"stars": 10,
-			"watches": 10,
+			"stars": 11,
+			"watches": 11,
 			"forks": 2
 		}
 	},
@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3172,
-			"watches": 3172,
-			"forks": 690
+			"stars": 3198,
+			"watches": 3198,
+			"forks": 694
 		}
 	},
 	{
@@ -395,10 +395,10 @@
 		"repo": {
 			"id": 364161213,
 			"name": "Rafflesia",
-			"full_name": "TelepathicFart/Rafflesia",
-			"owner_name": "TelepathicFart",
+			"full_name": "Ssttuudd/Rafflesia",
+			"owner_name": "Ssttuudd",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/83614397?v=4",
-			"url": "https://github.com/TelepathicFart/Rafflesia",
+			"url": "https://github.com/Ssttuudd/Rafflesia",
 			"desc": "Bot for Lineage 2 Classic",
 			"lang": "C++",
 			"stars": 9,
@@ -508,7 +508,7 @@
 			"lang": "Python",
 			"stars": 180,
 			"watches": 180,
-			"forks": 31
+			"forks": 30
 		}
 	},
 	{
@@ -615,7 +615,7 @@
 			"lang": "Elixir",
 			"stars": 42,
 			"watches": 42,
-			"forks": 19
+			"forks": 20
 		}
 	},
 	{
@@ -966,9 +966,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10789,
-			"watches": 10789,
-			"forks": 1274
+			"stars": 10793,
+			"watches": 10793,
+			"forks": 1276
 		}
 	},
 	{
@@ -1002,9 +1002,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 599,
-			"watches": 599,
-			"forks": 119
+			"stars": 616,
+			"watches": 616,
+			"forks": 123
 		}
 	},
 	{
@@ -1030,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 297,
-			"watches": 297,
+			"stars": 298,
+			"watches": 298,
 			"forks": 20
 		}
 	},
@@ -1261,20 +1261,7 @@
 	{
 		"id": "128",
 		"name": "Tauros",
-		"slug": "tauros",
-		"repo": {
-			"id": 234802048,
-			"name": "Tauros",
-			"full_name": "Vitagliano/Tauros",
-			"owner_name": "Vitagliano",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/70867076?v=4",
-			"url": "https://github.com/Vitagliano/Tauros",
-			"desc": "Um bot para Discord com diversas funções e dashboard para configuração!",
-			"lang": "JavaScript",
-			"stars": 27,
-			"watches": 27,
-			"forks": 13
-		}
+		"slug": "tauros"
 	},
 	{
 		"id": "129",
@@ -1330,8 +1317,8 @@
 			"url": "https://github.com/victorb/metamorph",
 			"desc": "Self-editing GPT-4 application",
 			"lang": "JavaScript",
-			"stars": 70,
-			"watches": 70,
+			"stars": 71,
+			"watches": 71,
 			"forks": 1
 		}
 	},
@@ -1348,8 +1335,8 @@
 			"url": "https://github.com/amethyst/evoli",
 			"desc": "An ecosystem-simulation game made with Amethyst",
 			"lang": "Rust",
-			"stars": 214,
-			"watches": 214,
+			"stars": 215,
+			"watches": 215,
 			"forks": 33
 		}
 	},
@@ -1435,8 +1422,8 @@
 			"url": "https://github.com/kokimame/kabuto",
 			"desc": "日本株取引Bot開発 | freqtrade for Japanese stock trading",
 			"lang": "Python",
-			"stars": 3,
-			"watches": 3,
+			"stars": 4,
+			"watches": 4,
 			"forks": 2
 		}
 	},
@@ -1553,9 +1540,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 5981,
-			"watches": 5981,
-			"forks": 930
+			"stars": 6003,
+			"watches": 6003,
+			"forks": 932
 		}
 	},
 	{
@@ -1566,20 +1553,7 @@
 	{
 		"id": "150",
 		"name": "Mewtwo",
-		"slug": "mewtwo",
-		"repo": {
-			"id": 19748838,
-			"name": "Mewtwo",
-			"full_name": "meew0/Mewtwo",
-			"owner_name": "meew0",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/3662915?v=4",
-			"url": "https://github.com/meew0/Mewtwo",
-			"desc": "IRC bot using Java and JRuby",
-			"lang": "Java",
-			"stars": 4,
-			"watches": 4,
-			"forks": 2
-		}
+		"slug": "mewtwo"
 	},
 	{
 		"id": "151",
@@ -1594,8 +1568,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1481,
-			"watches": 1481,
+			"stars": 1486,
+			"watches": 1486,
 			"forks": 29
 		}
 	},
@@ -1824,9 +1798,9 @@
 			"url": "https://github.com/lanturn-defi/lanturn",
 			"desc": null,
 			"lang": "Python",
-			"stars": 6,
-			"watches": 6,
-			"forks": 2
+			"stars": 8,
+			"watches": 8,
+			"forks": 3
 		}
 	},
 	{
@@ -2362,8 +2336,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 181,
-			"watches": 181,
+			"stars": 182,
+			"watches": 182,
 			"forks": 30
 		}
 	},
@@ -2410,8 +2384,8 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 473,
-			"watches": 473,
+			"stars": 509,
+			"watches": 509,
 			"forks": 45
 		}
 	},
@@ -2615,10 +2589,10 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的��型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
-			"stars": 462,
-			"watches": 462,
+			"stars": 463,
+			"watches": 463,
 			"forks": 55
 		}
 	},
@@ -3038,7 +3012,7 @@
 			"owner_name": "ray1203",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/33153837?v=4",
 			"url": "https://github.com/ray1203/MunJa",
-			"desc": "개발자: 정재현 김진우 조성진 디자이너: 남주영 //선린톤 개발 게임",
+			"desc": "개발자: 정재현 김진우 조���진 디자이너: 남주영 //선린톤 개발 게임",
 			"lang": "C#",
 			"stars": 0,
 			"watches": 0,
@@ -3696,8 +3670,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 369,
-			"watches": 369,
+			"stars": 368,
+			"watches": 368,
 			"forks": 64
 		}
 	},
@@ -4587,8 +4561,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 779,
-			"watches": 779,
+			"stars": 780,
+			"watches": 780,
 			"forks": 77
 		}
 	},
@@ -4937,14 +4911,14 @@
 		"name": "Darkrai",
 		"slug": "darkrai",
 		"repo": {
-			"id": 708626647,
-			"name": "Darkrai",
-			"full_name": "hikaruy0804/Darkrai",
-			"owner_name": "hikaruy0804",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/88568970?v=4",
-			"url": "https://github.com/hikaruy0804/Darkrai",
-			"desc": null,
-			"lang": "HTML",
+			"id": 725909541,
+			"name": "darkrai",
+			"full_name": "avsd/darkrai",
+			"owner_name": "avsd",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/720283?v=4",
+			"url": "https://github.com/avsd/darkrai",
+			"desc": "3D-Printable model of Darkrai pokemon",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -6002,7 +5976,7 @@
 			"lang": "Python",
 			"stars": 237,
 			"watches": 237,
-			"forks": 215
+			"forks": 214
 		}
 	},
 	{
@@ -6077,9 +6051,9 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 363,
-			"watches": 363,
-			"forks": 39
+			"stars": 370,
+			"watches": 370,
+			"forks": 42
 		}
 	},
 	{
@@ -6717,20 +6691,7 @@
 	{
 		"id": "720",
 		"name": "Hoopa",
-		"slug": "hoopa",
-		"repo": {
-			"id": 59268910,
-			"name": "hoopa",
-			"full_name": "hudangwei/hoopa",
-			"owner_name": "hudangwei",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/14108985?v=4",
-			"url": "https://github.com/hudangwei/hoopa",
-			"desc": "springboot+jpa代码自动生成工具",
-			"lang": "Go",
-			"stars": 16,
-			"watches": 16,
-			"forks": 6
-		}
+		"slug": "hoopa"
 	},
 	{
 		"id": "721",
@@ -7392,17 +7353,17 @@
 		"name": "Necrozma",
 		"slug": "necrozma",
 		"repo": {
-			"id": 360646556,
+			"id": 394525353,
 			"name": "necrozma",
-			"full_name": "xsoma/necrozma",
-			"owner_name": "xsoma",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/73025329?v=4",
-			"url": "https://github.com/xsoma/necrozma",
-			"desc": "an internal rage cheat for cs:go, with javascript support. (thanks \"apologies\" <3)",
-			"lang": "C",
-			"stars": 4,
-			"watches": 4,
-			"forks": 1
+			"full_name": "thedarksoull/necrozma",
+			"owner_name": "thedarksoull",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/87683656?v=4",
+			"url": "https://github.com/thedarksoull/necrozma",
+			"desc": null,
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
 		}
 	},
 	{
@@ -7513,7 +7474,20 @@
 	{
 		"id": "809",
 		"name": "Melmetal",
-		"slug": "melmetal"
+		"slug": "melmetal",
+		"repo": {
+			"id": 550885613,
+			"name": "Melmetal",
+			"full_name": "juliTorossian/Melmetal",
+			"owner_name": "juliTorossian",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/72228363?v=4",
+			"url": "https://github.com/juliTorossian/Melmetal",
+			"desc": "Trabajo 2 para integracion tecnologica",
+			"lang": "JavaScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "810",
@@ -8758,8 +8732,8 @@
 			"url": "https://github.com/Yang-Zhiqiang/yuyu",
 			"desc": null,
 			"lang": "Java",
-			"stars": 63,
-			"watches": 63,
+			"stars": 67,
+			"watches": 67,
 			"forks": 0
 		}
 	},
