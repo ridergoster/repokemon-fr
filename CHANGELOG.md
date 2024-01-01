@@ -1,3 +1,24 @@
+# Mon, 01 Jan 2024 01:03:57 GMT
+
+## Added: 6
+
+- HassaneTEPA/Staross
+- Vitagliano/Tauros
+- meew0/Mewtwo
+- alissa-maria/nymphali
+- hudangwei/hoopa
+- azaraks/Miraidon
+
+## Changed: 7
+
+- Shobhit127/Leviator → X-R-G-B/Leviator
+- sekiri1/kirlia → soramon0/kirlia
+- shaima321/terhal → Haifabnf/Terhal
+- daishiman/manzAI → zainal99/manzai
+- scoob2016/Zoroark → frantjc/zoroark
+- CTLi0128/Kyurem → Amazing-lab/Kyurem
+- Nikolgr23/Oratoria → Maykon-JDS/oratoria
+
 # Fri, 15 Dec 2023 01:02:30 GMT
 
 ## Added: 1
