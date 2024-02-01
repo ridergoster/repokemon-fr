@@ -4229,7 +4229,7 @@
   },
   {
     "abilities": [
-      "Lumiattirance",
+      "Luminescence",
       "Médic Nature"
     ],
     "detailPageURL": "/fr/pokedex/stari",
@@ -4253,7 +4253,7 @@
   },
   {
     "abilities": [
-      "Lumiattirance",
+      "Luminescence",
       "Médic Nature"
     ],
     "detailPageURL": "/fr/pokedex/staross",
@@ -5898,7 +5898,7 @@
   {
     "abilities": [
       "Absorbe-Volt",
-      "Lumiattirance"
+      "Luminescence"
     ],
     "detailPageURL": "/fr/pokedex/loupio",
     "weight": 12,
@@ -5923,7 +5923,7 @@
   {
     "abilities": [
       "Absorbe-Volt",
-      "Lumiattirance"
+      "Luminescence"
     ],
     "detailPageURL": "/fr/pokedex/lanturn",
     "weight": 22.5,
@@ -10044,7 +10044,7 @@
   {
     "abilities": [
       "Essaim",
-      "Lumiattirance"
+      "Luminescence"
     ],
     "detailPageURL": "/fr/pokedex/muciole",
     "weight": 17.7,
@@ -15813,7 +15813,7 @@
   },
   {
     "abilities": [
-      "Lumiattirance",
+      "Luminescence",
       "Regard Vif"
     ],
     "detailPageURL": "/fr/pokedex/miradar",
@@ -23648,7 +23648,7 @@
   },
   {
     "abilities": [
-      "Lumiattirance",
+      "Luminescence",
       "Pose Spore"
     ],
     "detailPageURL": "/fr/pokedex/spododo",
@@ -23676,7 +23676,7 @@
   },
   {
     "abilities": [
-      "Lumiattirance",
+      "Luminescence",
       "Pose Spore"
     ],
     "detailPageURL": "/fr/pokedex/lampignon",
@@ -26639,6 +26639,52 @@
     "abilities": [
       "Armurouillée"
     ],
+    "detailPageURL": "/fr/pokedex/theffroi",
+    "weight": 0.2,
+    "weakness": [
+      "Spectre",
+      "Ténèbres"
+    ],
+    "number": "0854",
+    "height": 0.1,
+    "collectibles_slug": "sinistea",
+    "featured": "true",
+    "slug": "theffroi",
+    "name": "Théffroi",
+    "ThumbnailAltText": "Théffroi",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/854.png",
+    "id": 854,
+    "type": [
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Armurouillée"
+    ],
+    "detailPageURL": "/fr/pokedex/polthegeist",
+    "weight": 0.4,
+    "weakness": [
+      "Spectre",
+      "Ténèbres"
+    ],
+    "number": "0855",
+    "height": 0.2,
+    "collectibles_slug": "polteageist",
+    "featured": "true",
+    "slug": "polthegeist",
+    "name": "Polthégeist",
+    "ThumbnailAltText": "Polthégeist",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/855.png",
+    "id": 855,
+    "type": [
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Armurouillée"
+    ],
     "detailPageURL": "/fr/pokedex/polthegeist",
     "weight": 0.4,
     "weakness": [
@@ -28153,6 +28199,32 @@
     "type": [
       "bug",
       "rock"
+    ]
+  },
+  {
+    "abilities": [
+      "Œil Révélateur"
+    ],
+    "detailPageURL": "/fr/pokedex/ursaking",
+    "weight": 333,
+    "weakness": [
+      "Eau",
+      "Plante",
+      "Glace",
+      "Combat"
+    ],
+    "number": "0901",
+    "height": 2.7,
+    "collectibles_slug": "ursaluna",
+    "featured": "true",
+    "slug": "ursaking",
+    "name": "Ursaking",
+    "ThumbnailAltText": "Ursaking",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/901.png",
+    "id": 901,
+    "type": [
+      "ground",
+      "normal"
     ]
   },
   {
@@ -31262,6 +31334,572 @@
     "type": [
       "grass",
       "psychic"
+    ]
+  },
+  {
+    "abilities": [
+      "Gloutonnerie",
+      "Nectar Mielleux"
+    ],
+    "detailPageURL": "/fr/pokedex/pomdramour",
+    "weight": 4.4,
+    "weakness": [
+      "Vol",
+      "Glace",
+      "Dragon",
+      "Poison",
+      "Fée",
+      "Insecte"
+    ],
+    "number": "1011",
+    "height": 0.4,
+    "collectibles_slug": "dipplin",
+    "featured": "true",
+    "slug": "pomdramour",
+    "name": "Pomdramour",
+    "ThumbnailAltText": "Pomdramour",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1011.png",
+    "id": 1011,
+    "type": [
+      "grass",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Aux Petits Soins"
+    ],
+    "detailPageURL": "/fr/pokedex/poltchageist",
+    "weight": 1.1,
+    "weakness": [
+      "Spectre",
+      "Feu",
+      "Vol",
+      "Ténèbres",
+      "Glace"
+    ],
+    "number": "1012",
+    "height": 0.1,
+    "collectibles_slug": "poltchageist",
+    "featured": "true",
+    "slug": "poltchageist",
+    "name": "Poltchageist",
+    "ThumbnailAltText": "Poltchageist",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1012.png",
+    "id": 1012,
+    "type": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Aux Petits Soins"
+    ],
+    "detailPageURL": "/fr/pokedex/poltchageist",
+    "weight": 1.1,
+    "weakness": [
+      "Spectre",
+      "Feu",
+      "Vol",
+      "Ténèbres",
+      "Glace"
+    ],
+    "number": "1012",
+    "height": 0.1,
+    "collectibles_slug": "poltchageist",
+    "featured": "true",
+    "slug": "poltchageist",
+    "name": "Poltchageist",
+    "ThumbnailAltText": "Poltchageist",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1012.png",
+    "id": 1012,
+    "type": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Aux Petits Soins"
+    ],
+    "detailPageURL": "/fr/pokedex/theffroyable",
+    "weight": 2.2,
+    "weakness": [
+      "Spectre",
+      "Feu",
+      "Vol",
+      "Ténèbres",
+      "Glace"
+    ],
+    "number": "1013",
+    "height": 0.2,
+    "collectibles_slug": "sinistcha",
+    "featured": "true",
+    "slug": "theffroyable",
+    "name": "Théffroyable",
+    "ThumbnailAltText": "Théffroyable",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1013.png",
+    "id": 1013,
+    "type": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Aux Petits Soins"
+    ],
+    "detailPageURL": "/fr/pokedex/theffroyable",
+    "weight": 2.2,
+    "weakness": [
+      "Spectre",
+      "Feu",
+      "Vol",
+      "Ténèbres",
+      "Glace"
+    ],
+    "number": "1013",
+    "height": 0.2,
+    "collectibles_slug": "sinistcha",
+    "featured": "true",
+    "slug": "theffroyable",
+    "name": "Théffroyable",
+    "ThumbnailAltText": "Théffroyable",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1013.png",
+    "id": 1013,
+    "type": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Chaîne Toxique"
+    ],
+    "detailPageURL": "/fr/pokedex/felicanis",
+    "weight": 92.2,
+    "weakness": [
+      "Psy",
+      "Vol",
+      "Sol"
+    ],
+    "number": "1014",
+    "height": 1.8,
+    "collectibles_slug": "okidogi",
+    "featured": "true",
+    "slug": "felicanis",
+    "name": "Félicanis",
+    "ThumbnailAltText": "Félicanis",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1014.png",
+    "id": 1014,
+    "type": [
+      "poison",
+      "fighting"
+    ]
+  },
+  {
+    "abilities": [
+      "Chaîne Toxique"
+    ],
+    "detailPageURL": "/fr/pokedex/fortusimia",
+    "weight": 12.2,
+    "weakness": [
+      "Spectre",
+      "Ténèbres",
+      "Sol"
+    ],
+    "number": "1015",
+    "height": 1,
+    "collectibles_slug": "munkidori",
+    "featured": "true",
+    "slug": "fortusimia",
+    "name": "Fortusimia",
+    "ThumbnailAltText": "Fortusimia",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1015.png",
+    "id": 1015,
+    "type": [
+      "poison",
+      "psychic"
+    ]
+  },
+  {
+    "abilities": [
+      "Chaîne Toxique"
+    ],
+    "detailPageURL": "/fr/pokedex/favianos",
+    "weight": 30.1,
+    "weakness": [
+      "Acier",
+      "Psy",
+      "Sol"
+    ],
+    "number": "1016",
+    "height": 1.4,
+    "collectibles_slug": "fezandipiti",
+    "featured": "true",
+    "slug": "favianos",
+    "name": "Favianos",
+    "ThumbnailAltText": "Favianos",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1016.png",
+    "id": 1016,
+    "type": [
+      "poison",
+      "fairy"
+    ]
+  },
+  {
+    "abilities": [
+      "Fermeté"
+    ],
+    "detailPageURL": "/fr/pokedex/ogerpon",
+    "weight": 39.8,
+    "weakness": [
+      "Acier",
+      "Glace",
+      "Combat",
+      "Insecte"
+    ],
+    "number": "1017",
+    "height": 1.2,
+    "collectibles_slug": "ogerpon",
+    "featured": "true",
+    "slug": "ogerpon",
+    "name": "Ogerpon",
+    "ThumbnailAltText": "Ogerpon",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1017.png",
+    "id": 1017,
+    "type": [
+      "grass",
+      "rock"
+    ]
+  },
+  {
+    "abilities": [
+      "Brise Moule"
+    ],
+    "detailPageURL": "/fr/pokedex/ogerpon",
+    "weight": 39.8,
+    "weakness": [
+      "Vol",
+      "Poison",
+      "Roche"
+    ],
+    "number": "1017",
+    "height": 1.2,
+    "collectibles_slug": "ogerpon",
+    "featured": "true",
+    "slug": "ogerpon",
+    "name": "Ogerpon",
+    "ThumbnailAltText": "Ogerpon",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1017.png",
+    "id": 1017,
+    "type": [
+      "grass",
+      "fire"
+    ]
+  },
+  {
+    "abilities": [
+      "Absorbe-Eau"
+    ],
+    "detailPageURL": "/fr/pokedex/ogerpon",
+    "weight": 39.8,
+    "weakness": [
+      "Vol",
+      "Insecte",
+      "Poison"
+    ],
+    "number": "1017",
+    "height": 1.2,
+    "collectibles_slug": "ogerpon",
+    "featured": "true",
+    "slug": "ogerpon",
+    "name": "Ogerpon",
+    "ThumbnailAltText": "Ogerpon",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1017.png",
+    "id": 1017,
+    "type": [
+      "grass",
+      "water"
+    ]
+  },
+  {
+    "abilities": [
+      "Acharné"
+    ],
+    "detailPageURL": "/fr/pokedex/ogerpon",
+    "weight": 39.8,
+    "weakness": [
+      "Feu",
+      "Vol",
+      "Glace",
+      "Poison",
+      "Insecte"
+    ],
+    "number": "1017",
+    "height": 1.2,
+    "collectibles_slug": "ogerpon",
+    "featured": "true",
+    "slug": "ogerpon",
+    "name": "Ogerpon",
+    "ThumbnailAltText": "Ogerpon",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1017.png",
+    "id": 1017,
+    "type": [
+      "grass"
+    ]
+  },
+  {
+    "abilities": [
+      "Endurance",
+      "Fermeté"
+    ],
+    "detailPageURL": "/fr/pokedex/pondralugon",
+    "weight": 60,
+    "weakness": [
+      "Combat",
+      "Sol"
+    ],
+    "number": "1018",
+    "height": 2,
+    "collectibles_slug": "archaludon",
+    "featured": "true",
+    "slug": "pondralugon",
+    "name": "Pondralugon",
+    "ThumbnailAltText": "Pondralugon",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1018.png",
+    "id": 1018,
+    "type": [
+      "steel",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Nectar Mielleux",
+      "Régé-Force"
+    ],
+    "detailPageURL": "/fr/pokedex/pomdorochi",
+    "weight": 93,
+    "weakness": [
+      "Vol",
+      "Glace",
+      "Dragon",
+      "Poison",
+      "Fée",
+      "Insecte"
+    ],
+    "number": "1019",
+    "height": 1.8,
+    "collectibles_slug": "hydrapple",
+    "featured": "true",
+    "slug": "pomdorochi",
+    "name": "Pomdorochi",
+    "ThumbnailAltText": "Pomdorochi",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1019.png",
+    "id": 1019,
+    "type": [
+      "grass",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Paléosynthèse"
+    ],
+    "detailPageURL": "/fr/pokedex/feu-percant",
+    "weight": 590,
+    "weakness": [
+      "Sol",
+      "Roche",
+      "Dragon"
+    ],
+    "number": "1020",
+    "height": 3.5,
+    "collectibles_slug": "gouging-fire",
+    "featured": "true",
+    "slug": "feu-percant",
+    "name": "Feu-Perçant",
+    "ThumbnailAltText": "Feu-Perçant",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1020.png",
+    "id": 1020,
+    "type": [
+      "fire",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Paléosynthèse"
+    ],
+    "detailPageURL": "/fr/pokedex/ire-foudre",
+    "weight": 480,
+    "weakness": [
+      "Fée",
+      "Sol",
+      "Glace",
+      "Dragon"
+    ],
+    "number": "1021",
+    "height": 5.2,
+    "collectibles_slug": "raging-bolt",
+    "featured": "true",
+    "slug": "ire-foudre",
+    "name": "Ire-Foudre",
+    "ThumbnailAltText": "Ire-Foudre",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1021.png",
+    "id": 1021,
+    "type": [
+      "electric",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Charge Quantique"
+    ],
+    "detailPageURL": "/fr/pokedex/roc-de-fer",
+    "weight": 162.5,
+    "weakness": [
+      "Acier",
+      "Spectre",
+      "Eau",
+      "Ténèbres",
+      "Plante",
+      "Insecte",
+      "Sol"
+    ],
+    "number": "1022",
+    "height": 1.5,
+    "collectibles_slug": "iron-boulder",
+    "featured": "true",
+    "slug": "roc-de-fer",
+    "name": "Roc-de-Fer",
+    "ThumbnailAltText": "Roc-de-Fer",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1022.png",
+    "id": 1022,
+    "type": [
+      "rock",
+      "psychic"
+    ]
+  },
+  {
+    "abilities": [
+      "Charge Quantique"
+    ],
+    "detailPageURL": "/fr/pokedex/chef-de-fer",
+    "weight": 156,
+    "weakness": [
+      "Spectre",
+      "Feu",
+      "Ténèbres",
+      "Sol"
+    ],
+    "number": "1023",
+    "height": 1.6,
+    "collectibles_slug": "iron-crown",
+    "featured": "true",
+    "slug": "chef-de-fer",
+    "name": "Chef-de-Fer",
+    "ThumbnailAltText": "Chef-de-Fer",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1023.png",
+    "id": 1023,
+    "type": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "abilities": [
+      "Téraformation 0"
+    ],
+    "detailPageURL": "/fr/pokedex/terapagos",
+    "weight": 77,
+    "weakness": [
+      "Combat"
+    ],
+    "number": "1024",
+    "height": 1.7,
+    "collectibles_slug": "terapagos",
+    "featured": "true",
+    "slug": "terapagos",
+    "name": "Terapagos",
+    "ThumbnailAltText": "Terapagos",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1024.png",
+    "id": 1024,
+    "type": [
+      "normal"
+    ]
+  },
+  {
+    "abilities": [
+      "Téra-Carapace"
+    ],
+    "detailPageURL": "/fr/pokedex/terapagos",
+    "weight": 16,
+    "weakness": [
+      "Combat"
+    ],
+    "number": "1024",
+    "height": 0.3,
+    "collectibles_slug": "terapagos",
+    "featured": "true",
+    "slug": "terapagos",
+    "name": "Terapagos",
+    "ThumbnailAltText": "Terapagos",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1024.png",
+    "id": 1024,
+    "type": [
+      "normal"
+    ]
+  },
+  {
+    "abilities": [
+      "Téramorphose"
+    ],
+    "detailPageURL": "/fr/pokedex/terapagos",
+    "weight": 6.5,
+    "weakness": [
+      "Combat"
+    ],
+    "number": "1024",
+    "height": 0.2,
+    "collectibles_slug": "terapagos",
+    "featured": "true",
+    "slug": "terapagos",
+    "name": "Terapagos",
+    "ThumbnailAltText": "Terapagos",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1024.png",
+    "id": 1024,
+    "type": [
+      "normal"
+    ]
+  },
+  {
+    "abilities": [
+      "Emprise Toxique"
+    ],
+    "detailPageURL": "/fr/pokedex/pechaminus",
+    "weight": 0.3,
+    "weakness": [
+      "Spectre",
+      "Ténèbres",
+      "Psy",
+      "Sol"
+    ],
+    "number": "1025",
+    "height": 0.3,
+    "collectibles_slug": "pecharunt",
+    "featured": "true",
+    "slug": "pechaminus",
+    "name": "Pêchaminus",
+    "ThumbnailAltText": "Pêchaminus",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1025.png",
+    "id": 1025,
+    "type": [
+      "poison",
+      "ghost"
     ]
   }
 ]

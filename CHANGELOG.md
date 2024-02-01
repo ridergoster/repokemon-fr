@@ -1,3 +1,39 @@
+# Thu, 01 Feb 2024 01:04:39 GMT
+
+## New pokemons: 15
+
+- Pomdramour
+- Poltchageist
+- Théffroyable
+- Félicanis
+- Fortusimia
+- Favianos
+- Ogerpon
+- Pondralugon
+- Pomdorochi
+- Feu-Perçant
+- Ire-Foudre
+- Roc-de-Fer
+- Chef-de-Fer
+- Terapagos
+- Pêchaminus
+
+## Removed: 3
+
+- LouisDhs/Canarticho
+- KSuzukiSakuratechJp/miRadar
+- ropensci/tic
+
+## Changed: 7
+
+- rivalinternet/magmar → cran/magmaR
+- victorb/metamorph → agrimgupta92/metamorph
+- lumap/Pichu → umangrmehta/pichu
+- TraceEntertains/wailmer → JauntyJames/wailmer
+- Swyreee/Lilia → Lilia-Framework/Lilia
+- Al-Munther/terhal → LujainAlaydie1/Terhal
+- avsd/darkrai → karan-2006/Darkrai
+
 # Mon, 15 Jan 2024 01:04:57 GMT
 
 ## Added: 1
