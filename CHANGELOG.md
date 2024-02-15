@@ -1,3 +1,15 @@
+# Thu, 15 Feb 2024 01:00:29 GMT
+
+## Added: 1
+
+- nadia-data/felicanis
+
+## Changed: 3
+
+- Chadi-k/galekid → Malbul0/galekid
+- Oraika12/okeoke → bacong168/okeoke
+- Maykon-JDS/oratoria → Nikolgr23/Oratoria
+
 # Thu, 01 Feb 2024 01:04:39 GMT
 
 ## New pokemons: 15
