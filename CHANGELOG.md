@@ -1,3 +1,16 @@
+# Fri, 01 Mar 2024 01:06:16 GMT
+
+## Removed: 1
+
+- lilianbaz/Laggron
+
+## Changed: 4
+
+- Kiarida/Bulbizarre → SvenFrankson/bulbizarre
+- JauntyJames/wailmer → evgeniyp92/wailmer
+- Nikolgr23/Oratoria → BIBLIASYESTUDIOS/oratoria
+- thedarksoull/necrozma → legendaryabhi/necrozma
+
 # Thu, 15 Feb 2024 01:00:29 GMT
 
 ## Added: 1
