@@ -1,3 +1,24 @@
+# Fri, 15 Mar 2024 01:03:08 GMT
+
+## Added: 2
+
+- frontenddev344/Tarsal
+- Bonsoir9729/Yanmega
+
+## Removed: 3
+
+- BreisOne/Galegon
+- sclzjqaq/gallame
+- alissa-maria/nymphali
+
+## Changed: 5
+
+- heyshizuna/Azurill → internEVbiotech/Azurill
+- bacong168/okeoke → Ihab2605/okeoke
+- nexxeln/deoxys → KasarLabs/deoxys
+- deemoe404/Phyllali → Nymphadelle/Phyllali
+- karan-2006/Darkrai → SayuriOya/Darkrai
+
 # Fri, 01 Mar 2024 01:06:16 GMT
 
 ## Removed: 1

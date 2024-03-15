@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3301,
-			"watches": 3301,
-			"forks": 702
+			"stars": 3332,
+			"watches": 3332,
+			"forks": 708
 		}
 	},
 	{
@@ -437,8 +437,8 @@
 			"url": "https://github.com/AvyFly/parasect",
 			"desc": "Parameter management tool for autopilots",
 			"lang": "Python",
-			"stars": 21,
-			"watches": 21,
+			"stars": 23,
+			"watches": 23,
 			"forks": 4
 		}
 	},
@@ -506,8 +506,8 @@
 			"url": "https://github.com/rezkam/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 184,
-			"watches": 184,
+			"stars": 185,
+			"watches": 185,
 			"forks": 30
 		}
 	},
@@ -953,9 +953,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10794,
-			"watches": 10794,
-			"forks": 1221
+			"stars": 10798,
+			"watches": 10798,
+			"forks": 1218
 		}
 	},
 	{
@@ -989,9 +989,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 645,
-			"watches": 645,
-			"forks": 128
+			"stars": 666,
+			"watches": 666,
+			"forks": 130
 		}
 	},
 	{
@@ -1017,8 +1017,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 301,
-			"watches": 301,
+			"stars": 300,
+			"watches": 300,
 			"forks": 20
 		}
 	},
@@ -1045,9 +1045,9 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2097,
-			"watches": 2097,
-			"forks": 314
+			"stars": 2100,
+			"watches": 2100,
+			"forks": 301
 		}
 	},
 	{
@@ -1330,9 +1330,9 @@
 			"url": "https://github.com/agrimgupta92/metamorph",
 			"desc": "Code for \"MetaMorph: Learning Universal Controllers with Transformers\", Gupta et al, ICLR 2022",
 			"lang": "Python",
-			"stars": 88,
-			"watches": 88,
-			"forks": 14
+			"stars": 89,
+			"watches": 89,
+			"forks": 15
 		}
 	},
 	{
@@ -1369,7 +1369,7 @@
 			"owner_name": "mili-tan",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/24996957?v=4",
 			"url": "https://github.com/mili-tan/Voltali",
-			"desc": "网页远程���载器",
+			"desc": "网页远程下载器",
 			"lang": "C#",
 			"stars": 0,
 			"watches": 0,
@@ -1553,9 +1553,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6144,
-			"watches": 6144,
-			"forks": 917
+			"stars": 6169,
+			"watches": 6169,
+			"forks": 922
 		}
 	},
 	{
@@ -1594,8 +1594,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1488,
-			"watches": 1488,
+			"stars": 1490,
+			"watches": 1490,
 			"forks": 29
 		}
 	},
@@ -1860,8 +1860,8 @@
 			"url": "https://github.com/mistodon/melo",
 			"desc": "A music notation language and compiler to MIDI.",
 			"lang": "Rust",
-			"stars": 113,
-			"watches": 113,
+			"stars": 114,
+			"watches": 114,
 			"forks": 8
 		}
 	},
@@ -1937,8 +1937,8 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 53,
-			"watches": 53,
+			"stars": 60,
+			"watches": 60,
 			"forks": 7
 		}
 	},
@@ -2191,9 +2191,9 @@
 			"url": "https://github.com/FL33TW00D/steelix",
 			"desc": "Your one stop CLI for ONNX model analysis.",
 			"lang": "Rust",
-			"stars": 36,
-			"watches": 36,
-			"forks": 2
+			"stars": 41,
+			"watches": 41,
+			"forks": 3
 		}
 	},
 	{
@@ -2362,8 +2362,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 185,
-			"watches": 185,
+			"stars": 187,
+			"watches": 187,
 			"forks": 30
 		}
 	},
@@ -2410,9 +2410,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 669,
-			"watches": 669,
-			"forks": 59
+			"stars": 709,
+			"watches": 709,
+			"forks": 64
 		}
 	},
 	{
@@ -2615,7 +2615,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的���型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 462,
 			"watches": 462,
@@ -2892,7 +2892,20 @@
 	{
 		"id": "280",
 		"name": "Tarsal",
-		"slug": "tarsal"
+		"slug": "tarsal",
+		"repo": {
+			"id": 766778703,
+			"name": "Tarsal",
+			"full_name": "frontenddev344/Tarsal",
+			"owner_name": "frontenddev344",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/141622370?v=4",
+			"url": "https://github.com/frontenddev344/Tarsal",
+			"desc": null,
+			"lang": "HTML",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "281",
@@ -3088,14 +3101,14 @@
 		"name": "Azurill",
 		"slug": "azurill",
 		"repo": {
-			"id": 724913632,
+			"id": 553592515,
 			"name": "Azurill",
-			"full_name": "heyshizuna/Azurill",
-			"owner_name": "heyshizuna",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/130021106?v=4",
-			"url": "https://github.com/heyshizuna/Azurill",
+			"full_name": "internEVbiotech/Azurill",
+			"owner_name": "internEVbiotech",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/79700800?v=4",
+			"url": "https://github.com/internEVbiotech/Azurill",
 			"desc": null,
-			"lang": "HTML",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -3186,20 +3199,7 @@
 	{
 		"id": "305",
 		"name": "Galegon",
-		"slug": "galegon",
-		"repo": {
-			"id": 275342861,
-			"name": "Galegon",
-			"full_name": "BreisOne/Galegon",
-			"owner_name": "BreisOne",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/43313385?v=4",
-			"url": "https://github.com/BreisOne/Galegon",
-			"desc": "Plataforma pensada para desarrollar el comercio local en Galicia. ",
-			"lang": null,
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "galegon"
 	},
 	{
 		"id": "306",
@@ -3598,10 +3598,10 @@
 		"repo": {
 			"id": 625374086,
 			"name": "Lilia",
-			"full_name": "Lilia-Framework/Lilia",
-			"owner_name": "Lilia-Framework",
+			"full_name": "LiliaFramework/Lilia",
+			"owner_name": "LiliaFramework",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/148652302?v=4",
-			"url": "https://github.com/Lilia-Framework/Lilia",
+			"url": "https://github.com/LiliaFramework/Lilia",
 			"desc": null,
 			"lang": "Lua",
 			"stars": 11,
@@ -3683,8 +3683,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 370,
-			"watches": 370,
+			"stars": 371,
+			"watches": 371,
 			"forks": 64
 		}
 	},
@@ -3749,14 +3749,14 @@
 		"name": "Okéoké",
 		"slug": "okeoke",
 		"repo": {
-			"id": 757537490,
+			"id": 765665540,
 			"name": "okeoke",
-			"full_name": "bacong168/okeoke",
-			"owner_name": "bacong168",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/87520627?v=4",
-			"url": "https://github.com/bacong168/okeoke",
+			"full_name": "Ihab2605/okeoke",
+			"owner_name": "Ihab2605",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/92377783?v=4",
+			"url": "https://github.com/Ihab2605/okeoke",
 			"desc": null,
-			"lang": "HTML",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4022,17 +4022,17 @@
 		"name": "Deoxys",
 		"slug": "deoxys",
 		"repo": {
-			"id": 496209141,
+			"id": 766921853,
 			"name": "deoxys",
-			"full_name": "nexxeln/deoxys",
-			"owner_name": "nexxeln",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/95541290?v=4",
-			"url": "https://github.com/nexxeln/deoxys",
-			"desc": "deoxys is a fast and optimized link shortener",
-			"lang": "TypeScript",
-			"stars": 21,
-			"watches": 21,
-			"forks": 5
+			"full_name": "KasarLabs/deoxys",
+			"owner_name": "KasarLabs",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/119948009?v=4",
+			"url": "https://github.com/KasarLabs/deoxys",
+			"desc": "Deoxys 👽 is a powerfull Starknet full node client written in Rust 🦀 and powered by Substrate from @kasarLabs.",
+			"lang": "Rust",
+			"stars": 29,
+			"watches": 29,
+			"forks": 6
 		}
 	},
 	{
@@ -4556,8 +4556,8 @@
 			"url": "https://github.com/chunibyo-wly/Riolu",
 			"desc": "Idiom Triple Game 成语消消乐（仿造《英雄三国》汉语游戏）",
 			"lang": "JavaScript",
-			"stars": 3,
-			"watches": 3,
+			"stars": 4,
+			"watches": 4,
 			"forks": 0
 		}
 	},
@@ -4574,9 +4574,9 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 788,
-			"watches": 788,
-			"forks": 77
+			"stars": 787,
+			"watches": 787,
+			"forks": 73
 		}
 	},
 	{
@@ -4708,23 +4708,36 @@
 	{
 		"id": "469",
 		"name": "Yanmega",
-		"slug": "yanmega"
+		"slug": "yanmega",
+		"repo": {
+			"id": 767375503,
+			"name": "Yanmega",
+			"full_name": "Bonsoir9729/Yanmega",
+			"owner_name": "Bonsoir9729",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/147716517?v=4",
+			"url": "https://github.com/Bonsoir9729/Yanmega",
+			"desc": "Discord bot for ranking system in the 35 mons server",
+			"lang": "Python",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "470",
 		"name": "Phyllali",
 		"slug": "phyllali",
 		"repo": {
-			"id": 404790254,
+			"id": 14758806,
 			"name": "Phyllali",
-			"full_name": "deemoe404/Phyllali",
-			"owner_name": "deemoe404",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/90408077?v=4",
-			"url": "https://github.com/deemoe404/Phyllali",
-			"desc": "Config files for my GitHub profile.",
-			"lang": null,
-			"stars": 1,
-			"watches": 1,
+			"full_name": "Nymphadelle/Phyllali",
+			"owner_name": "Nymphadelle",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/6053526?v=4",
+			"url": "https://github.com/Nymphadelle/Phyllali",
+			"desc": null,
+			"lang": "PHP",
+			"stars": 0,
+			"watches": 0,
 			"forks": 0
 		}
 	},
@@ -4764,20 +4777,7 @@
 	{
 		"id": "475",
 		"name": "Gallame",
-		"slug": "gallame",
-		"repo": {
-			"id": 742560853,
-			"name": "gallame",
-			"full_name": "sclzjqaq/gallame",
-			"owner_name": "sclzjqaq",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/155479402?v=4",
-			"url": "https://github.com/sclzjqaq/gallame",
-			"desc": null,
-			"lang": "C++",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "gallame"
 	},
 	{
 		"id": "476",
@@ -4937,13 +4937,13 @@
 		"name": "Darkrai",
 		"slug": "darkrai",
 		"repo": {
-			"id": 747210881,
+			"id": 762246298,
 			"name": "Darkrai",
-			"full_name": "karan-2006/Darkrai",
-			"owner_name": "karan-2006",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/113700150?v=4",
-			"url": "https://github.com/karan-2006/Darkrai",
-			"desc": "This is my first repository ",
+			"full_name": "SayuriOya/Darkrai",
+			"owner_name": "SayuriOya",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/111282147?v=4",
+			"url": "https://github.com/SayuriOya/Darkrai",
+			"desc": null,
 			"lang": "HTML",
 			"stars": 0,
 			"watches": 0,
@@ -5976,7 +5976,7 @@
 			"lang": "Python",
 			"stars": 237,
 			"watches": 237,
-			"forks": 214
+			"forks": 211
 		}
 	},
 	{
@@ -6051,8 +6051,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 402,
-			"watches": 402,
+			"stars": 405,
+			"watches": 405,
 			"forks": 44
 		}
 	},
@@ -6526,20 +6526,7 @@
 	{
 		"id": "700",
 		"name": "Nymphali",
-		"slug": "nymphali",
-		"repo": {
-			"id": 732125496,
-			"name": "nymphali",
-			"full_name": "alissa-maria/nymphali",
-			"owner_name": "alissa-maria",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/62930577?v=4",
-			"url": "https://github.com/alissa-maria/nymphali",
-			"desc": "Tech blog 📝",
-			"lang": "CSS",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "nymphali"
 	},
 	{
 		"id": "701",
