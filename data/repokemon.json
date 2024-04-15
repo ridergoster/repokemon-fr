@@ -96,14 +96,14 @@
 		"name": "Tortank",
 		"slug": "tortank",
 		"repo": {
-			"id": 683028039,
-			"name": "tortank",
-			"full_name": "nbittich/tortank",
-			"owner_name": "nbittich",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/3816305?v=4",
-			"url": "https://github.com/nbittich/tortank",
-			"desc": "Turtle parser",
-			"lang": "Rust",
+			"id": 783317938,
+			"name": "Tortank",
+			"full_name": "Charlieflair24/Tortank",
+			"owner_name": "Charlieflair24",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/127779009?v=4",
+			"url": "https://github.com/Charlieflair24/Tortank",
+			"desc": "tea protocol",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3372,
-			"watches": 3372,
-			"forks": 711
+			"stars": 3403,
+			"watches": 3403,
+			"forks": 712
 		}
 	},
 	{
@@ -473,7 +473,20 @@
 	{
 		"id": "051",
 		"name": "Triopikeur",
-		"slug": "triopikeur"
+		"slug": "triopikeur",
+		"repo": {
+			"id": 781969108,
+			"name": "Triopikeur",
+			"full_name": "AmonKm/Triopikeur",
+			"owner_name": "AmonKm",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/166015459?v=4",
+			"url": "https://github.com/AmonKm/Triopikeur",
+			"desc": null,
+			"lang": "HTML",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "052",
@@ -595,8 +608,8 @@
 			"url": "https://github.com/mozack/abra",
 			"desc": "Assembly Based ReAligner",
 			"lang": "Java",
-			"stars": 69,
-			"watches": 69,
+			"stars": 70,
+			"watches": 70,
 			"forks": 12
 		}
 	},
@@ -615,7 +628,7 @@
 			"lang": "Elixir",
 			"stars": 42,
 			"watches": 42,
-			"forks": 20
+			"forks": 21
 		}
 	},
 	{
@@ -874,8 +887,8 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1238,
-			"watches": 1238,
+			"stars": 1237,
+			"watches": 1237,
 			"forks": 51
 		}
 	},
@@ -953,9 +966,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10806,
-			"watches": 10806,
-			"forks": 1218
+			"stars": 10807,
+			"watches": 10807,
+			"forks": 1217
 		}
 	},
 	{
@@ -989,8 +1002,8 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 672,
-			"watches": 672,
+			"stars": 683,
+			"watches": 683,
 			"forks": 132
 		}
 	},
@@ -1017,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 300,
-			"watches": 300,
+			"stars": 301,
+			"watches": 301,
 			"forks": 20
 		}
 	},
@@ -1045,8 +1058,8 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2099,
-			"watches": 2099,
+			"stars": 2100,
+			"watches": 2100,
 			"forks": 301
 		}
 	},
@@ -1330,8 +1343,8 @@
 			"url": "https://github.com/agrimgupta92/metamorph",
 			"desc": "Code for \"MetaMorph: Learning Universal Controllers with Transformers\", Gupta et al, ICLR 2022",
 			"lang": "Python",
-			"stars": 95,
-			"watches": 95,
+			"stars": 94,
+			"watches": 94,
 			"forks": 14
 		}
 	},
@@ -1435,8 +1448,8 @@
 			"url": "https://github.com/kokimame/kabuto",
 			"desc": "日本株取引Bot開発 | freqtrade for Japanese stock trading",
 			"lang": "Python",
-			"stars": 4,
-			"watches": 4,
+			"stars": 5,
+			"watches": 5,
 			"forks": 2
 		}
 	},
@@ -1553,9 +1566,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6187,
-			"watches": 6187,
-			"forks": 930
+			"stars": 6213,
+			"watches": 6213,
+			"forks": 935
 		}
 	},
 	{
@@ -1594,8 +1607,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1489,
-			"watches": 1489,
+			"stars": 1488,
+			"watches": 1488,
 			"forks": 29
 		}
 	},
@@ -1860,8 +1873,8 @@
 			"url": "https://github.com/mistodon/melo",
 			"desc": "A music notation language and compiler to MIDI.",
 			"lang": "Rust",
-			"stars": 115,
-			"watches": 115,
+			"stars": 116,
+			"watches": 116,
 			"forks": 8
 		}
 	},
@@ -1919,8 +1932,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 207,
-			"watches": 207,
+			"stars": 210,
+			"watches": 210,
 			"forks": 7
 		}
 	},
@@ -1937,9 +1950,9 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 65,
-			"watches": 65,
-			"forks": 10
+			"stars": 67,
+			"watches": 67,
+			"forks": 11
 		}
 	},
 	{
@@ -1990,7 +2003,7 @@
 			"lang": "Go",
 			"stars": 7,
 			"watches": 7,
-			"forks": 1
+			"forks": 2
 		}
 	},
 	{
@@ -2410,9 +2423,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 743,
-			"watches": 743,
-			"forks": 68
+			"stars": 813,
+			"watches": 813,
+			"forks": 73
 		}
 	},
 	{
@@ -2615,7 +2628,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一��模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 462,
 			"watches": 462,
@@ -3485,7 +3498,20 @@
 	{
 		"id": "331",
 		"name": "Cacnea",
-		"slug": "cacnea"
+		"slug": "cacnea",
+		"repo": {
+			"id": 785227385,
+			"name": "cacnea",
+			"full_name": "adithyanunair/cacnea",
+			"owner_name": "adithyanunair",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/128136827?v=4",
+			"url": "https://github.com/adithyanunair/cacnea",
+			"desc": null,
+			"lang": "HTML",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "332",
@@ -3606,7 +3632,7 @@
 			"lang": "Lua",
 			"stars": 11,
 			"watches": 11,
-			"forks": 4
+			"forks": 5
 		}
 	},
 	{
@@ -4574,8 +4600,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 787,
-			"watches": 787,
+			"stars": 788,
+			"watches": 788,
 			"forks": 73
 		}
 	},
@@ -6051,9 +6077,9 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 411,
-			"watches": 411,
-			"forks": 45
+			"stars": 425,
+			"watches": 425,
+			"forks": 47
 		}
 	},
 	{
@@ -7300,8 +7326,8 @@
 			"url": "https://github.com/HelloZeroNet/ZeroID",
 			"desc": "ZeroNet authentication provider",
 			"lang": "CoffeeScript",
-			"stars": 42,
-			"watches": 42,
+			"stars": 43,
+			"watches": 43,
 			"forks": 26
 		}
 	},
@@ -7366,14 +7392,14 @@
 		"name": "Necrozma",
 		"slug": "necrozma",
 		"repo": {
-			"id": 758903107,
+			"id": 786384591,
 			"name": "necrozma",
 			"full_name": "legendaryabhi/necrozma",
 			"owner_name": "legendaryabhi",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/85983956?v=4",
 			"url": "https://github.com/legendaryabhi/necrozma",
 			"desc": null,
-			"lang": null,
+			"lang": "HTML",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -7384,14 +7410,14 @@
 		"name": "Magearna",
 		"slug": "magearna",
 		"repo": {
-			"id": 676764624,
+			"id": 186303855,
 			"name": "Magearna",
-			"full_name": "minerchan/Magearna",
-			"owner_name": "minerchan",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/104655361?v=4",
-			"url": "https://github.com/minerchan/Magearna",
-			"desc": null,
-			"lang": "Python",
+			"full_name": "neatteamsoftware/Magearna",
+			"owner_name": "neatteamsoftware",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/47425793?v=4",
+			"url": "https://github.com/neatteamsoftware/Magearna",
+			"desc": "The code for Magearna, our robot for the 2017 season.",
+			"lang": "C++",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -8745,8 +8771,8 @@
 			"url": "https://github.com/btechpt/yuyu",
 			"desc": null,
 			"lang": "Python",
-			"stars": 25,
-			"watches": 25,
+			"stars": 26,
+			"watches": 26,
 			"forks": 4
 		}
 	},

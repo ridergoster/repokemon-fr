@@ -1,3 +1,16 @@
+# Mon, 15 Apr 2024 03:18:54 GMT
+
+## Added: 2
+
+- AmonKm/Triopikeur
+- adithyanunair/cacnea
+
+## Changed: 3
+
+- nbittich/tortank → Charlieflair24/Tortank
+- legendaryabhi/necrozma → legendaryabhi/necrozma
+- minerchan/Magearna → neatteamsoftware/Magearna
+
 # Mon, 01 Apr 2024 01:08:09 GMT
 
 ## Changed: 5
