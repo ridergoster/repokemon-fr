@@ -1,3 +1,18 @@
+# Wed, 01 May 2024 01:03:39 GMT
+
+## Added: 1
+
+- IoriK1020/Charkos
+
+## Changed: 6
+
+- AkashRaiBinaryMetrix/lineon → fleidloff/lineon
+- adithyanunair/cacnea → adithyanunair/cacnea
+- Ihab2605/okeoke → DIMASARYAPRAYOGA/okeoke
+- LujainAlaydie1/Terhal → RaghadAlshammari03/terhal
+- LucasWyski001/regigigas → gamma-delta/regigigas
+- legendaryabhi/necrozma → thedarksoull/necrozma
+
 # Mon, 15 Apr 2024 03:18:54 GMT
 
 ## Added: 2

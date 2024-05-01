@@ -223,8 +223,8 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3403,
-			"watches": 3403,
+			"stars": 3433,
+			"watches": 3433,
 			"forks": 712
 		}
 	},
@@ -419,8 +419,8 @@
 			"url": "https://github.com/pokepay/paras",
 			"desc": "Embedded trivial Lisp-dialect.",
 			"lang": "Common Lisp",
-			"stars": 21,
-			"watches": 21,
+			"stars": 22,
+			"watches": 22,
 			"forks": 2
 		}
 	},
@@ -519,9 +519,9 @@
 			"url": "https://github.com/rezkam/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 186,
-			"watches": 186,
-			"forks": 31
+			"stars": 189,
+			"watches": 189,
+			"forks": 30
 		}
 	},
 	{
@@ -869,8 +869,8 @@
 			"url": "https://github.com/UT-Austin-RPL/Doduo",
 			"desc": "Official PyTorch implementation of Doduo: Dense Visual Correspondence from Unsupervised Semantic-Aware Flow",
 			"lang": "Python",
-			"stars": 26,
-			"watches": 26,
+			"stars": 27,
+			"watches": 27,
 			"forks": 1
 		}
 	},
@@ -887,9 +887,9 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1237,
-			"watches": 1237,
-			"forks": 51
+			"stars": 1238,
+			"watches": 1238,
+			"forks": 48
 		}
 	},
 	{
@@ -968,7 +968,7 @@
 			"lang": "JavaScript",
 			"stars": 10807,
 			"watches": 10807,
-			"forks": 1217
+			"forks": 1218
 		}
 	},
 	{
@@ -1002,9 +1002,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 683,
-			"watches": 683,
-			"forks": 132
+			"stars": 694,
+			"watches": 694,
+			"forks": 131
 		}
 	},
 	{
@@ -1030,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 301,
-			"watches": 301,
+			"stars": 303,
+			"watches": 303,
 			"forks": 20
 		}
 	},
@@ -1484,8 +1484,8 @@
 			"url": "https://github.com/Tak-Iwamoto/ptera",
 			"desc": "Ptera is DateTime library for Deno",
 			"lang": "TypeScript",
-			"stars": 73,
-			"watches": 73,
+			"stars": 74,
+			"watches": 74,
 			"forks": 7
 		}
 	},
@@ -1566,9 +1566,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6213,
-			"watches": 6213,
-			"forks": 935
+			"stars": 6253,
+			"watches": 6253,
+			"forks": 943
 		}
 	},
 	{
@@ -1607,8 +1607,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1488,
-			"watches": 1488,
+			"stars": 1489,
+			"watches": 1489,
 			"forks": 29
 		}
 	},
@@ -1781,8 +1781,8 @@
 			"url": "https://github.com/hendriks73/coxy",
 			"desc": "Coxy - a simple caching proxy for Discogs",
 			"lang": "Java",
-			"stars": 7,
-			"watches": 7,
+			"stars": 8,
+			"watches": 8,
 			"forks": 0
 		}
 	},
@@ -1932,8 +1932,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 210,
-			"watches": 210,
+			"stars": 211,
+			"watches": 211,
 			"forks": 7
 		}
 	},
@@ -2375,8 +2375,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 188,
-			"watches": 188,
+			"stars": 189,
+			"watches": 189,
 			"forks": 30
 		}
 	},
@@ -2423,9 +2423,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 813,
-			"watches": 813,
-			"forks": 73
+			"stars": 860,
+			"watches": 860,
+			"forks": 78
 		}
 	},
 	{
@@ -2628,7 +2628,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一��模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 462,
 			"watches": 462,
@@ -2788,14 +2788,14 @@
 		"name": "Linéon",
 		"slug": "lineon",
 		"repo": {
-			"id": 540329826,
+			"id": 312654899,
 			"name": "lineon",
-			"full_name": "AkashRaiBinaryMetrix/lineon",
-			"owner_name": "AkashRaiBinaryMetrix",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/110826983?v=4",
-			"url": "https://github.com/AkashRaiBinaryMetrix/lineon",
+			"full_name": "fleidloff/lineon",
+			"owner_name": "fleidloff",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/483573?v=4",
+			"url": "https://github.com/fleidloff/lineon",
 			"desc": null,
-			"lang": null,
+			"lang": "Java",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -3500,7 +3500,7 @@
 		"name": "Cacnea",
 		"slug": "cacnea",
 		"repo": {
-			"id": 785227385,
+			"id": 790114548,
 			"name": "cacnea",
 			"full_name": "adithyanunair/cacnea",
 			"owner_name": "adithyanunair",
@@ -3628,11 +3628,11 @@
 			"owner_name": "LiliaFramework",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/148652302?v=4",
 			"url": "https://github.com/LiliaFramework/Lilia",
-			"desc": null,
+			"desc": "A Innovative Framework For Garry's Mod",
 			"lang": "Lua",
 			"stars": 11,
 			"watches": 11,
-			"forks": 5
+			"forks": 6
 		}
 	},
 	{
@@ -3709,8 +3709,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 371,
-			"watches": 371,
+			"stars": 372,
+			"watches": 372,
 			"forks": 64
 		}
 	},
@@ -3775,14 +3775,14 @@
 		"name": "Okéoké",
 		"slug": "okeoke",
 		"repo": {
-			"id": 765665540,
+			"id": 794161440,
 			"name": "okeoke",
-			"full_name": "Ihab2605/okeoke",
-			"owner_name": "Ihab2605",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/92377783?v=4",
-			"url": "https://github.com/Ihab2605/okeoke",
+			"full_name": "DIMASARYAPRAYOGA/okeoke",
+			"owner_name": "DIMASARYAPRAYOGA",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/137718714?v=4",
+			"url": "https://github.com/DIMASARYAPRAYOGA/okeoke",
 			"desc": null,
-			"lang": null,
+			"lang": "HTML",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -3858,17 +3858,17 @@
 		"name": "Terhal",
 		"slug": "terhal",
 		"repo": {
-			"id": 746636293,
-			"name": "Terhal",
-			"full_name": "LujainAlaydie1/Terhal",
-			"owner_name": "LujainAlaydie1",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/96392905?v=4",
-			"url": "https://github.com/LujainAlaydie1/Terhal",
-			"desc": "This is the github repository for MC3 in Apple Developer Academy",
-			"lang": "Objective-C",
+			"id": 790869310,
+			"name": "terhal",
+			"full_name": "RaghadAlshammari03/terhal",
+			"owner_name": "RaghadAlshammari03",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/167905279?v=4",
+			"url": "https://github.com/RaghadAlshammari03/terhal",
+			"desc": null,
+			"lang": "Java",
 			"stars": 0,
 			"watches": 0,
-			"forks": 0
+			"forks": 1
 		}
 	},
 	{
@@ -4056,9 +4056,9 @@
 			"url": "https://github.com/KasarLabs/deoxys",
 			"desc": "Deoxys 👽 is a powerfull Starknet full node client written in Rust 🦀 and powered by Substrate from @kasarLabs.",
 			"lang": "Rust",
-			"stars": 31,
-			"watches": 31,
-			"forks": 7
+			"stars": 32,
+			"watches": 32,
+			"forks": 8
 		}
 	},
 	{
@@ -4291,7 +4291,20 @@
 	{
 		"id": "409",
 		"name": "Charkos",
-		"slug": "charkos"
+		"slug": "charkos",
+		"repo": {
+			"id": 792882231,
+			"name": "Charkos",
+			"full_name": "IoriK1020/Charkos",
+			"owner_name": "IoriK1020",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/163783916?v=4",
+			"url": "https://github.com/IoriK1020/Charkos",
+			"desc": null,
+			"lang": "PHP",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "410",
@@ -4886,17 +4899,17 @@
 		"name": "Regigigas",
 		"slug": "regigigas",
 		"repo": {
-			"id": 681434784,
+			"id": 516943985,
 			"name": "regigigas",
-			"full_name": "LucasWyski001/regigigas",
-			"owner_name": "LucasWyski001",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/109931537?v=4",
-			"url": "https://github.com/LucasWyski001/regigigas",
-			"desc": null,
-			"lang": null,
+			"full_name": "gamma-delta/regigigas",
+			"owner_name": "gamma-delta",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/29877714?v=4",
+			"url": "https://github.com/gamma-delta/regigigas",
+			"desc": "Registration system for game objects",
+			"lang": "Rust",
 			"stars": 0,
 			"watches": 0,
-			"forks": 0
+			"forks": 1
 		}
 	},
 	{
@@ -6077,8 +6090,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 425,
-			"watches": 425,
+			"stars": 432,
+			"watches": 432,
 			"forks": 47
 		}
 	},
@@ -7328,7 +7341,7 @@
 			"lang": "CoffeeScript",
 			"stars": 43,
 			"watches": 43,
-			"forks": 26
+			"forks": 23
 		}
 	},
 	{
@@ -7392,14 +7405,14 @@
 		"name": "Necrozma",
 		"slug": "necrozma",
 		"repo": {
-			"id": 786384591,
+			"id": 394525353,
 			"name": "necrozma",
-			"full_name": "legendaryabhi/necrozma",
-			"owner_name": "legendaryabhi",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/85983956?v=4",
-			"url": "https://github.com/legendaryabhi/necrozma",
+			"full_name": "thedarksoull/necrozma",
+			"owner_name": "thedarksoull",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/87683656?v=4",
+			"url": "https://github.com/thedarksoull/necrozma",
 			"desc": null,
-			"lang": "HTML",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
