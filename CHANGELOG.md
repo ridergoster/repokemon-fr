@@ -1,3 +1,13 @@
+# Wed, 15 May 2024 01:02:31 GMT
+
+## Changed: 5
+
+- UT-Austin-RPL/Doduo → megagonlabs/doduo
+- Bianca652/Otaria → akki9689/otaria
+- RaghadAlshammari03/terhal → RaghadAlshammari/terhal
+- Bosmansc/Ceribou → Ceribou/ceribou
+- DIANCEHUANG/Diancie → yveltal100/diancie
+
 # Wed, 01 May 2024 01:03:39 GMT
 
 ## Added: 1

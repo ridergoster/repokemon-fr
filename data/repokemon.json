@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3433,
-			"watches": 3433,
-			"forks": 712
+			"stars": 3455,
+			"watches": 3455,
+			"forks": 716
 		}
 	},
 	{
@@ -482,7 +482,7 @@
 			"owner_avatar": "https://avatars.githubusercontent.com/u/166015459?v=4",
 			"url": "https://github.com/AmonKm/Triopikeur",
 			"desc": null,
-			"lang": "HTML",
+			"lang": "JavaScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -861,17 +861,17 @@
 		"name": "Doduo",
 		"slug": "doduo",
 		"repo": {
-			"id": 664660981,
-			"name": "Doduo",
-			"full_name": "UT-Austin-RPL/Doduo",
-			"owner_name": "UT-Austin-RPL",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/61921293?v=4",
-			"url": "https://github.com/UT-Austin-RPL/Doduo",
-			"desc": "Official PyTorch implementation of Doduo: Dense Visual Correspondence from Unsupervised Semantic-Aware Flow",
+			"id": 354724825,
+			"name": "doduo",
+			"full_name": "megagonlabs/doduo",
+			"owner_name": "megagonlabs",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/38018947?v=4",
+			"url": "https://github.com/megagonlabs/doduo",
+			"desc": "Annotating Columns with Pre-trained Language Models",
 			"lang": "Python",
-			"stars": 27,
-			"watches": 27,
-			"forks": 1
+			"stars": 29,
+			"watches": 29,
+			"forks": 11
 		}
 	},
 	{
@@ -897,16 +897,16 @@
 		"name": "Otaria",
 		"slug": "otaria",
 		"repo": {
-			"id": 715578063,
-			"name": "Otaria",
-			"full_name": "Bianca652/Otaria",
-			"owner_name": "Bianca652",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/127752863?v=4",
-			"url": "https://github.com/Bianca652/Otaria",
-			"desc": "Olha minha tia, da próxima vez que eu achar uma pagina do github sua aberta, vou criar 10 repositórios novos de pirraça.",
-			"lang": null,
-			"stars": 0,
-			"watches": 0,
+			"id": 669611622,
+			"name": "otaria",
+			"full_name": "akki9689/otaria",
+			"owner_name": "akki9689",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/104100720?v=4",
+			"url": "https://github.com/akki9689/otaria",
+			"desc": null,
+			"lang": "CSS",
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -966,8 +966,8 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10807,
-			"watches": 10807,
+			"stars": 10810,
+			"watches": 10810,
 			"forks": 1218
 		}
 	},
@@ -1002,9 +1002,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 694,
-			"watches": 694,
-			"forks": 131
+			"stars": 703,
+			"watches": 703,
+			"forks": 137
 		}
 	},
 	{
@@ -1030,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 303,
-			"watches": 303,
+			"stars": 304,
+			"watches": 304,
 			"forks": 20
 		}
 	},
@@ -1058,9 +1058,9 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2100,
-			"watches": 2100,
-			"forks": 301
+			"stars": 2097,
+			"watches": 2097,
+			"forks": 302
 		}
 	},
 	{
@@ -1345,7 +1345,7 @@
 			"lang": "Python",
 			"stars": 94,
 			"watches": 94,
-			"forks": 14
+			"forks": 15
 		}
 	},
 	{
@@ -1484,8 +1484,8 @@
 			"url": "https://github.com/Tak-Iwamoto/ptera",
 			"desc": "Ptera is DateTime library for Deno",
 			"lang": "TypeScript",
-			"stars": 74,
-			"watches": 74,
+			"stars": 75,
+			"watches": 75,
 			"forks": 7
 		}
 	},
@@ -1566,9 +1566,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6253,
-			"watches": 6253,
-			"forks": 943
+			"stars": 6280,
+			"watches": 6280,
+			"forks": 952
 		}
 	},
 	{
@@ -1607,8 +1607,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1489,
-			"watches": 1489,
+			"stars": 1487,
+			"watches": 1487,
 			"forks": 29
 		}
 	},
@@ -1665,7 +1665,7 @@
 			"owner_avatar": "https://avatars.githubusercontent.com/u/57541749?v=4",
 			"url": "https://github.com/nplinden/hericendre",
 			"desc": null,
-			"lang": "Python",
+			"lang": "C++",
 			"stars": 1,
 			"watches": 1,
 			"forks": 1
@@ -1896,8 +1896,8 @@
 			"url": "https://github.com/aditeyabaral/togepi",
 			"desc": "A version control system built using Python and DropBox API",
 			"lang": "Python",
-			"stars": 24,
-			"watches": 24,
+			"stars": 26,
+			"watches": 26,
 			"forks": 2
 		}
 	},
@@ -1932,9 +1932,9 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 211,
-			"watches": 211,
-			"forks": 7
+			"stars": 212,
+			"watches": 212,
+			"forks": 5
 		}
 	},
 	{
@@ -2423,9 +2423,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 860,
-			"watches": 860,
-			"forks": 78
+			"stars": 872,
+			"watches": 872,
+			"forks": 77
 		}
 	},
 	{
@@ -2628,7 +2628,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一��模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 462,
 			"watches": 462,
@@ -3632,7 +3632,7 @@
 			"lang": "Lua",
 			"stars": 11,
 			"watches": 11,
-			"forks": 6
+			"forks": 7
 		}
 	},
 	{
@@ -3858,17 +3858,17 @@
 		"name": "Terhal",
 		"slug": "terhal",
 		"repo": {
-			"id": 790869310,
+			"id": 790864640,
 			"name": "terhal",
-			"full_name": "RaghadAlshammari03/terhal",
-			"owner_name": "RaghadAlshammari03",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/167905279?v=4",
-			"url": "https://github.com/RaghadAlshammari03/terhal",
+			"full_name": "RaghadAlshammari/terhal",
+			"owner_name": "RaghadAlshammari",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/158785260?v=4",
+			"url": "https://github.com/RaghadAlshammari/terhal",
 			"desc": null,
-			"lang": "Java",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
-			"forks": 1
+			"forks": 0
 		}
 	},
 	{
@@ -4056,9 +4056,9 @@
 			"url": "https://github.com/KasarLabs/deoxys",
 			"desc": "Deoxys 👽 is a powerfull Starknet full node client written in Rust 🦀 and powered by Substrate from @kasarLabs.",
 			"lang": "Rust",
-			"stars": 32,
-			"watches": 32,
-			"forks": 8
+			"stars": 34,
+			"watches": 34,
+			"forks": 9
 		}
 	},
 	{
@@ -4400,14 +4400,14 @@
 		"name": "Ceribou",
 		"slug": "ceribou",
 		"repo": {
-			"id": 232371431,
-			"name": "Ceribou",
-			"full_name": "Bosmansc/Ceribou",
-			"owner_name": "Bosmansc",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/29273238?v=4",
-			"url": "https://github.com/Bosmansc/Ceribou",
+			"id": 795091271,
+			"name": "ceribou",
+			"full_name": "Ceribou/ceribou",
+			"owner_name": "Ceribou",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/158044049?v=4",
+			"url": "https://github.com/Ceribou/ceribou",
 			"desc": null,
-			"lang": "Python",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4595,8 +4595,8 @@
 			"url": "https://github.com/chunibyo-wly/Riolu",
 			"desc": "Idiom Triple Game 成语消消乐（仿造《英雄三国》汉语游戏）",
 			"lang": "JavaScript",
-			"stars": 4,
-			"watches": 4,
+			"stars": 5,
+			"watches": 5,
 			"forks": 0
 		}
 	},
@@ -6013,8 +6013,8 @@
 			"url": "https://github.com/pycontribs/pyrax",
 			"desc": "The Python SDK for the Rackspace Cloud",
 			"lang": "Python",
-			"stars": 237,
-			"watches": 237,
+			"stars": 236,
+			"watches": 236,
 			"forks": 211
 		}
 	},
@@ -6090,8 +6090,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 432,
-			"watches": 432,
+			"stars": 438,
+			"watches": 438,
 			"forks": 47
 		}
 	},
@@ -6120,10 +6120,10 @@
 		"repo": {
 			"id": 618606014,
 			"name": "Zekrom",
-			"full_name": "TerrniT/Zekrom",
-			"owner_name": "TerrniT",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/79077994?v=4",
-			"url": "https://github.com/TerrniT/Zekrom",
+			"full_name": "TerrniTLLC/Zekrom",
+			"owner_name": "TerrniTLLC",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/104818206?v=4",
+			"url": "https://github.com/TerrniTLLC/Zekrom",
 			"desc": "Desktop markdown editor built in with Rust + React (Typescript)",
 			"lang": "TypeScript",
 			"stars": 4,
@@ -6714,12 +6714,12 @@
 		"name": "Diancie",
 		"slug": "diancie",
 		"repo": {
-			"id": 245147475,
-			"name": "Diancie",
-			"full_name": "DIANCEHUANG/Diancie",
-			"owner_name": "DIANCEHUANG",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/35951760?v=4",
-			"url": "https://github.com/DIANCEHUANG/Diancie",
+			"id": 800443849,
+			"name": "diancie",
+			"full_name": "yveltal100/diancie",
+			"owner_name": "yveltal100",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/103328031?v=4",
+			"url": "https://github.com/yveltal100/diancie",
 			"desc": null,
 			"lang": null,
 			"stars": 0,
