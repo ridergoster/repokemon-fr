@@ -1,3 +1,14 @@
+# Sat, 01 Jun 2024 01:04:47 GMT
+
+## Changed: 6
+
+- megagonlabs/doduo → UT-Austin-RPL/Doduo
+- R0dn3yS/gardevoir → yveltal100/gardevoir
+- ray1203/MunJa → raghu14442/munja
+- Kevontym/torterra → FelixSchlembach/torterra
+- Akawin9/reshiram → yveltal100/reshiram
+- thedarksoull/necrozma → BIubberBernd/Necrozma
+
 # Wed, 15 May 2024 01:02:31 GMT
 
 ## Changed: 5
