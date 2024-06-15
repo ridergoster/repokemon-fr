@@ -1,3 +1,13 @@
+# Sat, 15 Jun 2024 01:03:53 GMT
+
+## Changed: 5
+
+- yveltal100/gardevoir → umituz/gardevoir
+- raghu14442/munja → ray1203/MunJa
+- DIMASARYAPRAYOGA/okeoke → yudabrSI/okeoke
+- Paxol/flabebe → Cane-owo/flabebe
+- Verpom/Verpom → NeverslowLVII/Verpom
+
 # Sat, 01 Jun 2024 01:04:47 GMT
 
 ## Changed: 6
