@@ -1,3 +1,14 @@
+# Mon, 01 Jul 2024 01:09:25 GMT
+
+## Removed: 1
+
+- ooneex/corvaillus
+
+## Changed: 2
+
+- MaryorisRc/caninos → Romario-Diaz/Caninos
+- umituz/gardevoir → yveltal100/gardevoir
+
 # Sat, 15 Jun 2024 01:03:53 GMT
 
 ## Changed: 5
