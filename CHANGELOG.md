@@ -1,3 +1,13 @@
+# Mon, 15 Jul 2024 01:08:01 GMT
+
+## Added: 1
+
+- irvingdinh/zamazenta
+
+## Changed: 1
+
+- gamma-delta/dedenne → dedennene/dedenne
+
 # Mon, 01 Jul 2024 01:09:25 GMT
 
 ## Removed: 1
