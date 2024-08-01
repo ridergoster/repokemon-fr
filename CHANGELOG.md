@@ -1,3 +1,13 @@
+# Thu, 01 Aug 2024 01:08:14 GMT
+
+## Changed: 5
+
+- yudabrSI/okeoke → Arsya04/okeoke
+- KasarLabs/deoxys → nexxeln/deoxys
+- blikkiee/Bastiodon → Francois238/Bastiodon
+- yveltal100/reshiram → ItsAhKat/Reshiram
+- Wahyuhidayatt/Dofin → Dofinrus/Dofin
+
 # Mon, 15 Jul 2024 01:08:01 GMT
 
 ## Added: 1

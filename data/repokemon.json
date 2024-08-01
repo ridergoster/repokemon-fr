@@ -205,9 +205,9 @@
 			"url": "https://github.com/chistopher/arbok",
 			"desc": "Directed Spanning Trees",
 			"lang": "Jupyter Notebook",
-			"stars": 12,
-			"watches": 12,
-			"forks": 2
+			"stars": 13,
+			"watches": 13,
+			"forks": 3
 		}
 	},
 	{
@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3538,
-			"watches": 3538,
-			"forks": 727
+			"stars": 3574,
+			"watches": 3574,
+			"forks": 728
 		}
 	},
 	{
@@ -608,8 +608,8 @@
 			"url": "https://github.com/mozack/abra",
 			"desc": "Assembly Based ReAligner",
 			"lang": "Java",
-			"stars": 70,
-			"watches": 70,
+			"stars": 71,
+			"watches": 71,
 			"forks": 12
 		}
 	},
@@ -626,8 +626,8 @@
 			"url": "https://github.com/codedge-llc/kadabra",
 			"desc": "HTTP/2 client for Elixir",
 			"lang": "Elixir",
-			"stars": 42,
-			"watches": 42,
+			"stars": 43,
+			"watches": 43,
 			"forks": 22
 		}
 	},
@@ -887,9 +887,9 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1239,
-			"watches": 1239,
-			"forks": 48
+			"stars": 1238,
+			"watches": 1238,
+			"forks": 47
 		}
 	},
 	{
@@ -966,9 +966,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10823,
-			"watches": 10823,
-			"forks": 1225
+			"stars": 10819,
+			"watches": 10819,
+			"forks": 1223
 		}
 	},
 	{
@@ -1002,8 +1002,8 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 711,
-			"watches": 711,
+			"stars": 721,
+			"watches": 721,
 			"forks": 138
 		}
 	},
@@ -1030,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 306,
-			"watches": 306,
+			"stars": 307,
+			"watches": 307,
 			"forks": 20
 		}
 	},
@@ -1060,7 +1060,7 @@
 			"lang": "HTML",
 			"stars": 2102,
 			"watches": 2102,
-			"forks": 302
+			"forks": 301
 		}
 	},
 	{
@@ -1343,8 +1343,8 @@
 			"url": "https://github.com/agrimgupta92/metamorph",
 			"desc": "Code for \"MetaMorph: Learning Universal Controllers with Transformers\", Gupta et al, ICLR 2022",
 			"lang": "Python",
-			"stars": 99,
-			"watches": 99,
+			"stars": 102,
+			"watches": 102,
 			"forks": 15
 		}
 	},
@@ -1566,9 +1566,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6375,
-			"watches": 6375,
-			"forks": 956
+			"stars": 6400,
+			"watches": 6400,
+			"forks": 958
 		}
 	},
 	{
@@ -1760,7 +1760,7 @@
 			"lang": "JavaScript",
 			"stars": 14,
 			"watches": 14,
-			"forks": 2
+			"forks": 3
 		}
 	},
 	{
@@ -1837,8 +1837,8 @@
 			"url": "https://github.com/lanturn-defi/lanturn",
 			"desc": null,
 			"lang": "Python",
-			"stars": 10,
-			"watches": 10,
+			"stars": 12,
+			"watches": 12,
 			"forks": 6
 		}
 	},
@@ -2423,9 +2423,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 951,
-			"watches": 951,
-			"forks": 86
+			"stars": 956,
+			"watches": 956,
+			"forks": 87
 		}
 	},
 	{
@@ -2599,7 +2599,7 @@
 			"lang": "Assembly",
 			"stars": 22,
 			"watches": 22,
-			"forks": 4
+			"forks": 5
 		}
 	},
 	{
@@ -2628,10 +2628,10 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模��管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型��理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
-			"stars": 462,
-			"watches": 462,
+			"stars": 460,
+			"watches": 460,
 			"forks": 55
 		}
 	},
@@ -3632,7 +3632,7 @@
 			"lang": "Lua",
 			"stars": 15,
 			"watches": 15,
-			"forks": 9
+			"forks": 11
 		}
 	},
 	{
@@ -3775,14 +3775,14 @@
 		"name": "Okéoké",
 		"slug": "okeoke",
 		"repo": {
-			"id": 813171507,
+			"id": 834714173,
 			"name": "okeoke",
-			"full_name": "yudabrSI/okeoke",
-			"owner_name": "yudabrSI",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/125751878?v=4",
-			"url": "https://github.com/yudabrSI/okeoke",
+			"full_name": "Arsya04/okeoke",
+			"owner_name": "Arsya04",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/90487280?v=4",
+			"url": "https://github.com/Arsya04/okeoke",
 			"desc": null,
-			"lang": null,
+			"lang": "TypeScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4048,17 +4048,17 @@
 		"name": "Deoxys",
 		"slug": "deoxys",
 		"repo": {
-			"id": 766921853,
+			"id": 496209141,
 			"name": "deoxys",
-			"full_name": "KasarLabs/deoxys",
-			"owner_name": "KasarLabs",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/119948009?v=4",
-			"url": "https://github.com/KasarLabs/deoxys",
-			"desc": "Madara (prev: Deoxys) is a powerful hybrid Starknet client written in Rust.",
-			"lang": "Rust",
-			"stars": 44,
-			"watches": 44,
-			"forks": 15
+			"full_name": "nexxeln/deoxys",
+			"owner_name": "nexxeln",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/95541290?v=4",
+			"url": "https://github.com/nexxeln/deoxys",
+			"desc": "deoxys is a fast and optimized link shortener",
+			"lang": "TypeScript",
+			"stars": 22,
+			"watches": 22,
+			"forks": 4
 		}
 	},
 	{
@@ -4316,14 +4316,14 @@
 		"name": "Bastiodon",
 		"slug": "bastiodon",
 		"repo": {
-			"id": 336846061,
+			"id": 835132658,
 			"name": "Bastiodon",
-			"full_name": "blikkiee/Bastiodon",
-			"owner_name": "blikkiee",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/32909969?v=4",
-			"url": "https://github.com/blikkiee/Bastiodon",
-			"desc": null,
-			"lang": "Scala",
+			"full_name": "Francois238/Bastiodon",
+			"owner_name": "Francois238",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/105150394?v=4",
+			"url": "https://github.com/Francois238/Bastiodon",
+			"desc": "Automatic verification of the operation of SIEM rules",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -5020,8 +5020,8 @@
 			"url": "https://github.com/FirezTheGreat/Arceus",
 			"desc": "Discord Bot Focused On Modmail With Mongoose Using discord.js v13",
 			"lang": "JavaScript",
-			"stars": 14,
-			"watches": 14,
+			"stars": 13,
+			"watches": 13,
 			"forks": 8
 		}
 	},
@@ -6013,8 +6013,8 @@
 			"url": "https://github.com/pycontribs/pyrax",
 			"desc": "The Python SDK for the Rackspace Cloud",
 			"lang": "Python",
-			"stars": 236,
-			"watches": 236,
+			"stars": 237,
+			"watches": 237,
 			"forks": 210
 		}
 	},
@@ -6090,8 +6090,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 461,
-			"watches": 461,
+			"stars": 467,
+			"watches": 467,
 			"forks": 49
 		}
 	},
@@ -6100,14 +6100,14 @@
 		"name": "Reshiram",
 		"slug": "reshiram",
 		"repo": {
-			"id": 804699055,
-			"name": "reshiram",
-			"full_name": "yveltal100/reshiram",
-			"owner_name": "yveltal100",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/103328031?v=4",
-			"url": "https://github.com/yveltal100/reshiram",
+			"id": 833433156,
+			"name": "Reshiram",
+			"full_name": "ItsAhKat/Reshiram",
+			"owner_name": "ItsAhKat",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/170832743?v=4",
+			"url": "https://github.com/ItsAhKat/Reshiram",
 			"desc": null,
-			"lang": null,
+			"lang": "HTML",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -7341,7 +7341,7 @@
 			"lang": "CoffeeScript",
 			"stars": 42,
 			"watches": 42,
-			"forks": 23
+			"forks": 22
 		}
 	},
 	{
@@ -8506,14 +8506,14 @@
 		"name": "Dofin",
 		"slug": "dofin",
 		"repo": {
-			"id": 99193361,
+			"id": 829475130,
 			"name": "Dofin",
-			"full_name": "Wahyuhidayatt/Dofin",
-			"owner_name": "Wahyuhidayatt",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/21301918?v=4",
-			"url": "https://github.com/Wahyuhidayatt/Dofin",
-			"desc": null,
-			"lang": "JavaScript",
+			"full_name": "Dofinrus/Dofin",
+			"owner_name": "Dofinrus",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/175718992?v=4",
+			"url": "https://github.com/Dofinrus/Dofin",
+			"desc": "WonderWoman script",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
