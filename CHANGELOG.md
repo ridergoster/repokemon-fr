@@ -1,3 +1,17 @@
+# Thu, 15 Aug 2024 01:05:15 GMT
+
+## Added: 1
+
+- Shadow0143/sharpedo
+
+## Changed: 5
+
+- WmeLuna/axoloto → Anushri255/Axoloto
+- yveltal100/gardevoir → ifkarsyah/gardevoir
+- CANTONII/Rayquaza → chungwong/rayquaza
+- SayuriOya/Darkrai → Lvl9999/Darkrai
+- meteno/meteno → v4sj4n/meteno
+
 # Thu, 01 Aug 2024 01:08:14 GMT
 
 ## Changed: 5
