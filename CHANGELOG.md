@@ -1,3 +1,18 @@
+# Sun, 01 Sep 2024 01:12:01 GMT
+
+## Added: 1
+
+- crnobog69/cobaltium
+
+## Changed: 6
+
+- CyrilBouchut/loupio → noegrg3/loupio
+- Arsya04/okeoke → trannhutphat23/okeoke
+- Lacrymosaa/Meloetta → spktrm/meloetta
+- BIBLIASYESTUDIOS/oratoria → chofor-cliford/oratoria
+- BlubbernderBernd/Necrozma → thedarksoull/necrozma
+- OptimumArchitect/Zacian → irvingdinh/zacian
+
 # Thu, 15 Aug 2024 01:05:15 GMT
 
 ## Added: 1

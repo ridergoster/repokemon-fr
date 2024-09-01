@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3603,
-			"watches": 3603,
-			"forks": 730
+			"stars": 3637,
+			"watches": 3637,
+			"forks": 733
 		}
 	},
 	{
@@ -519,8 +519,8 @@
 			"url": "https://github.com/rezkam/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 192,
-			"watches": 192,
+			"stars": 193,
+			"watches": 193,
 			"forks": 30
 		}
 	},
@@ -628,7 +628,7 @@
 			"lang": "Elixir",
 			"stars": 43,
 			"watches": 43,
-			"forks": 22
+			"forks": 23
 		}
 	},
 	{
@@ -869,8 +869,8 @@
 			"url": "https://github.com/UT-Austin-RPL/Doduo",
 			"desc": "Official PyTorch implementation of Doduo: Dense Visual Correspondence from Unsupervised Semantic-Aware Flow",
 			"lang": "Python",
-			"stars": 41,
-			"watches": 41,
+			"stars": 42,
+			"watches": 42,
 			"forks": 2
 		}
 	},
@@ -889,7 +889,7 @@
 			"lang": "Rust",
 			"stars": 1237,
 			"watches": 1237,
-			"forks": 47
+			"forks": 48
 		}
 	},
 	{
@@ -966,9 +966,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10821,
-			"watches": 10821,
-			"forks": 1224
+			"stars": 10823,
+			"watches": 10823,
+			"forks": 1222
 		}
 	},
 	{
@@ -1002,9 +1002,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 722,
-			"watches": 722,
-			"forks": 138
+			"stars": 732,
+			"watches": 732,
+			"forks": 140
 		}
 	},
 	{
@@ -1030,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 307,
-			"watches": 307,
+			"stars": 309,
+			"watches": 309,
 			"forks": 20
 		}
 	},
@@ -1343,8 +1343,8 @@
 			"url": "https://github.com/agrimgupta92/metamorph",
 			"desc": "Code for \"MetaMorph: Learning Universal Controllers with Transformers\", Gupta et al, ICLR 2022",
 			"lang": "Python",
-			"stars": 104,
-			"watches": 104,
+			"stars": 103,
+			"watches": 103,
 			"forks": 15
 		}
 	},
@@ -1566,9 +1566,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6415,
-			"watches": 6415,
-			"forks": 960
+			"stars": 6440,
+			"watches": 6440,
+			"forks": 961
 		}
 	},
 	{
@@ -1607,8 +1607,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1482,
-			"watches": 1482,
+			"stars": 1481,
+			"watches": 1481,
 			"forks": 29
 		}
 	},
@@ -1811,14 +1811,14 @@
 		"name": "Loupio",
 		"slug": "loupio",
 		"repo": {
-			"id": 695148349,
+			"id": 847722998,
 			"name": "loupio",
-			"full_name": "CyrilBouchut/loupio",
-			"owner_name": "CyrilBouchut",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/62898341?v=4",
-			"url": "https://github.com/CyrilBouchut/loupio",
-			"desc": "Outil pour l'école avec laravel",
-			"lang": "PHP",
+			"full_name": "noegrg3/loupio",
+			"owner_name": "noegrg3",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/118563661?v=4",
+			"url": "https://github.com/noegrg3/loupio",
+			"desc": null,
+			"lang": "HTML",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -1932,8 +1932,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 219,
-			"watches": 219,
+			"stars": 220,
+			"watches": 220,
 			"forks": 5
 		}
 	},
@@ -1952,7 +1952,7 @@
 			"lang": "Go",
 			"stars": 70,
 			"watches": 70,
-			"forks": 13
+			"forks": 15
 		}
 	},
 	{
@@ -2423,8 +2423,8 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 980,
-			"watches": 980,
+			"stars": 994,
+			"watches": 994,
 			"forks": 94
 		}
 	},
@@ -2628,7 +2628,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型���理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 460,
 			"watches": 460,
@@ -3788,14 +3788,14 @@
 		"name": "Okéoké",
 		"slug": "okeoke",
 		"repo": {
-			"id": 834714173,
+			"id": 849796541,
 			"name": "okeoke",
-			"full_name": "Arsya04/okeoke",
-			"owner_name": "Arsya04",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/90487280?v=4",
-			"url": "https://github.com/Arsya04/okeoke",
+			"full_name": "trannhutphat23/okeoke",
+			"owner_name": "trannhutphat23",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/90406336?v=4",
+			"url": "https://github.com/trannhutphat23/okeoke",
 			"desc": null,
-			"lang": "TypeScript",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4626,9 +4626,9 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 791,
-			"watches": 791,
-			"forks": 75
+			"stars": 796,
+			"watches": 796,
+			"forks": 76
 		}
 	},
 	{
@@ -4823,7 +4823,7 @@
 			"lang": "TypeScript",
 			"stars": 13,
 			"watches": 13,
-			"forks": 7
+			"forks": 6
 		}
 	},
 	{
@@ -5220,7 +5220,7 @@
 			"lang": "Ruby",
 			"stars": 23,
 			"watches": 23,
-			"forks": 3
+			"forks": 2
 		}
 	},
 	{
@@ -6028,13 +6028,26 @@
 			"lang": "Python",
 			"stars": 237,
 			"watches": 237,
-			"forks": 210
+			"forks": 209
 		}
 	},
 	{
 		"id": "638",
 		"name": "Cobaltium",
-		"slug": "cobaltium"
+		"slug": "cobaltium",
+		"repo": {
+			"id": 844275467,
+			"name": "cobaltium",
+			"full_name": "crnobog69/cobaltium",
+			"owner_name": "crnobog69",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/79972075?v=4",
+			"url": "https://github.com/crnobog69/cobaltium",
+			"desc": "⚛️ |  Cobaltium - Simple Unofficial `Cobalt.tools` Browser Extension",
+			"lang": "JavaScript",
+			"stars": 2,
+			"watches": 2,
+			"forks": 0
+		}
 	},
 	{
 		"id": "639",
@@ -6103,8 +6116,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 471,
-			"watches": 471,
+			"stars": 480,
+			"watches": 480,
 			"forks": 48
 		}
 	},
@@ -6203,17 +6216,17 @@
 		"name": "Meloetta",
 		"slug": "meloetta",
 		"repo": {
-			"id": 661209590,
-			"name": "Meloetta",
-			"full_name": "Lacrymosaa/Meloetta",
-			"owner_name": "Lacrymosaa",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/82874011?v=4",
-			"url": "https://github.com/Lacrymosaa/Meloetta",
-			"desc": "Spotify playlist downloader.",
-			"lang": "Python",
-			"stars": 17,
-			"watches": 17,
-			"forks": 0
+			"id": 568548195,
+			"name": "meloetta",
+			"full_name": "spktrm/meloetta",
+			"owner_name": "spktrm",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/72776130?v=4",
+			"url": "https://github.com/spktrm/meloetta",
+			"desc": "A Pokémon Battle Client and Reinforcement Learning Library for Interacting with Pokémon Showdown written in Python",
+			"lang": "JavaScript",
+			"stars": 18,
+			"watches": 18,
+			"forks": 1
 		}
 	},
 	{
@@ -6860,16 +6873,16 @@
 		"name": "Oratoria",
 		"slug": "oratoria",
 		"repo": {
-			"id": 765271423,
+			"id": 846753761,
 			"name": "oratoria",
-			"full_name": "BIBLIASYESTUDIOS/oratoria",
-			"owner_name": "BIBLIASYESTUDIOS",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/155080162?v=4",
-			"url": "https://github.com/BIBLIASYESTUDIOS/oratoria",
-			"desc": null,
-			"lang": null,
-			"stars": 0,
-			"watches": 0,
+			"full_name": "chofor-cliford/oratoria",
+			"owner_name": "chofor-cliford",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/116143090?v=4",
+			"url": "https://github.com/chofor-cliford/oratoria",
+			"desc": "A dynamic podcast platform empowering users to amplify their voices and share compelling stories.",
+			"lang": "TypeScript",
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -7418,13 +7431,13 @@
 		"name": "Necrozma",
 		"slug": "necrozma",
 		"repo": {
-			"id": 806131411,
-			"name": "Necrozma",
-			"full_name": "BlubbernderBernd/Necrozma",
-			"owner_name": "BlubbernderBernd",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/97407123?v=4",
-			"url": "https://github.com/BlubbernderBernd/Necrozma",
-			"desc": "Project: Nercozma",
+			"id": 394525353,
+			"name": "necrozma",
+			"full_name": "thedarksoull/necrozma",
+			"owner_name": "thedarksoull",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/87683656?v=4",
+			"url": "https://github.com/thedarksoull/necrozma",
+			"desc": null,
 			"lang": null,
 			"stars": 0,
 			"watches": 0,
@@ -7511,7 +7524,7 @@
 			"owner_name": "aixcyi",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/75880483?v=4",
 			"url": "https://github.com/aixcyi/zeraora",
-			"desc": "一个纯粹的工具库，为跨平台跨项目复用代码而开发。A utility Python package for our personal and corporate projects, with long time support.",
+			"desc": "A personal practical utility Python package, with long time support.",
 			"lang": "Python",
 			"stars": 4,
 			"watches": 4,
@@ -8079,13 +8092,13 @@
 		"name": "Zacian",
 		"slug": "zacian",
 		"repo": {
-			"id": 537900047,
-			"name": "Zacian",
-			"full_name": "OptimumArchitect/Zacian",
-			"owner_name": "OptimumArchitect",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/78250791?v=4",
-			"url": "https://github.com/OptimumArchitect/Zacian",
-			"desc": "A Discord Pokétwo/Pokémon helper bot.",
+			"id": 848605246,
+			"name": "zacian",
+			"full_name": "irvingdinh/zacian",
+			"owner_name": "irvingdinh",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/59089337?v=4",
+			"url": "https://github.com/irvingdinh/zacian",
+			"desc": "Lorem ipsum dolor sit amet",
 			"lang": null,
 			"stars": 0,
 			"watches": 0,
@@ -8797,8 +8810,8 @@
 			"url": "https://github.com/btechpt/yuyu",
 			"desc": null,
 			"lang": "Python",
-			"stars": 26,
-			"watches": 26,
+			"stars": 27,
+			"watches": 27,
 			"forks": 5
 		}
 	},
@@ -8880,10 +8893,10 @@
 		"repo": {
 			"id": 755978883,
 			"name": "felicanis",
-			"full_name": "nadia-data/felicanis",
-			"owner_name": "nadia-data",
+			"full_name": "elhaninn/felicanis",
+			"owner_name": "elhaninn",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/85584970?v=4",
-			"url": "https://github.com/nadia-data/felicanis",
+			"url": "https://github.com/elhaninn/felicanis",
 			"desc": null,
 			"lang": null,
 			"stars": 0,
