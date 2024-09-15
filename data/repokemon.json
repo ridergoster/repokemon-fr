@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3637,
-			"watches": 3637,
-			"forks": 733
+			"stars": 3652,
+			"watches": 3652,
+			"forks": 735
 		}
 	},
 	{
@@ -519,8 +519,8 @@
 			"url": "https://github.com/rezkam/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 193,
-			"watches": 193,
+			"stars": 195,
+			"watches": 195,
 			"forks": 30
 		}
 	},
@@ -966,8 +966,8 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10823,
-			"watches": 10823,
+			"stars": 10824,
+			"watches": 10824,
 			"forks": 1222
 		}
 	},
@@ -1002,9 +1002,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 732,
-			"watches": 732,
-			"forks": 140
+			"stars": 734,
+			"watches": 734,
+			"forks": 143
 		}
 	},
 	{
@@ -1030,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 309,
-			"watches": 309,
+			"stars": 310,
+			"watches": 310,
 			"forks": 20
 		}
 	},
@@ -1450,7 +1450,7 @@
 			"lang": "Python",
 			"stars": 5,
 			"watches": 5,
-			"forks": 2
+			"forks": 1
 		}
 	},
 	{
@@ -1484,8 +1484,8 @@
 			"url": "https://github.com/Tak-Iwamoto/ptera",
 			"desc": "Ptera is DateTime library for Deno",
 			"lang": "TypeScript",
-			"stars": 75,
-			"watches": 75,
+			"stars": 76,
+			"watches": 76,
 			"forks": 8
 		}
 	},
@@ -1566,9 +1566,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6440,
-			"watches": 6440,
-			"forks": 961
+			"stars": 6458,
+			"watches": 6458,
+			"forks": 960
 		}
 	},
 	{
@@ -1607,8 +1607,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1481,
-			"watches": 1481,
+			"stars": 1480,
+			"watches": 1480,
 			"forks": 29
 		}
 	},
@@ -1950,8 +1950,8 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 70,
-			"watches": 70,
+			"stars": 71,
+			"watches": 71,
 			"forks": 15
 		}
 	},
@@ -2375,8 +2375,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 191,
-			"watches": 191,
+			"stars": 192,
+			"watches": 192,
 			"forks": 30
 		}
 	},
@@ -2423,9 +2423,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 994,
-			"watches": 994,
-			"forks": 94
+			"stars": 1019,
+			"watches": 1019,
+			"forks": 99
 		}
 	},
 	{
@@ -2628,7 +2628,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型���理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模��管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 460,
 			"watches": 460,
@@ -3643,9 +3643,9 @@
 			"url": "https://github.com/LiliaFramework/Lilia",
 			"desc": "A Innovative Framework For Garry's Mod",
 			"lang": "Lua",
-			"stars": 13,
-			"watches": 13,
-			"forks": 12
+			"stars": 14,
+			"watches": 14,
+			"forks": 11
 		}
 	},
 	{
@@ -3722,8 +3722,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 371,
-			"watches": 371,
+			"stars": 373,
+			"watches": 373,
 			"forks": 60
 		}
 	},
@@ -4608,8 +4608,8 @@
 			"url": "https://github.com/chunibyo-wly/Riolu",
 			"desc": "Idiom Triple Game 成语消消乐（仿造《英雄三国》汉语游戏）",
 			"lang": "JavaScript",
-			"stars": 6,
-			"watches": 6,
+			"stars": 7,
+			"watches": 7,
 			"forks": 0
 		}
 	},
@@ -5627,8 +5627,8 @@
 			"url": "https://github.com/harikrishnan94/meiOS",
 			"desc": "meiOS is a Unix like kernel for Raspberry pi 3/4 written in Rust",
 			"lang": "Rust",
-			"stars": 2,
-			"watches": 2,
+			"stars": 3,
+			"watches": 3,
 			"forks": 0
 		}
 	},
@@ -6042,7 +6042,7 @@
 			"owner_name": "crnobog69",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/79972075?v=4",
 			"url": "https://github.com/crnobog69/cobaltium",
-			"desc": "⚛️ |  Cobaltium - Simple Unofficial `Cobalt.tools` Browser Extension",
+			"desc": "⚛️ |  Cobaltium - Simple Unofficial `Cobalt.tools` Browser Extension (Chromium, Firefox Desktop, Firefox Android)",
 			"lang": "JavaScript",
 			"stars": 2,
 			"watches": 2,
@@ -6116,8 +6116,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 480,
-			"watches": 480,
+			"stars": 482,
+			"watches": 482,
 			"forks": 48
 		}
 	},
@@ -7367,7 +7367,7 @@
 			"lang": "CoffeeScript",
 			"stars": 43,
 			"watches": 43,
-			"forks": 22
+			"forks": 23
 		}
 	},
 	{
@@ -7526,8 +7526,8 @@
 			"url": "https://github.com/aixcyi/zeraora",
 			"desc": "A personal practical utility Python package, with long time support.",
 			"lang": "Python",
-			"stars": 4,
-			"watches": 4,
+			"stars": 5,
+			"watches": 5,
 			"forks": 1
 		}
 	},
