@@ -1,3 +1,23 @@
+# Tue, 01 Oct 2024 01:12:33 GMT
+
+## Added: 2
+
+- Nsbbgamers42/relicanth
+- Number1-Whimsicott-Fan/Farigiraf
+
+## Removed: 1
+
+- irvingdinh/zamazenta
+
+## Changed: 6
+
+- moussa223/Dracaufeu → LUCA-DesComBes/dracaufeu
+- mathis33/zarbi → mogalia786/Zarbi
+- trannhutphat23/okeoke → dogerwak12/okeoke
+- chungwong/rayquaza → seg1-exe/rayquaza
+- zainal99/manzai → lccnet105811327/manzai
+- ShiftCodeEU/Regieleki → regieleki/regieleki
+
 # Sun, 15 Sep 2024 01:11:57 GMT
 
 Nothing changed
