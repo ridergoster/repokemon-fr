@@ -1,3 +1,17 @@
+# Tue, 15 Oct 2024 01:11:04 GMT
+
+## Removed: 1
+
+- xaslilac/nidorina
+
+## Changed: 5
+
+- chunibyo-wly/Riolu → winston779/riolu
+- Sowiriro/Phione → himanshusinghrajput7866/Phione
+- Lvl9999/Darkrai → DanExxed/Darkrai
+- chofor-cliford/oratoria → BIBLIASYESTUDIOS/oratoria
+- v4sj4n/meteno → meteno/meteno
+
 # Tue, 01 Oct 2024 01:12:33 GMT
 
 ## Added: 2

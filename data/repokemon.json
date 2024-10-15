@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3669,
-			"watches": 3669,
-			"forks": 736
+			"stars": 3683,
+			"watches": 3683,
+			"forks": 737
 		}
 	},
 	{
@@ -277,20 +277,7 @@
 	{
 		"id": "030",
 		"name": "Nidorina",
-		"slug": "nidorina",
-		"repo": {
-			"id": 270070825,
-			"name": "nidorina",
-			"full_name": "xaslilac/nidorina",
-			"owner_name": "xaslilac",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/101901389?v=4",
-			"url": "https://github.com/xaslilac/nidorina",
-			"desc": "NestJS goofin 🦊",
-			"lang": "TypeScript",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "nidorina"
 	},
 	{
 		"id": "031",
@@ -869,8 +856,8 @@
 			"url": "https://github.com/UT-Austin-RPL/Doduo",
 			"desc": "Official PyTorch implementation of Doduo: Dense Visual Correspondence from Unsupervised Semantic-Aware Flow",
 			"lang": "Python",
-			"stars": 42,
-			"watches": 42,
+			"stars": 43,
+			"watches": 43,
 			"forks": 2
 		}
 	},
@@ -966,9 +953,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10824,
-			"watches": 10824,
-			"forks": 1224
+			"stars": 10827,
+			"watches": 10827,
+			"forks": 1225
 		}
 	},
 	{
@@ -1004,7 +991,7 @@
 			"lang": "C",
 			"stars": 736,
 			"watches": 736,
-			"forks": 144
+			"forks": 145
 		}
 	},
 	{
@@ -1030,8 +1017,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 310,
-			"watches": 310,
+			"stars": 311,
+			"watches": 311,
 			"forks": 20
 		}
 	},
@@ -1058,9 +1045,9 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2101,
-			"watches": 2101,
-			"forks": 300
+			"stars": 2102,
+			"watches": 2102,
+			"forks": 299
 		}
 	},
 	{
@@ -1259,7 +1246,7 @@
 			"owner_name": "cran",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/6899542?v=4",
 			"url": "https://github.com/cran/magmaR",
-			"desc": "❗ This is a read-only mirror��of the CRAN R package repository.  magmaR — R-Client for Interacting with the 'UCSF Data Library'  ",
+			"desc": "❗ This is a read-only mirror of the CRAN R package repository.  magmaR — R-Client for Interacting with the 'UCSF Data Library'  ",
 			"lang": "R",
 			"stars": 0,
 			"watches": 0,
@@ -1343,9 +1330,9 @@
 			"url": "https://github.com/agrimgupta92/metamorph",
 			"desc": "Code for \"MetaMorph: Learning Universal Controllers with Transformers\", Gupta et al, ICLR 2022",
 			"lang": "Python",
-			"stars": 104,
-			"watches": 104,
-			"forks": 15
+			"stars": 105,
+			"watches": 105,
+			"forks": 16
 		}
 	},
 	{
@@ -1382,7 +1369,7 @@
 			"owner_name": "mili-tan",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/24996957?v=4",
 			"url": "https://github.com/mili-tan/Voltali",
-			"desc": "网页远程下载器",
+			"desc": "网页远程下���器",
 			"lang": "C#",
 			"stars": 0,
 			"watches": 0,
@@ -1502,8 +1489,8 @@
 			"url": "https://github.com/Nariod/ronflex",
 			"desc": "Attempts to suspend all known AV/EDRs processes on Windows using syscalls and the undocumented NtSuspendProcess API. Made with <3 for pentesters. Written in Rust.",
 			"lang": "Rust",
-			"stars": 12,
-			"watches": 12,
+			"stars": 13,
+			"watches": 13,
 			"forks": 1
 		}
 	},
@@ -1566,8 +1553,8 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6477,
-			"watches": 6477,
+			"stars": 6494,
+			"watches": 6494,
 			"forks": 963
 		}
 	},
@@ -1607,8 +1594,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1481,
-			"watches": 1481,
+			"stars": 1482,
+			"watches": 1482,
 			"forks": 29
 		}
 	},
@@ -1932,9 +1919,9 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 220,
-			"watches": 220,
-			"forks": 5
+			"stars": 223,
+			"watches": 223,
+			"forks": 6
 		}
 	},
 	{
@@ -1950,8 +1937,8 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 71,
-			"watches": 71,
+			"stars": 73,
+			"watches": 73,
 			"forks": 14
 		}
 	},
@@ -2204,8 +2191,8 @@
 			"url": "https://github.com/FL33TW00D/steelix",
 			"desc": "Your one stop CLI for ONNX model analysis.",
 			"lang": "Rust",
-			"stars": 44,
-			"watches": 44,
+			"stars": 45,
+			"watches": 45,
 			"forks": 3
 		}
 	},
@@ -2375,8 +2362,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 192,
-			"watches": 192,
+			"stars": 194,
+			"watches": 194,
 			"forks": 30
 		}
 	},
@@ -2423,9 +2410,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1033,
-			"watches": 1033,
-			"forks": 97
+			"stars": 1044,
+			"watches": 1044,
+			"forks": 100
 		}
 	},
 	{
@@ -3722,8 +3709,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 373,
-			"watches": 373,
+			"stars": 374,
+			"watches": 374,
 			"forks": 60
 		}
 	},
@@ -4549,7 +4536,7 @@
 			"owner_avatar": "https://avatars.githubusercontent.com/u/181441639?v=4",
 			"url": "https://github.com/lccnet105811327/manzai",
 			"desc": null,
-			"lang": "CSS",
+			"lang": "HTML",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4613,14 +4600,14 @@
 		"name": "Riolu",
 		"slug": "riolu",
 		"repo": {
-			"id": 589513610,
-			"name": "Riolu",
-			"full_name": "chunibyo-wly/Riolu",
-			"owner_name": "chunibyo-wly",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/33208530?v=4",
-			"url": "https://github.com/chunibyo-wly/Riolu",
-			"desc": "Idiom Triple Game 成语消消乐（仿造《英雄三国》汉语游戏）",
-			"lang": "JavaScript",
+			"id": 763900293,
+			"name": "riolu",
+			"full_name": "winston779/riolu",
+			"owner_name": "winston779",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/128442229?v=4",
+			"url": "https://github.com/winston779/riolu",
+			"desc": "RioLU精灵学院机场官网地址",
+			"lang": null,
 			"stars": 7,
 			"watches": 7,
 			"forks": 0
@@ -4639,8 +4626,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 796,
-			"watches": 796,
+			"stars": 797,
+			"watches": 797,
 			"forks": 75
 		}
 	},
@@ -4966,14 +4953,14 @@
 		"name": "Phione",
 		"slug": "phione",
 		"repo": {
-			"id": 459541817,
+			"id": 866912221,
 			"name": "Phione",
-			"full_name": "Sowiriro/Phione",
-			"owner_name": "Sowiriro",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/49465310?v=4",
-			"url": "https://github.com/Sowiriro/Phione",
+			"full_name": "himanshusinghrajput7866/Phione",
+			"owner_name": "himanshusinghrajput7866",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/165891443?v=4",
+			"url": "https://github.com/himanshusinghrajput7866/Phione",
 			"desc": null,
-			"lang": "Go",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -5002,17 +4989,17 @@
 		"name": "Darkrai",
 		"slug": "darkrai",
 		"repo": {
-			"id": 839179458,
+			"id": 840106912,
 			"name": "Darkrai",
-			"full_name": "Lvl9999/Darkrai",
-			"owner_name": "Lvl9999",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/123672448?v=4",
-			"url": "https://github.com/Lvl9999/Darkrai",
+			"full_name": "DanExxed/Darkrai",
+			"owner_name": "DanExxed",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/93799410?v=4",
+			"url": "https://github.com/DanExxed/Darkrai",
 			"desc": null,
 			"lang": null,
 			"stars": 0,
 			"watches": 0,
-			"forks": 1
+			"forks": 0
 		}
 	},
 	{
@@ -6129,9 +6116,9 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 490,
-			"watches": 490,
-			"forks": 48
+			"stars": 494,
+			"watches": 494,
+			"forks": 49
 		}
 	},
 	{
@@ -6886,16 +6873,16 @@
 		"name": "Oratoria",
 		"slug": "oratoria",
 		"repo": {
-			"id": 846753761,
+			"id": 765271423,
 			"name": "oratoria",
-			"full_name": "chofor-cliford/oratoria",
-			"owner_name": "chofor-cliford",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/116143090?v=4",
-			"url": "https://github.com/chofor-cliford/oratoria",
-			"desc": "A dynamic podcast platform empowering users to amplify their voices and share compelling stories.",
-			"lang": "TypeScript",
-			"stars": 1,
-			"watches": 1,
+			"full_name": "BIBLIASYESTUDIOS/oratoria",
+			"owner_name": "BIBLIASYESTUDIOS",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/155080162?v=4",
+			"url": "https://github.com/BIBLIASYESTUDIOS/oratoria",
+			"desc": null,
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
 			"forks": 0
 		}
 	},
@@ -7197,14 +7184,14 @@
 		"name": "Météno",
 		"slug": "meteno",
 		"repo": {
-			"id": 839299971,
+			"id": 653615173,
 			"name": "meteno",
-			"full_name": "v4sj4n/meteno",
-			"owner_name": "v4sj4n",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/102856709?v=4",
-			"url": "https://github.com/v4sj4n/meteno",
-			"desc": null,
-			"lang": "TypeScript",
+			"full_name": "meteno/meteno",
+			"owner_name": "meteno",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/136594556?v=4",
+			"url": "https://github.com/meteno/meteno",
+			"desc": "Config files for my GitHub profile.",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
