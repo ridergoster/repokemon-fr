@@ -1,3 +1,16 @@
+# Fri, 01 Nov 2024 01:14:29 GMT
+
+## Added: 2
+
+- VianneySonneville/poichigeon
+- Eglisesfortifiees/chlorobule
+
+## Changed: 3
+
+- ifkarsyah/gardevoir → KuuhakuTeam/Gardevoir
+- JulioCGH/Roserade → VVoruganti/roserade
+- DanExxed/Darkrai → karan-2006/Darkrai
+
 # Tue, 15 Oct 2024 01:11:04 GMT
 
 ## Removed: 1

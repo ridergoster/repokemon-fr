@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3683,
-			"watches": 3683,
-			"forks": 737
+			"stars": 3709,
+			"watches": 3709,
+			"forks": 739
 		}
 	},
 	{
@@ -388,8 +388,8 @@
 			"url": "https://github.com/Ssttuudd/Rafflesia",
 			"desc": "Bot for Lineage 2 Classic",
 			"lang": "C++",
-			"stars": 11,
-			"watches": 11,
+			"stars": 12,
+			"watches": 12,
 			"forks": 5
 		}
 	},
@@ -506,9 +506,9 @@
 			"url": "https://github.com/rezkam/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 196,
-			"watches": 196,
-			"forks": 30
+			"stars": 197,
+			"watches": 197,
+			"forks": 29
 		}
 	},
 	{
@@ -874,8 +874,8 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1238,
-			"watches": 1238,
+			"stars": 1239,
+			"watches": 1239,
 			"forks": 48
 		}
 	},
@@ -953,9 +953,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10827,
-			"watches": 10827,
-			"forks": 1225
+			"stars": 10835,
+			"watches": 10835,
+			"forks": 1222
 		}
 	},
 	{
@@ -989,9 +989,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 736,
-			"watches": 736,
-			"forks": 145
+			"stars": 746,
+			"watches": 746,
+			"forks": 150
 		}
 	},
 	{
@@ -1045,9 +1045,9 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2102,
-			"watches": 2102,
-			"forks": 299
+			"stars": 2103,
+			"watches": 2103,
+			"forks": 300
 		}
 	},
 	{
@@ -1369,7 +1369,7 @@
 			"owner_name": "mili-tan",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/24996957?v=4",
 			"url": "https://github.com/mili-tan/Voltali",
-			"desc": "网页远程下���器",
+			"desc": "网页远程下载器",
 			"lang": "C#",
 			"stars": 0,
 			"watches": 0,
@@ -1553,9 +1553,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6494,
-			"watches": 6494,
-			"forks": 963
+			"stars": 6512,
+			"watches": 6512,
+			"forks": 965
 		}
 	},
 	{
@@ -1594,8 +1594,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1482,
-			"watches": 1482,
+			"stars": 1484,
+			"watches": 1484,
 			"forks": 29
 		}
 	},
@@ -1919,8 +1919,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 223,
-			"watches": 223,
+			"stars": 224,
+			"watches": 224,
 			"forks": 6
 		}
 	},
@@ -1937,8 +1937,8 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 73,
-			"watches": 73,
+			"stars": 76,
+			"watches": 76,
 			"forks": 14
 		}
 	},
@@ -2410,9 +2410,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1044,
-			"watches": 1044,
-			"forks": 100
+			"stars": 1075,
+			"watches": 1075,
+			"forks": 107
 		}
 	},
 	{
@@ -2615,10 +2615,10 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件��、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
-			"stars": 460,
-			"watches": 460,
+			"stars": 459,
+			"watches": 459,
 			"forks": 55
 		}
 	},
@@ -2930,17 +2930,17 @@
 		"name": "Gardevoir",
 		"slug": "gardevoir",
 		"repo": {
-			"id": 839495945,
-			"name": "gardevoir",
-			"full_name": "ifkarsyah/gardevoir",
-			"owner_name": "ifkarsyah",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/29010183?v=4",
-			"url": "https://github.com/ifkarsyah/gardevoir",
-			"desc": null,
-			"lang": null,
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
+			"id": 513944863,
+			"name": "Gardevoir",
+			"full_name": "KuuhakuTeam/Gardevoir",
+			"owner_name": "KuuhakuTeam",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/102876891?v=4",
+			"url": "https://github.com/KuuhakuTeam/Gardevoir",
+			"desc": "A fun bot Telegram about Pokémon",
+			"lang": "Python",
+			"stars": 1,
+			"watches": 1,
+			"forks": 3
 		}
 	},
 	{
@@ -3630,8 +3630,8 @@
 			"url": "https://github.com/LiliaFramework/Lilia",
 			"desc": "A Innovative Framework For Garry's Mod",
 			"lang": "Lua",
-			"stars": 14,
-			"watches": 14,
+			"stars": 13,
+			"watches": 13,
 			"forks": 10
 		}
 	},
@@ -3709,8 +3709,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 374,
-			"watches": 374,
+			"stars": 375,
+			"watches": 375,
 			"forks": 60
 		}
 	},
@@ -4232,8 +4232,8 @@
 			"url": "https://github.com/utybo/Lixy",
 			"desc": "A Kotlin lexer framework with an easy-to-use DSL",
 			"lang": "Kotlin",
-			"stars": 48,
-			"watches": 48,
+			"stars": 49,
+			"watches": 49,
 			"forks": 0
 		}
 	},
@@ -4270,7 +4270,7 @@
 			"lang": "C++",
 			"stars": 34,
 			"watches": 34,
-			"forks": 7
+			"forks": 8
 		}
 	},
 	{
@@ -4283,14 +4283,14 @@
 		"name": "Roserade",
 		"slug": "roserade",
 		"repo": {
-			"id": 497787860,
-			"name": "Roserade",
-			"full_name": "JulioCGH/Roserade",
-			"owner_name": "JulioCGH",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/73197733?v=4",
-			"url": "https://github.com/JulioCGH/Roserade",
-			"desc": "Simulación de una red de sensores lineales utilizando MatLab",
-			"lang": "MATLAB",
+			"id": 874533625,
+			"name": "roserade",
+			"full_name": "VVoruganti/roserade",
+			"owner_name": "VVoruganti",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/13438633?v=4",
+			"url": "https://github.com/VVoruganti/roserade",
+			"desc": "A local embedding and rag system for my notes",
+			"lang": "Python",
 			"stars": 1,
 			"watches": 1,
 			"forks": 0
@@ -4626,8 +4626,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 797,
-			"watches": 797,
+			"stars": 798,
+			"watches": 798,
 			"forks": 75
 		}
 	},
@@ -4989,14 +4989,14 @@
 		"name": "Darkrai",
 		"slug": "darkrai",
 		"repo": {
-			"id": 840106912,
+			"id": 747210881,
 			"name": "Darkrai",
-			"full_name": "DanExxed/Darkrai",
-			"owner_name": "DanExxed",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/93799410?v=4",
-			"url": "https://github.com/DanExxed/Darkrai",
-			"desc": null,
-			"lang": null,
+			"full_name": "karan-2006/Darkrai",
+			"owner_name": "karan-2006",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/113700150?v=4",
+			"url": "https://github.com/karan-2006/Darkrai",
+			"desc": "This is my first repository ",
+			"lang": "HTML",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -5231,7 +5231,20 @@
 	{
 		"id": "519",
 		"name": "Poichigeon",
-		"slug": "poichigeon"
+		"slug": "poichigeon",
+		"repo": {
+			"id": 876666442,
+			"name": "poichigeon",
+			"full_name": "VianneySonneville/poichigeon",
+			"owner_name": "VianneySonneville",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/35524774?v=4",
+			"url": "https://github.com/VianneySonneville/poichigeon",
+			"desc": null,
+			"lang": "Ruby",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "520",
@@ -5389,7 +5402,20 @@
 	{
 		"id": "548",
 		"name": "Chlorobule",
-		"slug": "chlorobule"
+		"slug": "chlorobule",
+		"repo": {
+			"id": 873513634,
+			"name": "chlorobule",
+			"full_name": "Eglisesfortifiees/chlorobule",
+			"owner_name": "Eglisesfortifiees",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/158328678?v=4",
+			"url": "https://github.com/Eglisesfortifiees/chlorobule",
+			"desc": null,
+			"lang": "HTML",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "549",
@@ -6096,7 +6122,7 @@
 			"owner_name": "aeri",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/23065231?v=4",
 			"url": "https://github.com/aeri/Boreas",
-			"desc": "A cute Linda implementation in C++",
+			"desc": "A cute Linda PoC in C++",
 			"lang": "C++",
 			"stars": 10,
 			"watches": 10,
@@ -6116,9 +6142,9 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 494,
-			"watches": 494,
-			"forks": 49
+			"stars": 502,
+			"watches": 502,
+			"forks": 48
 		}
 	},
 	{
