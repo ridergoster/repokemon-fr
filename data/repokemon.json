@@ -223,8 +223,8 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3709,
-			"watches": 3709,
+			"stars": 3727,
+			"watches": 3727,
 			"forks": 739
 		}
 	},
@@ -388,8 +388,8 @@
 			"url": "https://github.com/Ssttuudd/Rafflesia",
 			"desc": "Bot for Lineage 2 Classic",
 			"lang": "C++",
-			"stars": 12,
-			"watches": 12,
+			"stars": 11,
+			"watches": 11,
 			"forks": 5
 		}
 	},
@@ -858,7 +858,7 @@
 			"lang": "Python",
 			"stars": 43,
 			"watches": 43,
-			"forks": 2
+			"forks": 3
 		}
 	},
 	{
@@ -874,9 +874,9 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1239,
-			"watches": 1239,
-			"forks": 48
+			"stars": 1241,
+			"watches": 1241,
+			"forks": 49
 		}
 	},
 	{
@@ -953,9 +953,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10835,
-			"watches": 10835,
-			"forks": 1222
+			"stars": 10841,
+			"watches": 10841,
+			"forks": 1221
 		}
 	},
 	{
@@ -989,9 +989,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 746,
-			"watches": 746,
-			"forks": 150
+			"stars": 750,
+			"watches": 750,
+			"forks": 151
 		}
 	},
 	{
@@ -1330,8 +1330,8 @@
 			"url": "https://github.com/agrimgupta92/metamorph",
 			"desc": "Code for \"MetaMorph: Learning Universal Controllers with Transformers\", Gupta et al, ICLR 2022",
 			"lang": "Python",
-			"stars": 105,
-			"watches": 105,
+			"stars": 106,
+			"watches": 106,
 			"forks": 16
 		}
 	},
@@ -1553,9 +1553,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6512,
-			"watches": 6512,
-			"forks": 965
+			"stars": 6531,
+			"watches": 6531,
+			"forks": 967
 		}
 	},
 	{
@@ -1594,8 +1594,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1484,
-			"watches": 1484,
+			"stars": 1485,
+			"watches": 1485,
 			"forks": 29
 		}
 	},
@@ -1860,8 +1860,8 @@
 			"url": "https://github.com/mistodon/melo",
 			"desc": "A music notation language and compiler to MIDI.",
 			"lang": "Rust",
-			"stars": 118,
-			"watches": 118,
+			"stars": 119,
+			"watches": 119,
 			"forks": 8
 		}
 	},
@@ -1919,8 +1919,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 224,
-			"watches": 224,
+			"stars": 225,
+			"watches": 225,
 			"forks": 6
 		}
 	},
@@ -1939,7 +1939,7 @@
 			"lang": "Go",
 			"stars": 76,
 			"watches": 76,
-			"forks": 14
+			"forks": 16
 		}
 	},
 	{
@@ -2410,8 +2410,8 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1075,
-			"watches": 1075,
+			"stars": 1089,
+			"watches": 1089,
 			"forks": 107
 		}
 	},
@@ -2546,7 +2546,7 @@
 			"owner_name": "paulm17",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/387463?v=4",
 			"url": "https://github.com/paulm17/raikou",
-			"desc": "Mantine fork to support UnoCSS",
+			"desc": "Mantine fork to support Css-in-js build time",
 			"lang": "TypeScript",
 			"stars": 2,
 			"watches": 2,
@@ -2615,7 +2615,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件��、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件���、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 459,
 			"watches": 459,
@@ -3775,14 +3775,14 @@
 		"name": "Okéoké",
 		"slug": "okeoke",
 		"repo": {
-			"id": 863950877,
+			"id": 884642298,
 			"name": "okeoke",
-			"full_name": "dogerwak12/okeoke",
-			"owner_name": "dogerwak12",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/183064748?v=4",
-			"url": "https://github.com/dogerwak12/okeoke",
+			"full_name": "HoaiPhuoc-03/okeoke",
+			"owner_name": "HoaiPhuoc-03",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/186901067?v=4",
+			"url": "https://github.com/HoaiPhuoc-03/okeoke",
 			"desc": null,
-			"lang": null,
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4268,8 +4268,8 @@
 			"url": "https://github.com/3096/luxray",
 			"desc": "an overlay utility for Pokémon on Nintendo Switch",
 			"lang": "C++",
-			"stars": 34,
-			"watches": 34,
+			"stars": 36,
+			"watches": 36,
 			"forks": 8
 		}
 	},
@@ -4536,7 +4536,7 @@
 			"owner_avatar": "https://avatars.githubusercontent.com/u/181441639?v=4",
 			"url": "https://github.com/lccnet105811327/manzai",
 			"desc": null,
-			"lang": "HTML",
+			"lang": "Java",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4608,9 +4608,9 @@
 			"url": "https://github.com/winston779/riolu",
 			"desc": "RioLU精灵学院机场官网地址",
 			"lang": null,
-			"stars": 7,
-			"watches": 7,
-			"forks": 0
+			"stars": 8,
+			"watches": 8,
+			"forks": 1
 		}
 	},
 	{
@@ -4626,9 +4626,9 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 798,
-			"watches": 798,
-			"forks": 75
+			"stars": 803,
+			"watches": 803,
+			"forks": 76
 		}
 	},
 	{
@@ -6054,7 +6054,7 @@
 			"lang": "Python",
 			"stars": 237,
 			"watches": 237,
-			"forks": 209
+			"forks": 208
 		}
 	},
 	{
@@ -6142,8 +6142,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 502,
-			"watches": 502,
+			"stars": 503,
+			"watches": 503,
 			"forks": 48
 		}
 	},
@@ -6242,17 +6242,17 @@
 		"name": "Meloetta",
 		"slug": "meloetta",
 		"repo": {
-			"id": 568548195,
-			"name": "meloetta",
-			"full_name": "spktrm/meloetta",
-			"owner_name": "spktrm",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/72776130?v=4",
-			"url": "https://github.com/spktrm/meloetta",
-			"desc": "A Pokémon Battle Client and Reinforcement Learning Library for Interacting with Pokémon Showdown written in Python",
-			"lang": "JavaScript",
-			"stars": 18,
-			"watches": 18,
-			"forks": 1
+			"id": 661209590,
+			"name": "Meloetta",
+			"full_name": "Lacrymosaa/Meloetta",
+			"owner_name": "Lacrymosaa",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/82874011?v=4",
+			"url": "https://github.com/Lacrymosaa/Meloetta",
+			"desc": "Spotify playlist downloader.",
+			"lang": "Python",
+			"stars": 17,
+			"watches": 17,
+			"forks": 0
 		}
 	},
 	{
@@ -7129,10 +7129,10 @@
 		"repo": {
 			"id": 369349427,
 			"name": "chelours",
-			"full_name": "Mothii-Code/chelours",
-			"owner_name": "Mothii-Code",
+			"full_name": "ethan-dh/chelours",
+			"owner_name": "ethan-dh",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/74271259?v=4",
-			"url": "https://github.com/Mothii-Code/chelours",
+			"url": "https://github.com/ethan-dh/chelours",
 			"desc": "Bot discord",
 			"lang": "JavaScript",
 			"stars": 0,
