@@ -1,3 +1,18 @@
+# Sun, 01 Dec 2024 01:18:06 GMT
+
+## Added: 1
+
+- TheLokj/HEATraN
+
+## Changed: 6
+
+- Charlieflair24/Tortank → nbittich/tortank
+- fanzeyi/seviper → BrownCoatAndKhakis/Seviper
+- RaghadAlshammari/terhal → salmaelbarbori/Terhal
+- seg1-exe/rayquaza → Dienomxy/Rayquaza
+- SehataKuro/Shaymin → parisfloschia/shaymin
+- BIBLIASYESTUDIOS/oratoria → JordanAxel7676/oratoria
+
 # Fri, 15 Nov 2024 01:11:03 GMT
 
 ## Changed: 2
