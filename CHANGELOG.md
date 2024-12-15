@@ -1,3 +1,18 @@
+# Sun, 15 Dec 2024 01:15:20 GMT
+
+## Added: 1
+
+- Mossinblue/Embrochet
+
+## Changed: 6
+
+- eHervouet/carapuce → bragard75/Carapuce
+- mogalia786/Zarbi → Swader/zarbi
+- lenisko/ursaring → seowalex/ursaring
+- Lautab/altaria → SrGaabriel/altaria
+- parisfloschia/shaymin → SehataKuro/Shaymin
+- neatteamsoftware/Magearna → BySplashGm/Magearna
+
 # Sun, 01 Dec 2024 01:18:06 GMT
 
 ## Added: 1
