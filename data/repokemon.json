@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3757,
-			"watches": 3757,
-			"forks": 747
+			"stars": 3778,
+			"watches": 3778,
+			"forks": 750
 		}
 	},
 	{
@@ -444,14 +444,14 @@
 		"name": "Taupiqueur",
 		"slug": "taupiqueur",
 		"repo": {
-			"id": 316809088,
-			"name": "Taupiqueur",
-			"full_name": "NathanLilamand/Taupiqueur",
-			"owner_name": "NathanLilamand",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/73931614?v=4",
-			"url": "https://github.com/NathanLilamand/Taupiqueur",
+			"id": 904932033,
+			"name": "taupiqueur",
+			"full_name": "alexherbo2/taupiqueur",
+			"owner_name": "alexherbo2",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/5666362?v=4",
+			"url": "https://github.com/alexherbo2/taupiqueur",
 			"desc": null,
-			"lang": "Java",
+			"lang": "JavaScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -613,8 +613,8 @@
 			"url": "https://github.com/codedge-llc/kadabra",
 			"desc": "HTTP/2 client for Elixir",
 			"lang": "Elixir",
-			"stars": 43,
-			"watches": 43,
+			"stars": 44,
+			"watches": 44,
 			"forks": 23
 		}
 	},
@@ -953,9 +953,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10841,
-			"watches": 10841,
-			"forks": 1223
+			"stars": 10844,
+			"watches": 10844,
+			"forks": 1222
 		}
 	},
 	{
@@ -989,9 +989,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 766,
-			"watches": 766,
-			"forks": 152
+			"stars": 772,
+			"watches": 772,
+			"forks": 151
 		}
 	},
 	{
@@ -1045,8 +1045,8 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2103,
-			"watches": 2103,
+			"stars": 2101,
+			"watches": 2101,
 			"forks": 300
 		}
 	},
@@ -1330,9 +1330,9 @@
 			"url": "https://github.com/agrimgupta92/metamorph",
 			"desc": "Code for \"MetaMorph: Learning Universal Controllers with Transformers\", Gupta et al, ICLR 2022",
 			"lang": "Python",
-			"stars": 107,
-			"watches": 107,
-			"forks": 18
+			"stars": 109,
+			"watches": 109,
+			"forks": 19
 		}
 	},
 	{
@@ -1348,8 +1348,8 @@
 			"url": "https://github.com/amethyst/evoli",
 			"desc": "An ecosystem-simulation game made with Amethyst",
 			"lang": "Rust",
-			"stars": 217,
-			"watches": 217,
+			"stars": 218,
+			"watches": 218,
 			"forks": 33
 		}
 	},
@@ -1363,14 +1363,14 @@
 		"name": "Voltali",
 		"slug": "voltali",
 		"repo": {
-			"id": 188193052,
+			"id": 904292022,
 			"name": "Voltali",
-			"full_name": "mili-tan/Voltali",
-			"owner_name": "mili-tan",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/24996957?v=4",
-			"url": "https://github.com/mili-tan/Voltali",
-			"desc": "网页远程下载器",
-			"lang": "C#",
+			"full_name": "Alekxays/Voltali",
+			"owner_name": "Alekxays",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/33782530?v=4",
+			"url": "https://github.com/Alekxays/Voltali",
+			"desc": null,
+			"lang": "JavaScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -1435,8 +1435,8 @@
 			"url": "https://github.com/kokimame/kabuto",
 			"desc": "日本株取引Bot開発 | freqtrade for Japanese stock trading",
 			"lang": "Python",
-			"stars": 6,
-			"watches": 6,
+			"stars": 7,
+			"watches": 7,
 			"forks": 1
 		}
 	},
@@ -1553,9 +1553,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6566,
-			"watches": 6566,
-			"forks": 974
+			"stars": 6584,
+			"watches": 6584,
+			"forks": 978
 		}
 	},
 	{
@@ -1594,8 +1594,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1487,
-			"watches": 1487,
+			"stars": 1488,
+			"watches": 1488,
 			"forks": 29
 		}
 	},
@@ -1824,8 +1824,8 @@
 			"url": "https://github.com/lanturn-defi/lanturn",
 			"desc": null,
 			"lang": "Python",
-			"stars": 12,
-			"watches": 12,
+			"stars": 13,
+			"watches": 13,
 			"forks": 7
 		}
 	},
@@ -1919,8 +1919,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 226,
-			"watches": 226,
+			"stars": 231,
+			"watches": 231,
 			"forks": 6
 		}
 	},
@@ -1937,9 +1937,9 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 77,
-			"watches": 77,
-			"forks": 16
+			"stars": 79,
+			"watches": 79,
+			"forks": 17
 		}
 	},
 	{
@@ -2410,9 +2410,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1119,
-			"watches": 1119,
-			"forks": 117
+			"stars": 1133,
+			"watches": 1133,
+			"forks": 118
 		}
 	},
 	{
@@ -2615,7 +2615,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件���、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 459,
 			"watches": 459,
@@ -2912,16 +2912,16 @@
 		"name": "Kirlia",
 		"slug": "kirlia",
 		"repo": {
-			"id": 737576711,
+			"id": 909186372,
 			"name": "kirlia",
-			"full_name": "soramon0/kirlia",
-			"owner_name": "soramon0",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/23435312?v=4",
-			"url": "https://github.com/soramon0/kirlia",
-			"desc": "Search engine in Go",
-			"lang": "Go",
-			"stars": 0,
-			"watches": 0,
+			"full_name": "surajgoraya/kirlia",
+			"owner_name": "surajgoraya",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/4347494?v=4",
+			"url": "https://github.com/surajgoraya/kirlia",
+			"desc": "A microservice which randomly serves a image file from a directory.",
+			"lang": "TypeScript",
+			"stars": 2,
+			"watches": 2,
 			"forks": 0
 		}
 	},
@@ -3630,8 +3630,8 @@
 			"url": "https://github.com/LiliaFramework/Lilia",
 			"desc": "A Innovative Framework For Garry's Mod",
 			"lang": "Lua",
-			"stars": 13,
-			"watches": 13,
+			"stars": 14,
+			"watches": 14,
 			"forks": 10
 		}
 	},
@@ -4071,7 +4071,7 @@
 			"lang": "TypeScript",
 			"stars": 23,
 			"watches": 23,
-			"forks": 4
+			"forks": 3
 		}
 	},
 	{
@@ -4529,14 +4529,14 @@
 		"name": "Manzaï",
 		"slug": "manzai",
 		"repo": {
-			"id": 859261759,
+			"id": 908387049,
 			"name": "manzai",
-			"full_name": "lccnet105811327/manzai",
-			"owner_name": "lccnet105811327",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/181441639?v=4",
-			"url": "https://github.com/lccnet105811327/manzai",
+			"full_name": "yuyasugi/manzai",
+			"owner_name": "yuyasugi",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/94780281?v=4",
+			"url": "https://github.com/yuyasugi/manzai",
 			"desc": null,
-			"lang": "Java",
+			"lang": "TypeScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4608,8 +4608,8 @@
 			"url": "https://github.com/winston779/riolu",
 			"desc": "RioLU精灵学院机场官网地址",
 			"lang": null,
-			"stars": 8,
-			"watches": 8,
+			"stars": 9,
+			"watches": 9,
 			"forks": 1
 		}
 	},
@@ -4626,9 +4626,9 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 810,
-			"watches": 810,
-			"forks": 77
+			"stars": 815,
+			"watches": 815,
+			"forks": 76
 		}
 	},
 	{
@@ -4636,14 +4636,14 @@
 		"name": "Hippopotas",
 		"slug": "hippopotas",
 		"repo": {
-			"id": 64031757,
+			"id": 905410968,
 			"name": "Hippopotas",
-			"full_name": "SerzN1/Hippopotas",
-			"owner_name": "SerzN1",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/2534649?v=4",
-			"url": "https://github.com/SerzN1/Hippopotas",
+			"full_name": "Ginoxe/Hippopotas",
+			"owner_name": "Ginoxe",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/93450451?v=4",
+			"url": "https://github.com/Ginoxe/Hippopotas",
 			"desc": null,
-			"lang": null,
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4755,7 +4755,20 @@
 	{
 		"id": "468",
 		"name": "Togekiss",
-		"slug": "togekiss"
+		"slug": "togekiss",
+		"repo": {
+			"id": 903862503,
+			"name": "togekiss",
+			"full_name": "TogekissTube/togekiss",
+			"owner_name": "TogekissTube",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/138976298?v=4",
+			"url": "https://github.com/TogekissTube/togekiss",
+			"desc": "Usable WM in C, X11, soon Qt to decore Windows!",
+			"lang": "C",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "469",
@@ -5020,14 +5033,14 @@
 		"name": "Shaymin",
 		"slug": "shaymin",
 		"repo": {
-			"id": 499872336,
-			"name": "Shaymin",
-			"full_name": "SehataKuro/Shaymin",
-			"owner_name": "SehataKuro",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/75165625?v=4",
-			"url": "https://github.com/SehataKuro/Shaymin",
+			"id": 904782924,
+			"name": "shaymin",
+			"full_name": "parisfuchsia/shaymin",
+			"owner_name": "parisfuchsia",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/182125060?v=4",
+			"url": "https://github.com/parisfuchsia/shaymin",
 			"desc": null,
-			"lang": "Python",
+			"lang": "TypeScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -5400,7 +5413,20 @@
 	{
 		"id": "545",
 		"name": "Brutapode",
-		"slug": "brutapode"
+		"slug": "brutapode",
+		"repo": {
+			"id": 907498506,
+			"name": "Brutapode",
+			"full_name": "Brutapode/Brutapode",
+			"owner_name": "Brutapode",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/192635705?v=4",
+			"url": "https://github.com/Brutapode/Brutapode",
+			"desc": null,
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "546",
@@ -6155,8 +6181,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 503,
-			"watches": 503,
+			"stars": 509,
+			"watches": 509,
 			"forks": 48
 		}
 	},
@@ -7138,20 +7164,7 @@
 	{
 		"id": "760",
 		"name": "Chelours",
-		"slug": "chelours",
-		"repo": {
-			"id": 369349427,
-			"name": "chelours",
-			"full_name": "ethan-dh/chelours",
-			"owner_name": "ethan-dh",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/74271259?v=4",
-			"url": "https://github.com/ethan-dh/chelours",
-			"desc": "Bot discord",
-			"lang": "JavaScript",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "chelours"
 	},
 	{
 		"id": "761",
@@ -7406,7 +7419,7 @@
 			"lang": "CoffeeScript",
 			"stars": 44,
 			"watches": 44,
-			"forks": 24
+			"forks": 25
 		}
 	},
 	{
@@ -7815,20 +7828,7 @@
 	{
 		"id": "846",
 		"name": "Embrochet",
-		"slug": "embrochet",
-		"repo": {
-			"id": 899001788,
-			"name": "Embrochet",
-			"full_name": "Mossinblue/Embrochet",
-			"owner_name": "Mossinblue",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/147908010?v=4",
-			"url": "https://github.com/Mossinblue/Embrochet",
-			"desc": null,
-			"lang": "HTML",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "embrochet"
 	},
 	{
 		"id": "847",
@@ -8494,7 +8494,20 @@
 	{
 		"id": "948",
 		"name": "Terracool",
-		"slug": "terracool"
+		"slug": "terracool",
+		"repo": {
+			"id": 909678266,
+			"name": "terracool",
+			"full_name": "aditinim/terracool",
+			"owner_name": "aditinim",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/149367014?v=4",
+			"url": "https://github.com/aditinim/terracool",
+			"desc": null,
+			"lang": "HTML",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "949",

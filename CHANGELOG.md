@@ -1,3 +1,25 @@
+# Wed, 01 Jan 2025 01:13:03 GMT
+
+## Added: 3
+
+- TogekissTube/togekiss
+- Brutapode/Brutapode
+- aditinim/terracool
+
+## Removed: 2
+
+- ethan-dh/chelours
+- Mossinblue/Embrochet
+
+## Changed: 6
+
+- NathanLilamand/Taupiqueur → alexherbo2/taupiqueur
+- mili-tan/Voltali → Alekxays/Voltali
+- soramon0/kirlia → surajgoraya/kirlia
+- lccnet105811327/manzai → yuyasugi/manzai
+- SerzN1/Hippopotas → Ginoxe/Hippopotas
+- SehataKuro/Shaymin → parisfuchsia/shaymin
+
 # Sun, 15 Dec 2024 01:15:20 GMT
 
 ## Added: 1
