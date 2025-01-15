@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3778,
-			"watches": 3778,
-			"forks": 750
+			"stars": 3791,
+			"watches": 3791,
+			"forks": 751
 		}
 	},
 	{
@@ -426,7 +426,7 @@
 			"lang": "Python",
 			"stars": 24,
 			"watches": 24,
-			"forks": 4
+			"forks": 5
 		}
 	},
 	{
@@ -442,92 +442,27 @@
 	{
 		"id": "050",
 		"name": "Taupiqueur",
-		"slug": "taupiqueur",
-		"repo": {
-			"id": 904932033,
-			"name": "taupiqueur",
-			"full_name": "alexherbo2/taupiqueur",
-			"owner_name": "alexherbo2",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/5666362?v=4",
-			"url": "https://github.com/alexherbo2/taupiqueur",
-			"desc": null,
-			"lang": "JavaScript",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "taupiqueur"
 	},
 	{
 		"id": "051",
 		"name": "Triopikeur",
-		"slug": "triopikeur",
-		"repo": {
-			"id": 781969108,
-			"name": "Triopikeur",
-			"full_name": "AmonKm/Triopikeur",
-			"owner_name": "AmonKm",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/166015459?v=4",
-			"url": "https://github.com/AmonKm/Triopikeur",
-			"desc": null,
-			"lang": "JavaScript",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "triopikeur"
 	},
 	{
 		"id": "052",
 		"name": "Miaouss",
-		"slug": "miaouss",
-		"repo": {
-			"id": 122449812,
-			"name": "miaouss",
-			"full_name": "DivLoic/miaouss",
-			"owner_name": "DivLoic",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/7292538?v=4",
-			"url": "https://github.com/DivLoic/miaouss",
-			"desc": "A simple cats playground",
-			"lang": "Scala",
-			"stars": 1,
-			"watches": 1,
-			"forks": 0
-		}
+		"slug": "miaouss"
 	},
 	{
 		"id": "053",
 		"name": "Persian",
-		"slug": "persian",
-		"repo": {
-			"id": 12823010,
-			"name": "persian",
-			"full_name": "rezkam/persian",
-			"owner_name": "rezkam",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/1498074?v=4",
-			"url": "https://github.com/rezkam/persian",
-			"desc": "Simple Python tool for Persian language localization.",
-			"lang": "Python",
-			"stars": 199,
-			"watches": 199,
-			"forks": 29
-		}
+		"slug": "persian"
 	},
 	{
 		"id": "054",
 		"name": "Psykokwak",
-		"slug": "psykokwak",
-		"repo": {
-			"id": 382303337,
-			"name": "psykokwak",
-			"full_name": "DML-3S/psykokwak",
-			"owner_name": "DML-3S",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/86818487?v=4",
-			"url": "https://github.com/DML-3S/psykokwak",
-			"desc": null,
-			"lang": null,
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "psykokwak"
 	},
 	{
 		"id": "055",
@@ -953,9 +888,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10844,
-			"watches": 10844,
-			"forks": 1222
+			"stars": 10846,
+			"watches": 10846,
+			"forks": 1221
 		}
 	},
 	{
@@ -989,9 +924,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 772,
-			"watches": 772,
-			"forks": 151
+			"stars": 777,
+			"watches": 777,
+			"forks": 152
 		}
 	},
 	{
@@ -1045,8 +980,8 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2101,
-			"watches": 2101,
+			"stars": 2102,
+			"watches": 2102,
 			"forks": 300
 		}
 	},
@@ -1330,9 +1265,9 @@
 			"url": "https://github.com/agrimgupta92/metamorph",
 			"desc": "Code for \"MetaMorph: Learning Universal Controllers with Transformers\", Gupta et al, ICLR 2022",
 			"lang": "Python",
-			"stars": 109,
-			"watches": 109,
-			"forks": 19
+			"stars": 111,
+			"watches": 111,
+			"forks": 20
 		}
 	},
 	{
@@ -1553,9 +1488,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6584,
-			"watches": 6584,
-			"forks": 978
+			"stars": 6595,
+			"watches": 6595,
+			"forks": 980
 		}
 	},
 	{
@@ -1594,8 +1529,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1488,
-			"watches": 1488,
+			"stars": 1489,
+			"watches": 1489,
 			"forks": 29
 		}
 	},
@@ -1919,8 +1854,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 231,
-			"watches": 231,
+			"stars": 234,
+			"watches": 234,
 			"forks": 6
 		}
 	},
@@ -2143,20 +2078,7 @@
 	{
 		"id": "203",
 		"name": "Girafarig",
-		"slug": "girafarig",
-		"repo": {
-			"id": 63429438,
-			"name": "girafarig",
-			"full_name": "delascuevas/girafarig",
-			"owner_name": "delascuevas",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/16938919?v=4",
-			"url": "https://github.com/delascuevas/girafarig",
-			"desc": "<a href=\"http://delascuevas.nl\"></a>",
-			"lang": null,
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "girafarig"
 	},
 	{
 		"id": "204",
@@ -2181,74 +2103,22 @@
 	{
 		"id": "208",
 		"name": "Steelix",
-		"slug": "steelix",
-		"repo": {
-			"id": 536102642,
-			"name": "steelix",
-			"full_name": "FL33TW00D/steelix",
-			"owner_name": "FL33TW00D",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/45471420?v=4",
-			"url": "https://github.com/FL33TW00D/steelix",
-			"desc": "Your one stop CLI for ONNX model analysis.",
-			"lang": "Rust",
-			"stars": 45,
-			"watches": 45,
-			"forks": 3
-		}
+		"slug": "steelix"
 	},
 	{
 		"id": "209",
 		"name": "Snubbull",
-		"slug": "snubbull",
-		"repo": {
-			"id": 356878560,
-			"name": "Snubbull",
-			"full_name": "veb/Snubbull",
-			"owner_name": "veb",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/376245?v=4",
-			"url": "https://github.com/veb/Snubbull",
-			"desc": null,
-			"lang": null,
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "snubbull"
 	},
 	{
 		"id": "210",
 		"name": "Granbull",
-		"slug": "granbull",
-		"repo": {
-			"id": 356878656,
-			"name": "Granbull",
-			"full_name": "veb/Granbull",
-			"owner_name": "veb",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/376245?v=4",
-			"url": "https://github.com/veb/Granbull",
-			"desc": null,
-			"lang": null,
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "granbull"
 	},
 	{
 		"id": "211",
 		"name": "Qwilfish",
-		"slug": "qwilfish",
-		"repo": {
-			"id": 356878764,
-			"name": "Qwilfish",
-			"full_name": "veb/Qwilfish",
-			"owner_name": "veb",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/376245?v=4",
-			"url": "https://github.com/veb/Qwilfish",
-			"desc": null,
-			"lang": null,
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "qwilfish"
 	},
 	{
 		"id": "212",
@@ -2362,8 +2232,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 194,
-			"watches": 194,
+			"stars": 195,
+			"watches": 195,
 			"forks": 30
 		}
 	},
@@ -2410,9 +2280,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1133,
-			"watches": 1133,
-			"forks": 118
+			"stars": 1146,
+			"watches": 1146,
+			"forks": 120
 		}
 	},
 	{
@@ -2615,10 +2485,10 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件���、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
-			"stars": 459,
-			"watches": 459,
+			"stars": 458,
+			"watches": 458,
 			"forks": 55
 		}
 	},
@@ -2918,10 +2788,10 @@
 			"owner_name": "surajgoraya",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/4347494?v=4",
 			"url": "https://github.com/surajgoraya/kirlia",
-			"desc": "A microservice which randomly serves a image file from a directory.",
+			"desc": "A microservice which randomly serves a random GIF file from a directory.",
 			"lang": "TypeScript",
-			"stars": 2,
-			"watches": 2,
+			"stars": 3,
+			"watches": 3,
 			"forks": 0
 		}
 	},
@@ -3630,8 +3500,8 @@
 			"url": "https://github.com/LiliaFramework/Lilia",
 			"desc": "A Innovative Framework For Garry's Mod",
 			"lang": "Lua",
-			"stars": 14,
-			"watches": 14,
+			"stars": 15,
+			"watches": 15,
 			"forks": 10
 		}
 	},
@@ -3871,14 +3741,14 @@
 		"name": "Terhal",
 		"slug": "terhal",
 		"repo": {
-			"id": 896553633,
+			"id": 896517536,
 			"name": "Terhal",
-			"full_name": "salmaelbarbori/Terhal",
-			"owner_name": "salmaelbarbori",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/73172522?v=4",
-			"url": "https://github.com/salmaelbarbori/Terhal",
-			"desc": null,
-			"lang": "Python",
+			"full_name": "ZinebELMALKI/Terhal",
+			"owner_name": "ZinebELMALKI",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/106154155?v=4",
+			"url": "https://github.com/ZinebELMALKI/Terhal",
+			"desc": "UI part of darija travel chatbot",
+			"lang": "Jupyter Notebook",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4529,14 +4399,14 @@
 		"name": "Manzaï",
 		"slug": "manzai",
 		"repo": {
-			"id": 908387049,
+			"id": 859261759,
 			"name": "manzai",
-			"full_name": "yuyasugi/manzai",
-			"owner_name": "yuyasugi",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/94780281?v=4",
-			"url": "https://github.com/yuyasugi/manzai",
+			"full_name": "kkkkaon/manzai",
+			"owner_name": "kkkkaon",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/181441639?v=4",
+			"url": "https://github.com/kkkkaon/manzai",
 			"desc": null,
-			"lang": "TypeScript",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4608,8 +4478,8 @@
 			"url": "https://github.com/winston779/riolu",
 			"desc": "RioLU精灵学院机场官网地址",
 			"lang": null,
-			"stars": 9,
-			"watches": 9,
+			"stars": 10,
+			"watches": 10,
 			"forks": 1
 		}
 	},
@@ -4626,8 +4496,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 815,
-			"watches": 815,
+			"stars": 816,
+			"watches": 816,
 			"forks": 76
 		}
 	},
@@ -6093,7 +5963,7 @@
 			"lang": "Python",
 			"stars": 237,
 			"watches": 237,
-			"forks": 208
+			"forks": 207
 		}
 	},
 	{
@@ -6109,8 +5979,8 @@
 			"url": "https://github.com/crnobog69/cobaltium",
 			"desc": "⚛️ |  Cobaltium - Simple Unofficial `Cobalt.tools` Browser Extension (Chromium, Firefox Desktop, Firefox Android)",
 			"lang": "JavaScript",
-			"stars": 2,
-			"watches": 2,
+			"stars": 3,
+			"watches": 3,
 			"forks": 0
 		}
 	},

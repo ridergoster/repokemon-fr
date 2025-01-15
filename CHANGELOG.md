@@ -1,3 +1,23 @@
+# Wed, 15 Jan 2025 01:10:22 GMT
+
+## Removed: 10
+
+- alexherbo2/taupiqueur
+- AmonKm/Triopikeur
+- DivLoic/miaouss
+- rezkam/persian
+- DML-3S/psykokwak
+- delascuevas/girafarig
+- FL33TW00D/steelix
+- veb/Snubbull
+- veb/Granbull
+- veb/Qwilfish
+
+## Changed: 2
+
+- salmaelbarbori/Terhal → ZinebELMALKI/Terhal
+- yuyasugi/manzai → kkkkaon/manzai
+
 # Wed, 01 Jan 2025 01:13:03 GMT
 
 ## Added: 3
