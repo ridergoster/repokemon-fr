@@ -1,3 +1,27 @@
+# Sat, 01 Feb 2025 01:12:26 GMT
+
+## Added: 11
+
+- alexherbo2/taupiqueur
+- AmonKm/Triopikeur
+- DivLoic/miaouss
+- rezkam/persian
+- DML-3S/psykokwak
+- delascuevas/girafarig
+- FL33TW00D/steelix
+- veb/Snubbull
+- veb/Granbull
+- veb/Qwilfish
+- nolan6363/apitrini
+
+## Changed: 5
+
+- silvncr/Celebi → po5/celebi
+- Dienomxy/Rayquaza → ABthewebdev/rayquaza
+- kkkkaon/manzai → yuyasugi/manzai
+- karan-2006/Darkrai → BrianCassriel/Darkrai
+- dedennene/dedenne → gamma-delta/dedenne
+
 # Wed, 15 Jan 2025 01:10:22 GMT
 
 ## Removed: 10
