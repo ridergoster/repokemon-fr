@@ -1,3 +1,19 @@
+# Sat, 15 Feb 2025 01:09:24 GMT
+
+## Added: 2
+
+- Romaric0/insolourdo
+- jceintrey/pyrobut
+
+## Changed: 6
+
+- Ssttuudd/Rafflesia → iyxan23/rafflesia
+- ray1203/MunJa → khasu08/munja
+- HoaiPhuoc-03/okeoke → ayana-html/okeoke
+- ABthewebdev/rayquaza → han-skyler/Rayquaza
+- FirezTheGreat/Arceus → 99nil/arceus
+- leiddx/meltan → 52poke/meltan
+
 # Sat, 01 Feb 2025 01:12:26 GMT
 
 ## Added: 11
