@@ -1,3 +1,20 @@
+# Sat, 01 Mar 2025 01:13:06 GMT
+
+## Added: 2
+
+- datnt1110/Massko
+- Lumitech-create/Compagnol
+
+## Changed: 7
+
+- umangrmehta/pichu → Pedro-Moreno/Pichu
+- veb/Granbull → vannguyenthi-agilityio/granbull
+- Xyphenore/chartor → gangsoon2/Chartor
+- ayana-html/okeoke → Ksenia555/okeoke
+- ZinebELMALKI/Terhal → TravelAgentApp/Terhal
+- FelixSchlembach/torterra → ID-86/torterra
+- 99nil/arceus → FirezTheGreat/Arceus
+
 # Sat, 15 Feb 2025 01:09:24 GMT
 
 ## Added: 2

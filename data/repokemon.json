@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3805,
-			"watches": 3805,
-			"forks": 754
+			"stars": 3823,
+			"watches": 3823,
+			"forks": 758
 		}
 	},
 	{
@@ -506,9 +506,9 @@
 			"url": "https://github.com/rezkam/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 200,
-			"watches": 200,
-			"forks": 29
+			"stars": 201,
+			"watches": 201,
+			"forks": 30
 		}
 	},
 	{
@@ -874,8 +874,8 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1241,
-			"watches": 1241,
+			"stars": 1240,
+			"watches": 1240,
 			"forks": 49
 		}
 	},
@@ -953,9 +953,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10850,
-			"watches": 10850,
-			"forks": 1227
+			"stars": 10851,
+			"watches": 10851,
+			"forks": 1228
 		}
 	},
 	{
@@ -989,9 +989,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 780,
-			"watches": 780,
-			"forks": 153
+			"stars": 782,
+			"watches": 782,
+			"forks": 152
 		}
 	},
 	{
@@ -1045,8 +1045,8 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2101,
-			"watches": 2101,
+			"stars": 2103,
+			"watches": 2103,
 			"forks": 300
 		}
 	},
@@ -1553,9 +1553,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6622,
-			"watches": 6622,
-			"forks": 982
+			"stars": 6637,
+			"watches": 6637,
+			"forks": 984
 		}
 	},
 	{
@@ -1594,8 +1594,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1488,
-			"watches": 1488,
+			"stars": 1491,
+			"watches": 1491,
 			"forks": 29
 		}
 	},
@@ -1834,17 +1834,17 @@
 		"name": "Pichu",
 		"slug": "pichu",
 		"repo": {
-			"id": 114966945,
-			"name": "pichu",
-			"full_name": "umangrmehta/pichu",
-			"owner_name": "umangrmehta",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/32974691?v=4",
-			"url": "https://github.com/umangrmehta/pichu",
-			"desc": "Simplified version of Chess to recommend next move for the input board using Minimax Game Search Algorithm with Alpha-Beta Pruning",
-			"lang": "Python",
+			"id": 939665687,
+			"name": "Pichu",
+			"full_name": "Pedro-Moreno/Pichu",
+			"owner_name": "Pedro-Moreno",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/60677791?v=4",
+			"url": "https://github.com/Pedro-Moreno/Pichu",
+			"desc": "Projeto Web de compra de ingressos",
+			"lang": "HTML",
 			"stars": 1,
 			"watches": 1,
-			"forks": 1
+			"forks": 0
 		}
 	},
 	{
@@ -1860,8 +1860,8 @@
 			"url": "https://github.com/mistodon/melo",
 			"desc": "A music notation language and compiler to MIDI.",
 			"lang": "Rust",
-			"stars": 119,
-			"watches": 119,
+			"stars": 120,
+			"watches": 120,
 			"forks": 8
 		}
 	},
@@ -1919,8 +1919,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 234,
-			"watches": 234,
+			"stars": 235,
+			"watches": 235,
 			"forks": 6
 		}
 	},
@@ -1937,8 +1937,8 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 83,
-			"watches": 83,
+			"stars": 84,
+			"watches": 84,
 			"forks": 18
 		}
 	},
@@ -2232,12 +2232,12 @@
 		"name": "Granbull",
 		"slug": "granbull",
 		"repo": {
-			"id": 356878656,
-			"name": "Granbull",
-			"full_name": "veb/Granbull",
-			"owner_name": "veb",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/376245?v=4",
-			"url": "https://github.com/veb/Granbull",
+			"id": 940328017,
+			"name": "granbull",
+			"full_name": "vannguyenthi-agilityio/granbull",
+			"owner_name": "vannguyenthi-agilityio",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/14970133?v=4",
+			"url": "https://github.com/vannguyenthi-agilityio/granbull",
 			"desc": null,
 			"lang": null,
 			"stars": 0,
@@ -2423,9 +2423,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1189,
-			"watches": 1189,
-			"forks": 130
+			"stars": 1195,
+			"watches": 1195,
+			"forks": 131
 		}
 	},
 	{
@@ -2597,8 +2597,8 @@
 			"url": "https://github.com/froggestspirit/suiCune",
 			"desc": "A C port of Pokemon Crystal",
 			"lang": "Assembly",
-			"stars": 23,
-			"watches": 23,
+			"stars": 24,
+			"watches": 24,
 			"forks": 4
 		}
 	},
@@ -2628,7 +2628,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件���、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件��、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 457,
 			"watches": 457,
@@ -2692,7 +2692,20 @@
 	{
 		"id": "253",
 		"name": "Massko",
-		"slug": "massko"
+		"slug": "massko",
+		"repo": {
+			"id": 940357653,
+			"name": "Massko",
+			"full_name": "datnt1110/Massko",
+			"owner_name": "datnt1110",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/58016566?v=4",
+			"url": "https://github.com/datnt1110/Massko",
+			"desc": "Trợ giúp vận hành Massko",
+			"lang": "Python",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "254",
@@ -3439,14 +3452,14 @@
 		"name": "Chartor",
 		"slug": "chartor",
 		"repo": {
-			"id": 607819168,
-			"name": "chartor",
-			"full_name": "Xyphenore/chartor",
-			"owner_name": "Xyphenore",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/53941443?v=4",
-			"url": "https://github.com/Xyphenore/chartor",
+			"id": 938484004,
+			"name": "Chartor",
+			"full_name": "gangsoon2/Chartor",
+			"owner_name": "gangsoon2",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/31583415?v=4",
+			"url": "https://github.com/gangsoon2/Chartor",
 			"desc": null,
-			"lang": "JavaScript",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -3549,8 +3562,8 @@
 			"url": "https://github.com/SrGaabriel/altaria",
 			"desc": "🌌️ |  Altaria is an asynchronous, memory-safe, lightweight and blazingly fast http server framework written in Rust",
 			"lang": "Rust",
-			"stars": 2,
-			"watches": 2,
+			"stars": 3,
+			"watches": 3,
 			"forks": 1
 		}
 	},
@@ -3788,14 +3801,14 @@
 		"name": "Okéoké",
 		"slug": "okeoke",
 		"repo": {
-			"id": 931711701,
+			"id": 934135952,
 			"name": "okeoke",
-			"full_name": "ayana-html/okeoke",
-			"owner_name": "ayana-html",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/180651072?v=4",
-			"url": "https://github.com/ayana-html/okeoke",
+			"full_name": "Ksenia555/okeoke",
+			"owner_name": "Ksenia555",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/109479530?v=4",
+			"url": "https://github.com/Ksenia555/okeoke",
 			"desc": null,
-			"lang": "HTML",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -3884,17 +3897,17 @@
 		"name": "Terhal",
 		"slug": "terhal",
 		"repo": {
-			"id": 896517536,
+			"id": 862216298,
 			"name": "Terhal",
-			"full_name": "ZinebELMALKI/Terhal",
-			"owner_name": "ZinebELMALKI",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/106154155?v=4",
-			"url": "https://github.com/ZinebELMALKI/Terhal",
-			"desc": "UI part of darija travel chatbot",
-			"lang": "Jupyter Notebook",
+			"full_name": "TravelAgentApp/Terhal",
+			"owner_name": "TravelAgentApp",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/182521233?v=4",
+			"url": "https://github.com/TravelAgentApp/Terhal",
+			"desc": null,
+			"lang": "Java",
 			"stars": 0,
 			"watches": 0,
-			"forks": 0
+			"forks": 1
 		}
 	},
 	{
@@ -4115,14 +4128,14 @@
 		"name": "Torterra",
 		"slug": "torterra",
 		"repo": {
-			"id": 573626920,
+			"id": 938766814,
 			"name": "torterra",
-			"full_name": "FelixSchlembach/torterra",
-			"owner_name": "FelixSchlembach",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/95100038?v=4",
-			"url": "https://github.com/FelixSchlembach/torterra",
-			"desc": "GitHub-Repository für das WEB-Projekt-Torterra",
-			"lang": "HTML",
+			"full_name": "ID-86/torterra",
+			"owner_name": "ID-86",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/84634317?v=4",
+			"url": "https://github.com/ID-86/torterra",
+			"desc": null,
+			"lang": "CSS",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4634,8 +4647,8 @@
 			"url": "https://github.com/winston779/riolu",
 			"desc": "RioLU精灵学院机场官网地址",
 			"lang": null,
-			"stars": 12,
-			"watches": 12,
+			"stars": 13,
+			"watches": 13,
 			"forks": 1
 		}
 	},
@@ -5077,17 +5090,17 @@
 		"name": "Arceus",
 		"slug": "arceus",
 		"repo": {
-			"id": 354823541,
-			"name": "arceus",
-			"full_name": "99nil/arceus",
-			"owner_name": "99nil",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/84429291?v=4",
-			"url": "https://github.com/99nil/arceus",
-			"desc": "Kubernetes(k8s) resource content builder, CRD supported. Kubernetes(k8s) 所有资源内容生成器，支持CRD。",
-			"lang": "Go",
-			"stars": 13,
-			"watches": 13,
-			"forks": 4
+			"id": 386019693,
+			"name": "Arceus",
+			"full_name": "FirezTheGreat/Arceus",
+			"owner_name": "FirezTheGreat",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/55920870?v=4",
+			"url": "https://github.com/FirezTheGreat/Arceus",
+			"desc": "Discord Bot Focused On Modmail With Mongoose Using discord.js v13",
+			"lang": "JavaScript",
+			"stars": 14,
+			"watches": 14,
+			"forks": 8
 		}
 	},
 	{
@@ -6207,9 +6220,9 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 515,
-			"watches": 515,
-			"forks": 49
+			"stars": 518,
+			"watches": 518,
+			"forks": 50
 		}
 	},
 	{
@@ -7621,7 +7634,7 @@
 			"owner_avatar": "https://avatars.githubusercontent.com/u/183939143?v=4",
 			"url": "https://github.com/52poke/meltan",
 			"desc": "A collection of Dockerfiles for services running on 52Poké.",
-			"lang": "Shell",
+			"lang": "Dockerfile",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -8413,7 +8426,20 @@
 	{
 		"id": "924",
 		"name": "Compagnol",
-		"slug": "compagnol"
+		"slug": "compagnol",
+		"repo": {
+			"id": 938601728,
+			"name": "Compagnol",
+			"full_name": "Lumitech-create/Compagnol",
+			"owner_name": "Lumitech-create",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/197610329?v=4",
+			"url": "https://github.com/Lumitech-create/Compagnol",
+			"desc": null,
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "925",
