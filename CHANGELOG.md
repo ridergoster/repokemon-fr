@@ -1,3 +1,18 @@
+# Thu, 15 May 2025 01:13:47 GMT
+
+## Added: 1
+
+- netra-jadav/neitram
+
+## Removed: 1
+
+- jceintrey/pyrobut
+
+## Changed: 2
+
+- Shojam/Tropius → Hazza85/Tropius
+- ID-86/torterra → FelixSchlembach/torterra
+
 # Thu, 01 May 2025 01:17:40 GMT
 
 ## Added: 1
