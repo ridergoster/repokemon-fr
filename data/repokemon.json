@@ -205,8 +205,8 @@
 			"url": "https://github.com/chistopher/arbok",
 			"desc": "Directed Spanning Trees",
 			"lang": "Jupyter Notebook",
-			"stars": 13,
-			"watches": 13,
+			"stars": 14,
+			"watches": 14,
 			"forks": 5
 		}
 	},
@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3942,
-			"watches": 3942,
-			"forks": 771
+			"stars": 3972,
+			"watches": 3972,
+			"forks": 772
 		}
 	},
 	{
@@ -277,7 +277,20 @@
 	{
 		"id": "030",
 		"name": "Nidorina",
-		"slug": "nidorina"
+		"slug": "nidorina",
+		"repo": {
+			"id": 747334393,
+			"name": "Nidorina",
+			"full_name": "meyerlabneuro/Nidorina",
+			"owner_name": "meyerlabneuro",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/126107765?v=4",
+			"url": "https://github.com/meyerlabneuro/Nidorina",
+			"desc": "Data analysis coding files for \"Age and sex independently influence safety learning in mice\", published in Behavioural Brain Research (5 June 2025).",
+			"lang": "R",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "031",
@@ -388,8 +401,8 @@
 			"url": "https://github.com/iyxan23/rafflesia",
 			"desc": "🌼 a custom programming language to develop sketchware projects",
 			"lang": "Rust",
-			"stars": 12,
-			"watches": 12,
+			"stars": 11,
+			"watches": 11,
 			"forks": 1
 		}
 	},
@@ -953,9 +966,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10865,
-			"watches": 10865,
-			"forks": 1229
+			"stars": 10870,
+			"watches": 10870,
+			"forks": 1228
 		}
 	},
 	{
@@ -989,9 +1002,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 796,
-			"watches": 796,
-			"forks": 156
+			"stars": 802,
+			"watches": 802,
+			"forks": 157
 		}
 	},
 	{
@@ -1017,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 310,
-			"watches": 310,
+			"stars": 311,
+			"watches": 311,
 			"forks": 20
 		}
 	},
@@ -1045,8 +1058,8 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2104,
-			"watches": 2104,
+			"stars": 2105,
+			"watches": 2105,
 			"forks": 301
 		}
 	},
@@ -1330,9 +1343,9 @@
 			"url": "https://github.com/facebookresearch/metamorph",
 			"desc": "Code for MetaMorph Multimodal Understanding and Generation via Instruction Tuning",
 			"lang": "Python",
-			"stars": 165,
-			"watches": 165,
-			"forks": 5
+			"stars": 178,
+			"watches": 178,
+			"forks": 6
 		}
 	},
 	{
@@ -1435,8 +1448,8 @@
 			"url": "https://github.com/kokimame/kabuto",
 			"desc": "日本株取引Bot開発 | freqtrade for Japanese stock trading",
 			"lang": "Python",
-			"stars": 7,
-			"watches": 7,
+			"stars": 8,
+			"watches": 8,
 			"forks": 1
 		}
 	},
@@ -1553,8 +1566,8 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6765,
-			"watches": 6765,
+			"stars": 6794,
+			"watches": 6794,
 			"forks": 993
 		}
 	},
@@ -1576,8 +1589,8 @@
 			"url": "https://github.com/meew0/Mewtwo",
 			"desc": "IRC bot using Java and JRuby",
 			"lang": "Java",
-			"stars": 5,
-			"watches": 5,
+			"stars": 6,
+			"watches": 6,
 			"forks": 2
 		}
 	},
@@ -2423,8 +2436,8 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1247,
-			"watches": 1247,
+			"stars": 1261,
+			"watches": 1261,
 			"forks": 132
 		}
 	},
@@ -2628,7 +2641,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件���、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件��、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 457,
 			"watches": 457,
@@ -2712,14 +2725,14 @@
 		"name": "Jungko",
 		"slug": "jungko",
 		"repo": {
-			"id": 194253583,
+			"id": 991847634,
 			"name": "jungko",
-			"full_name": "tanakan2544/jungko",
-			"owner_name": "tanakan2544",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/52315277?v=4",
-			"url": "https://github.com/tanakan2544/jungko",
+			"full_name": "19582501/jungko",
+			"owner_name": "19582501",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/209606571?v=4",
+			"url": "https://github.com/19582501/jungko",
 			"desc": null,
-			"lang": "Python",
+			"lang": null,
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -2801,14 +2814,14 @@
 		"name": "Linéon",
 		"slug": "lineon",
 		"repo": {
-			"id": 312654899,
+			"id": 990682624,
 			"name": "lineon",
-			"full_name": "fleidloff/lineon",
-			"owner_name": "fleidloff",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/483573?v=4",
-			"url": "https://github.com/fleidloff/lineon",
-			"desc": null,
-			"lang": "Java",
+			"full_name": "GeorgeWeber/lineon",
+			"owner_name": "GeorgeWeber",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/5770301?v=4",
+			"url": "https://github.com/GeorgeWeber/lineon",
+			"desc": "Visualizing 2D Linear Transformations",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4064,14 +4077,14 @@
 		"name": "Rayquaza",
 		"slug": "rayquaza",
 		"repo": {
-			"id": 931466833,
+			"id": 985350013,
 			"name": "Rayquaza",
-			"full_name": "han-skyler/Rayquaza",
-			"owner_name": "han-skyler",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/121411614?v=4",
-			"url": "https://github.com/han-skyler/Rayquaza",
-			"desc": "레쿠쟈 프로젝트",
-			"lang": null,
+			"full_name": "Yuken-dev/Rayquaza",
+			"owner_name": "Yuken-dev",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/209280425?v=4",
+			"url": "https://github.com/Yuken-dev/Rayquaza",
+			"desc": null,
+			"lang": "HTML",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4678,8 +4691,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 815,
-			"watches": 815,
+			"stars": 817,
+			"watches": 817,
 			"forks": 74
 		}
 	},
@@ -4774,8 +4787,8 @@
 			"url": "https://github.com/KunoichiZ/Magnezone",
 			"desc": "Discord bot for the Pokemon Crossroads Discord Channel",
 			"lang": "JavaScript",
-			"stars": 3,
-			"watches": 3,
+			"stars": 4,
+			"watches": 4,
 			"forks": 1
 		}
 	},
@@ -6285,9 +6298,9 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 538,
-			"watches": 538,
-			"forks": 51
+			"stars": 541,
+			"watches": 541,
+			"forks": 52
 		}
 	},
 	{
@@ -7503,8 +7516,8 @@
 			"url": "https://github.com/LunalaProject/lunala",
 			"desc": "💎│ The official Lunala's source code! Yet a modern space exploration bot.",
 			"lang": "Kotlin",
-			"stars": 22,
-			"watches": 22,
+			"stars": 23,
+			"watches": 23,
 			"forks": 1
 		}
 	},
@@ -8966,14 +8979,14 @@
 		"name": "Dinglu",
 		"slug": "dinglu",
 		"repo": {
-			"id": 83780274,
+			"id": 984134268,
 			"name": "dinglu",
-			"full_name": "dinglu1/dinglu",
-			"owner_name": "dinglu1",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/25896508?v=4",
-			"url": "https://github.com/dinglu1/dinglu",
-			"desc": "web student",
-			"lang": "HTML",
+			"full_name": "MROS/dinglu",
+			"owner_name": "MROS",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/2306372?v=4",
+			"url": "https://github.com/MROS/dinglu",
+			"desc": "來寫個深度學習框架——鼎爐",
+			"lang": "CMake",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
