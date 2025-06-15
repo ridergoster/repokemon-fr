@@ -1,3 +1,15 @@
+# Sun, 15 Jun 2025 01:19:31 GMT
+
+## Added: 1
+
+- LuisCartagenaMora/Ogerpon
+
+## Changed: 3
+
+- Pedro-Moreno/Pichu → bahlo/pichu
+- Yuken-dev/Rayquaza → iamVici/rayquaza
+- rastr1sr/Darkrai → monzey/darkrai
+
 # Sun, 01 Jun 2025 01:26:05 GMT
 
 ## Added: 1

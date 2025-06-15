@@ -223,8 +223,8 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 3972,
-			"watches": 3972,
+			"stars": 3986,
+			"watches": 3986,
 			"forks": 772
 		}
 	},
@@ -437,8 +437,8 @@
 			"url": "https://github.com/AvyFly/parasect",
 			"desc": "Parameter management tool for autopilots",
 			"lang": "Python",
-			"stars": 24,
-			"watches": 24,
+			"stars": 25,
+			"watches": 25,
 			"forks": 5
 		}
 	},
@@ -887,8 +887,8 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1240,
-			"watches": 1240,
+			"stars": 1241,
+			"watches": 1241,
 			"forks": 49
 		}
 	},
@@ -966,9 +966,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10870,
-			"watches": 10870,
-			"forks": 1228
+			"stars": 10869,
+			"watches": 10869,
+			"forks": 1227
 		}
 	},
 	{
@@ -1002,9 +1002,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 802,
-			"watches": 802,
-			"forks": 157
+			"stars": 803,
+			"watches": 803,
+			"forks": 159
 		}
 	},
 	{
@@ -1030,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 311,
-			"watches": 311,
+			"stars": 308,
+			"watches": 308,
 			"forks": 20
 		}
 	},
@@ -1343,9 +1343,9 @@
 			"url": "https://github.com/facebookresearch/metamorph",
 			"desc": "Code for MetaMorph Multimodal Understanding and Generation via Instruction Tuning",
 			"lang": "Python",
-			"stars": 178,
-			"watches": 178,
-			"forks": 6
+			"stars": 185,
+			"watches": 185,
+			"forks": 7
 		}
 	},
 	{
@@ -1566,9 +1566,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6794,
-			"watches": 6794,
-			"forks": 993
+			"stars": 6807,
+			"watches": 6807,
+			"forks": 994
 		}
 	},
 	{
@@ -1607,8 +1607,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1494,
-			"watches": 1494,
+			"stars": 1496,
+			"watches": 1496,
 			"forks": 28
 		}
 	},
@@ -1847,16 +1847,16 @@
 		"name": "Pichu",
 		"slug": "pichu",
 		"repo": {
-			"id": 939665687,
-			"name": "Pichu",
-			"full_name": "Pedro-Moreno/Pichu",
-			"owner_name": "Pedro-Moreno",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/60677791?v=4",
-			"url": "https://github.com/Pedro-Moreno/Pichu",
-			"desc": "Projeto Web de compra de ingressos",
-			"lang": "CSS",
-			"stars": 1,
-			"watches": 1,
+			"id": 994882384,
+			"name": "pichu",
+			"full_name": "bahlo/pichu",
+			"owner_name": "bahlo",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/1725839?v=4",
+			"url": "https://github.com/bahlo/pichu",
+			"desc": "The static site generator designed to evolve with your needs.",
+			"lang": "Rust",
+			"stars": 3,
+			"watches": 3,
 			"forks": 0
 		}
 	},
@@ -1896,8 +1896,8 @@
 			"url": "https://github.com/aditeyabaral/togepi",
 			"desc": "A version control system built using Python and DropBox API",
 			"lang": "Python",
-			"stars": 26,
-			"watches": 26,
+			"stars": 25,
+			"watches": 25,
 			"forks": 2
 		}
 	},
@@ -1932,8 +1932,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 236,
-			"watches": 236,
+			"stars": 237,
+			"watches": 237,
 			"forks": 6
 		}
 	},
@@ -1950,9 +1950,9 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 84,
-			"watches": 84,
-			"forks": 20
+			"stars": 85,
+			"watches": 85,
+			"forks": 19
 		}
 	},
 	{
@@ -2436,9 +2436,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1261,
-			"watches": 1261,
-			"forks": 132
+			"stars": 1265,
+			"watches": 1265,
+			"forks": 131
 		}
 	},
 	{
@@ -2641,10 +2641,10 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件��、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组��库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
-			"stars": 457,
-			"watches": 457,
+			"stars": 456,
+			"watches": 456,
 			"forks": 54
 		}
 	},
@@ -3682,8 +3682,8 @@
 			"url": "https://github.com/LiliaFramework/Lilia",
 			"desc": "A Innovative Framework For Garry's Mod",
 			"lang": "Lua",
-			"stars": 19,
-			"watches": 19,
+			"stars": 20,
+			"watches": 20,
 			"forks": 15
 		}
 	},
@@ -3761,8 +3761,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 375,
-			"watches": 375,
+			"stars": 374,
+			"watches": 374,
 			"forks": 60
 		}
 	},
@@ -4077,16 +4077,16 @@
 		"name": "Rayquaza",
 		"slug": "rayquaza",
 		"repo": {
-			"id": 985350013,
-			"name": "Rayquaza",
-			"full_name": "Yuken-dev/Rayquaza",
-			"owner_name": "Yuken-dev",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/209280425?v=4",
-			"url": "https://github.com/Yuken-dev/Rayquaza",
-			"desc": null,
+			"id": 998587148,
+			"name": "rayquaza",
+			"full_name": "iamVici/rayquaza",
+			"owner_name": "iamVici",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/101990963?v=4",
+			"url": "https://github.com/iamVici/rayquaza",
+			"desc": "pokémon pokedex ",
 			"lang": "HTML",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -4320,8 +4320,8 @@
 			"url": "https://github.com/3096/luxray",
 			"desc": "an overlay utility for Pokémon on Nintendo Switch",
 			"lang": "C++",
-			"stars": 37,
-			"watches": 37,
+			"stars": 36,
+			"watches": 36,
 			"forks": 8
 		}
 	},
@@ -4673,8 +4673,8 @@
 			"url": "https://github.com/winston779/riolu",
 			"desc": "RioLU精灵学院机场官网地址",
 			"lang": null,
-			"stars": 15,
-			"watches": 15,
+			"stars": 16,
+			"watches": 16,
 			"forks": 1
 		}
 	},
@@ -5080,14 +5080,14 @@
 		"name": "Darkrai",
 		"slug": "darkrai",
 		"repo": {
-			"id": 973025384,
-			"name": "Darkrai",
-			"full_name": "rastr1sr/Darkrai",
-			"owner_name": "rastr1sr",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/179295209?v=4",
-			"url": "https://github.com/rastr1sr/Darkrai",
-			"desc": "A dark theme for Discord. Based on midnight-tokyo-night, amoled-cord, onekocord and many more. Customised to my liking.",
-			"lang": "CSS",
+			"id": 1001629015,
+			"name": "darkrai",
+			"full_name": "monzey/darkrai",
+			"owner_name": "monzey",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/6145593?v=4",
+			"url": "https://github.com/monzey/darkrai",
+			"desc": "Artificial Game master & World generator",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -9112,7 +9112,20 @@
 	{
 		"id": "1017",
 		"name": "Ogerpon",
-		"slug": "ogerpon"
+		"slug": "ogerpon",
+		"repo": {
+			"id": 985974598,
+			"name": "Ogerpon",
+			"full_name": "LuisCartagenaMora/Ogerpon",
+			"owner_name": "LuisCartagenaMora",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/65694845?v=4",
+			"url": "https://github.com/LuisCartagenaMora/Ogerpon",
+			"desc": null,
+			"lang": "JavaScript",
+			"stars": 1,
+			"watches": 1,
+			"forks": 0
+		}
 	},
 	{
 		"id": "1018",
