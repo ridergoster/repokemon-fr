@@ -1,3 +1,22 @@
+# Tue, 01 Jul 2025 01:22:47 GMT
+
+## Removed: 3
+
+- raulonlab/charmina
+- winston779/riolu
+- LuisCartagenaMora/Ogerpon
+
+## Changed: 8
+
+- angelbrunocruzhidalgo/nidoking → BEAMMWorks/Nidoking
+- frontenddev344/Tarsal → avology121/tarsal
+- evgeniyp92/wailmer → GirardiMatheus/Wailmer
+- BrownCoatAndKhakis/Seviper → Hochfrequenz/seviper
+- ivarley/jirachi → IfanTsai/jirachi
+- Mudadaa/tiplouf → flowersvnrain/tiplouf
+- monzey/darkrai → pokettia/darkrai
+- irvingdinh/zacian → RobertCoDuocUC/Zacian
+
 # Sun, 15 Jun 2025 01:19:31 GMT
 
 ## Added: 1
