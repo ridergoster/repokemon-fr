@@ -223,8 +223,8 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 4013,
-			"watches": 4013,
+			"stars": 4034,
+			"watches": 4034,
 			"forks": 772
 		}
 	},
@@ -966,9 +966,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10870,
-			"watches": 10870,
-			"forks": 1226
+			"stars": 10869,
+			"watches": 10869,
+			"forks": 1225
 		}
 	},
 	{
@@ -1030,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 309,
-			"watches": 309,
+			"stars": 308,
+			"watches": 308,
 			"forks": 20
 		}
 	},
@@ -1060,7 +1060,7 @@
 			"lang": "HTML",
 			"stars": 2106,
 			"watches": 2106,
-			"forks": 301
+			"forks": 302
 		}
 	},
 	{
@@ -1253,14 +1253,14 @@
 		"name": "Magmar",
 		"slug": "magmar",
 		"repo": {
-			"id": 362868217,
-			"name": "magmaR",
-			"full_name": "cran/magmaR",
-			"owner_name": "cran",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/6899542?v=4",
-			"url": "https://github.com/cran/magmaR",
-			"desc": "❗ This is a read-only mirror of the CRAN R package repository.  magmaR — R-Client for Interacting with the 'UCSF Data Library'  ",
-			"lang": "R",
+			"id": 1016749221,
+			"name": "magmar",
+			"full_name": "prawin10-mech/magmar",
+			"owner_name": "prawin10-mech",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/84778635?v=4",
+			"url": "https://github.com/prawin10-mech/magmar",
+			"desc": null,
+			"lang": "JavaScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -1343,8 +1343,8 @@
 			"url": "https://github.com/facebookresearch/metamorph",
 			"desc": "Code for MetaMorph Multimodal Understanding and Generation via Instruction Tuning",
 			"lang": "Python",
-			"stars": 192,
-			"watches": 192,
+			"stars": 194,
+			"watches": 194,
 			"forks": 7
 		}
 	},
@@ -1566,9 +1566,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6824,
-			"watches": 6824,
-			"forks": 998
+			"stars": 6842,
+			"watches": 6842,
+			"forks": 1000
 		}
 	},
 	{
@@ -1750,17 +1750,17 @@
 		"name": "Hoothoot",
 		"slug": "hoothoot",
 		"repo": {
-			"id": 86288104,
-			"name": "hoothoot",
-			"full_name": "tvkhoa/hoothoot",
-			"owner_name": "tvkhoa",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/1925001?v=4",
-			"url": "https://github.com/tvkhoa/hoothoot",
-			"desc": "hoothoot hoothoot hoothoot. Find your path in the forest of nested data",
-			"lang": "JavaScript",
+			"id": 199226420,
+			"name": "HootHoot",
+			"full_name": "replit-discord/HootHoot",
+			"owner_name": "replit-discord",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/47713465?v=4",
+			"url": "https://github.com/replit-discord/HootHoot",
+			"desc": "Justice 2.0, a moderation bot for the repl.it discord",
+			"lang": "Python",
 			"stars": 14,
 			"watches": 14,
-			"forks": 3
+			"forks": 9
 		}
 	},
 	{
@@ -1952,7 +1952,7 @@
 			"lang": "Go",
 			"stars": 88,
 			"watches": 88,
-			"forks": 19
+			"forks": 20
 		}
 	},
 	{
@@ -2388,8 +2388,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 198,
-			"watches": 198,
+			"stars": 199,
+			"watches": 199,
 			"forks": 30
 		}
 	},
@@ -2436,9 +2436,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1274,
-			"watches": 1274,
-			"forks": 131
+			"stars": 1283,
+			"watches": 1283,
+			"forks": 136
 		}
 	},
 	{
@@ -2641,7 +2641,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件��、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 456,
 			"watches": 456,
@@ -2679,8 +2679,8 @@
 			"url": "https://github.com/po5/celebi",
 			"desc": "mpv script to restore properties from past sessions",
 			"lang": "Lua",
-			"stars": 12,
-			"watches": 12,
+			"stars": 13,
+			"watches": 13,
 			"forks": 0
 		}
 	},
@@ -3669,9 +3669,9 @@
 			"url": "https://github.com/LiliaFramework/Lilia",
 			"desc": "A Innovative Framework For Garry's Mod",
 			"lang": "Lua",
-			"stars": 22,
-			"watches": 22,
-			"forks": 15
+			"stars": 24,
+			"watches": 24,
+			"forks": 17
 		}
 	},
 	{
@@ -4307,8 +4307,8 @@
 			"url": "https://github.com/3096/luxray",
 			"desc": "an overlay utility for Pokémon on Nintendo Switch",
 			"lang": "C++",
-			"stars": 36,
-			"watches": 36,
+			"stars": 35,
+			"watches": 35,
 			"forks": 8
 		}
 	},
@@ -4607,8 +4607,8 @@
 			"url": "https://github.com/sliminality/mime-jr",
 			"desc": "CS 263 project",
 			"lang": "Haskell",
-			"stars": 1,
-			"watches": 1,
+			"stars": 2,
+			"watches": 2,
 			"forks": 0
 		}
 	},
@@ -4650,7 +4650,20 @@
 	{
 		"id": "447",
 		"name": "Riolu",
-		"slug": "riolu"
+		"slug": "riolu",
+		"repo": {
+			"id": 763900293,
+			"name": "riolu",
+			"full_name": "winston779/riolu",
+			"owner_name": "winston779",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/128442229?v=4",
+			"url": "https://github.com/winston779/riolu",
+			"desc": "RioLU精灵学院机场官网地址",
+			"lang": null,
+			"stars": 20,
+			"watches": 20,
+			"forks": 1
+		}
 	},
 	{
 		"id": "448",
@@ -4665,8 +4678,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 818,
-			"watches": 818,
+			"stars": 819,
+			"watches": 819,
 			"forks": 73
 		}
 	},
@@ -5917,7 +5930,20 @@
 	{
 		"id": "599",
 		"name": "Tic",
-		"slug": "tic"
+		"slug": "tic",
+		"repo": {
+			"id": 670994854,
+			"name": "tic",
+			"full_name": "Dreamer365/tic",
+			"owner_name": "Dreamer365",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/58874428?v=4",
+			"url": "https://github.com/Dreamer365/tic",
+			"desc": null,
+			"lang": null,
+			"stars": 246,
+			"watches": 246,
+			"forks": 6
+		}
 	},
 	{
 		"id": "600",
@@ -6272,9 +6298,9 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 543,
-			"watches": 543,
-			"forks": 52
+			"stars": 546,
+			"watches": 546,
+			"forks": 53
 		}
 	},
 	{
@@ -7029,12 +7055,12 @@
 		"name": "Oratoria",
 		"slug": "oratoria",
 		"repo": {
-			"id": 889717271,
+			"id": 1019724526,
 			"name": "oratoria",
-			"full_name": "JordanAxel7676/oratoria",
-			"owner_name": "JordanAxel7676",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/128415429?v=4",
-			"url": "https://github.com/JordanAxel7676/oratoria",
+			"full_name": "rodrigoniskier/oratoria",
+			"owner_name": "rodrigoniskier",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/202097471?v=4",
+			"url": "https://github.com/rodrigoniskier/oratoria",
 			"desc": null,
 			"lang": "HTML",
 			"stars": 0,
@@ -7472,8 +7498,8 @@
 			"url": "https://github.com/CodeHariK/solgaleo",
 			"desc": "Solidjs ui library",
 			"lang": "TypeScript",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -8935,13 +8961,13 @@
 		"name": "Baojian",
 		"slug": "baojian",
 		"repo": {
-			"id": 373502574,
+			"id": 1014092523,
 			"name": "baojian",
-			"full_name": "baojian/baojian",
-			"owner_name": "baojian",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/85277986?v=4",
-			"url": "https://github.com/baojian/baojian",
-			"desc": "Config files for my GitHub profile.",
+			"full_name": "sarby-code/baojian",
+			"owner_name": "sarby-code",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/218709903?v=4",
+			"url": "https://github.com/sarby-code/baojian",
+			"desc": "保健老嗮",
 			"lang": null,
 			"stars": 0,
 			"watches": 0,
@@ -9086,7 +9112,20 @@
 	{
 		"id": "1017",
 		"name": "Ogerpon",
-		"slug": "ogerpon"
+		"slug": "ogerpon",
+		"repo": {
+			"id": 1017268360,
+			"name": "ogerpon",
+			"full_name": "sudhanshu923/ogerpon",
+			"owner_name": "sudhanshu923",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/176990453?v=4",
+			"url": "https://github.com/sudhanshu923/ogerpon",
+			"desc": null,
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "1018",
