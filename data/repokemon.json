@@ -223,8 +223,8 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 4034,
-			"watches": 4034,
+			"stars": 4063,
+			"watches": 4063,
 			"forks": 772
 		}
 	},
@@ -519,8 +519,8 @@
 			"url": "https://github.com/rezkam/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 201,
-			"watches": 201,
+			"stars": 202,
+			"watches": 202,
 			"forks": 30
 		}
 	},
@@ -610,7 +610,7 @@
 			"lang": "Java",
 			"stars": 74,
 			"watches": 74,
-			"forks": 12
+			"forks": 10
 		}
 	},
 	{
@@ -935,17 +935,17 @@
 		"name": "Crustabri",
 		"slug": "crustabri",
 		"repo": {
-			"id": 688028322,
+			"id": 786421780,
 			"name": "crustabri",
-			"full_name": "crillab/crustabri",
-			"owner_name": "crillab",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/32325236?v=4",
-			"url": "https://github.com/crillab/crustabri",
-			"desc": "An argumentation framework library & solver.",
-			"lang": "Rust",
-			"stars": 2,
-			"watches": 2,
-			"forks": 2
+			"full_name": "Hezee1/crustabri",
+			"owner_name": "Hezee1",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/85757380?v=4",
+			"url": "https://github.com/Hezee1/crustabri",
+			"desc": null,
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
 		}
 	},
 	{
@@ -966,9 +966,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10869,
-			"watches": 10869,
-			"forks": 1225
+			"stars": 10871,
+			"watches": 10871,
+			"forks": 1226
 		}
 	},
 	{
@@ -1002,9 +1002,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 810,
-			"watches": 810,
-			"forks": 159
+			"stars": 814,
+			"watches": 814,
+			"forks": 160
 		}
 	},
 	{
@@ -1030,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 308,
-			"watches": 308,
+			"stars": 307,
+			"watches": 307,
 			"forks": 20
 		}
 	},
@@ -1343,9 +1343,9 @@
 			"url": "https://github.com/facebookresearch/metamorph",
 			"desc": "Code for MetaMorph Multimodal Understanding and Generation via Instruction Tuning",
 			"lang": "Python",
-			"stars": 194,
-			"watches": 194,
-			"forks": 7
+			"stars": 199,
+			"watches": 199,
+			"forks": 8
 		}
 	},
 	{
@@ -1566,9 +1566,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6842,
-			"watches": 6842,
-			"forks": 1000
+			"stars": 6872,
+			"watches": 6872,
+			"forks": 1005
 		}
 	},
 	{
@@ -1607,8 +1607,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1497,
-			"watches": 1497,
+			"stars": 1496,
+			"watches": 1496,
 			"forks": 28
 		}
 	},
@@ -1932,8 +1932,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 237,
-			"watches": 237,
+			"stars": 238,
+			"watches": 238,
 			"forks": 6
 		}
 	},
@@ -1950,9 +1950,9 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 88,
-			"watches": 88,
-			"forks": 20
+			"stars": 89,
+			"watches": 89,
+			"forks": 21
 		}
 	},
 	{
@@ -2388,8 +2388,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 199,
-			"watches": 199,
+			"stars": 198,
+			"watches": 198,
 			"forks": 30
 		}
 	},
@@ -2436,9 +2436,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1283,
-			"watches": 1283,
-			"forks": 136
+			"stars": 1294,
+			"watches": 1294,
+			"forks": 141
 		}
 	},
 	{
@@ -2641,7 +2641,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件��、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 456,
 			"watches": 456,
@@ -3115,7 +3115,20 @@
 	{
 		"id": "296",
 		"name": "Makuhita",
-		"slug": "makuhita"
+		"slug": "makuhita",
+		"repo": {
+			"id": 1024417831,
+			"name": "makuhita",
+			"full_name": "Dijo777/makuhita",
+			"owner_name": "Dijo777",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/222277609?v=4",
+			"url": "https://github.com/Dijo777/makuhita",
+			"desc": null,
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "297",
@@ -3671,7 +3684,7 @@
 			"lang": "Lua",
 			"stars": 24,
 			"watches": 24,
-			"forks": 17
+			"forks": 18
 		}
 	},
 	{
@@ -3748,8 +3761,8 @@
 			"url": "https://github.com/ANSSI-FR/polichombr",
 			"desc": "Collaborative malware analysis framework",
 			"lang": "Python",
-			"stars": 375,
-			"watches": 375,
+			"stars": 376,
+			"watches": 376,
 			"forks": 60
 		}
 	},
@@ -4273,7 +4286,7 @@
 			"lang": "Kotlin",
 			"stars": 49,
 			"watches": 49,
-			"forks": 0
+			"forks": 1
 		}
 	},
 	{
@@ -4660,8 +4673,8 @@
 			"url": "https://github.com/winston779/riolu",
 			"desc": "RioLU精灵学院机场官网地址",
 			"lang": null,
-			"stars": 20,
-			"watches": 20,
+			"stars": 22,
+			"watches": 22,
 			"forks": 1
 		}
 	},
@@ -4678,8 +4691,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 819,
-			"watches": 819,
+			"stars": 821,
+			"watches": 821,
 			"forks": 73
 		}
 	},
@@ -5601,10 +5614,10 @@
 		"repo": {
 			"id": 511491979,
 			"name": "Cryptero",
-			"full_name": "edindevx/Cryptero",
-			"owner_name": "edindevx",
+			"full_name": "haorxor/Cryptero",
+			"owner_name": "haorxor",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/80115301?v=4",
-			"url": "https://github.com/edindevx/Cryptero",
+			"url": "https://github.com/haorxor/Cryptero",
 			"desc": "Discord bot for encryption and decryption",
 			"lang": "JavaScript",
 			"stars": 0,
@@ -5701,14 +5714,14 @@
 		"name": "Zoroark",
 		"slug": "zoroark",
 		"repo": {
-			"id": 734906322,
-			"name": "zoroark",
-			"full_name": "frantjc/zoroark",
-			"owner_name": "frantjc",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/39865011?v=4",
-			"url": "https://github.com/frantjc/zoroark",
-			"desc": "Play Linux Steam games on macOS using containers.",
-			"lang": "Go",
+			"id": 1029151606,
+			"name": "Zoroark",
+			"full_name": "prodkiran/Zoroark",
+			"owner_name": "prodkiran",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/141020283?v=4",
+			"url": "https://github.com/prodkiran/Zoroark",
+			"desc": "Edgy illusion fox with main character energy",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -5940,8 +5953,8 @@
 			"url": "https://github.com/Dreamer365/tic",
 			"desc": null,
 			"lang": null,
-			"stars": 246,
-			"watches": 246,
+			"stars": 245,
+			"watches": 245,
 			"forks": 6
 		}
 	},
@@ -6298,8 +6311,8 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 546,
-			"watches": 546,
+			"stars": 548,
+			"watches": 548,
 			"forks": 53
 		}
 	},
@@ -7516,8 +7529,8 @@
 			"url": "https://github.com/LunalaProject/lunala",
 			"desc": "💎│ The official Lunala's source code! Yet a modern space exploration bot.",
 			"lang": "Kotlin",
-			"stars": 23,
-			"watches": 23,
+			"stars": 22,
+			"watches": 22,
 			"forks": 1
 		}
 	},
@@ -8261,14 +8274,14 @@
 		"name": "Zacian",
 		"slug": "zacian",
 		"repo": {
-			"id": 1010894526,
-			"name": "Zacian",
-			"full_name": "RobertCoDuocUC/Zacian",
-			"owner_name": "RobertCoDuocUC",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/218524099?v=4",
-			"url": "https://github.com/RobertCoDuocUC/Zacian",
+			"id": 1026879128,
+			"name": "zacian",
+			"full_name": "jambuz/zacian",
+			"owner_name": "jambuz",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/92696511?v=4",
+			"url": "https://github.com/jambuz/zacian",
 			"desc": null,
-			"lang": "Python",
+			"lang": "Zig",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0

@@ -1,3 +1,15 @@
+# Fri, 01 Aug 2025 01:24:00 GMT
+
+## Added: 1
+
+- Dijo777/makuhita
+
+## Changed: 3
+
+- crillab/crustabri → Hezee1/crustabri
+- frantjc/zoroark → prodkiran/Zoroark
+- RobertCoDuocUC/Zacian → jambuz/zacian
+
 # Tue, 15 Jul 2025 01:17:45 GMT
 
 ## Added: 3
