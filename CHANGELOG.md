@@ -1,3 +1,17 @@
+# Fri, 15 Aug 2025 01:18:24 GMT
+
+## Added: 2
+
+- ayanbanglawala/blizzi
+- starsplitterrecords/ECAID
+
+## Changed: 4
+
+- chistopher/arbok → mr-karan/arbok
+- SehataKuro/Shaymin → Rhplx/Shaymin
+- rodrigoniskier/oratoria → ProfeLondres/OratorIA
+- sarby-code/baojian → baojian/baojian
+
 # Fri, 01 Aug 2025 01:24:00 GMT
 
 ## Added: 1

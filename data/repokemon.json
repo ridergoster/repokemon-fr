@@ -197,16 +197,16 @@
 		"name": "Arbok",
 		"slug": "arbok",
 		"repo": {
-			"id": 348340913,
+			"id": 513611703,
 			"name": "arbok",
-			"full_name": "chistopher/arbok",
-			"owner_name": "chistopher",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/12047669?v=4",
-			"url": "https://github.com/chistopher/arbok",
-			"desc": "Directed Spanning Trees",
-			"lang": "Jupyter Notebook",
-			"stars": 14,
-			"watches": 14,
+			"full_name": "mr-karan/arbok",
+			"owner_name": "mr-karan",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/5689132?v=4",
+			"url": "https://github.com/mr-karan/arbok",
+			"desc": "Secure HTTP tunnels to localhost using WireGuard - Share your local dev server instantly",
+			"lang": "Go",
+			"stars": 87,
+			"watches": 87,
 			"forks": 5
 		}
 	},
@@ -223,9 +223,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 4063,
-			"watches": 4063,
-			"forks": 772
+			"stars": 4078,
+			"watches": 4078,
+			"forks": 774
 		}
 	},
 	{
@@ -401,8 +401,8 @@
 			"url": "https://github.com/iyxan23/rafflesia",
 			"desc": "🌼 a custom programming language to develop sketchware projects",
 			"lang": "Rust",
-			"stars": 11,
-			"watches": 11,
+			"stars": 12,
+			"watches": 12,
 			"forks": 1
 		}
 	},
@@ -521,7 +521,7 @@
 			"lang": "Python",
 			"stars": 202,
 			"watches": 202,
-			"forks": 30
+			"forks": 31
 		}
 	},
 	{
@@ -628,7 +628,7 @@
 			"lang": "Elixir",
 			"stars": 44,
 			"watches": 44,
-			"forks": 24
+			"forks": 25
 		}
 	},
 	{
@@ -966,9 +966,9 @@
 			"url": "https://github.com/withspectrum/spectrum",
 			"desc": "Simple, powerful online communities.",
 			"lang": "JavaScript",
-			"stars": 10871,
-			"watches": 10871,
-			"forks": 1226
+			"stars": 10872,
+			"watches": 10872,
+			"forks": 1230
 		}
 	},
 	{
@@ -1002,8 +1002,8 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 814,
-			"watches": 814,
+			"stars": 813,
+			"watches": 813,
 			"forks": 160
 		}
 	},
@@ -1030,8 +1030,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 307,
-			"watches": 307,
+			"stars": 308,
+			"watches": 308,
 			"forks": 20
 		}
 	},
@@ -1058,8 +1058,8 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2106,
-			"watches": 2106,
+			"stars": 2108,
+			"watches": 2108,
 			"forks": 302
 		}
 	},
@@ -1343,8 +1343,8 @@
 			"url": "https://github.com/facebookresearch/metamorph",
 			"desc": "Code for MetaMorph Multimodal Understanding and Generation via Instruction Tuning",
 			"lang": "Python",
-			"stars": 199,
-			"watches": 199,
+			"stars": 207,
+			"watches": 207,
 			"forks": 8
 		}
 	},
@@ -1566,9 +1566,9 @@
 			"url": "https://github.com/google/draco",
 			"desc": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
 			"lang": "C++",
-			"stars": 6872,
-			"watches": 6872,
-			"forks": 1005
+			"stars": 6904,
+			"watches": 6904,
+			"forks": 1010
 		}
 	},
 	{
@@ -2388,8 +2388,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 198,
-			"watches": 198,
+			"stars": 199,
+			"watches": 199,
 			"forks": 30
 		}
 	},
@@ -2436,9 +2436,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1294,
-			"watches": 1294,
-			"forks": 141
+			"stars": 1304,
+			"watches": 1304,
+			"forks": 139
 		}
 	},
 	{
@@ -2645,7 +2645,7 @@
 			"lang": "JavaScript",
 			"stars": 456,
 			"watches": 456,
-			"forks": 54
+			"forks": 55
 		}
 	},
 	{
@@ -4673,8 +4673,8 @@
 			"url": "https://github.com/winston779/riolu",
 			"desc": "RioLU精灵学院机场官网地址",
 			"lang": null,
-			"stars": 22,
-			"watches": 22,
+			"stars": 24,
+			"watches": 24,
 			"forks": 1
 		}
 	},
@@ -4691,8 +4691,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 821,
-			"watches": 821,
+			"stars": 822,
+			"watches": 822,
 			"forks": 73
 		}
 	},
@@ -4762,7 +4762,20 @@
 	{
 		"id": "459",
 		"name": "Blizzi",
-		"slug": "blizzi"
+		"slug": "blizzi",
+		"repo": {
+			"id": 1030735328,
+			"name": "blizzi",
+			"full_name": "ayanbanglawala/blizzi",
+			"owner_name": "ayanbanglawala",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/92417401?v=4",
+			"url": "https://github.com/ayanbanglawala/blizzi",
+			"desc": null,
+			"lang": "TypeScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "460",
@@ -5098,14 +5111,14 @@
 		"name": "Shaymin",
 		"slug": "shaymin",
 		"repo": {
-			"id": 499872336,
+			"id": 1032852122,
 			"name": "Shaymin",
-			"full_name": "SehataKuro/Shaymin",
-			"owner_name": "SehataKuro",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/75165625?v=4",
-			"url": "https://github.com/SehataKuro/Shaymin",
-			"desc": null,
-			"lang": "Python",
+			"full_name": "Rhplx/Shaymin",
+			"owner_name": "Rhplx",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/20258470?v=4",
+			"url": "https://github.com/Rhplx/Shaymin",
+			"desc": "Pagina para Febtract",
+			"lang": "Astro",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -6223,7 +6236,7 @@
 			"lang": "Python",
 			"stars": 237,
 			"watches": 237,
-			"forks": 206
+			"forks": 205
 		}
 	},
 	{
@@ -6311,9 +6324,9 @@
 			"url": "https://github.com/Slion/Fulguris",
 			"desc": "⚡Web Browser",
 			"lang": "Kotlin",
-			"stars": 548,
-			"watches": 548,
-			"forks": 53
+			"stars": 551,
+			"watches": 551,
+			"forks": 54
 		}
 	},
 	{
@@ -6401,8 +6414,8 @@
 			"url": "https://github.com/xspyhack/Keldeo",
 			"desc": "A lightweight logging library written in Swift.",
 			"lang": "Swift",
-			"stars": 3,
-			"watches": 3,
+			"stars": 4,
+			"watches": 4,
 			"forks": 1
 		}
 	},
@@ -7068,13 +7081,13 @@
 		"name": "Oratoria",
 		"slug": "oratoria",
 		"repo": {
-			"id": 1019724526,
-			"name": "oratoria",
-			"full_name": "rodrigoniskier/oratoria",
-			"owner_name": "rodrigoniskier",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/202097471?v=4",
-			"url": "https://github.com/rodrigoniskier/oratoria",
-			"desc": null,
+			"id": 1030385343,
+			"name": "OratorIA",
+			"full_name": "ProfeLondres/OratorIA",
+			"owner_name": "ProfeLondres",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/215511141?v=4",
+			"url": "https://github.com/ProfeLondres/OratorIA",
+			"desc": "Proyecto de investigación",
 			"lang": "HTML",
 			"stars": 0,
 			"watches": 0,
@@ -7435,7 +7448,20 @@
 	{
 		"id": "783",
 		"name": "Écaïd",
-		"slug": "ecaid"
+		"slug": "ecaid",
+		"repo": {
+			"id": 1032554459,
+			"name": "ECAID",
+			"full_name": "starsplitterrecords/ECAID",
+			"owner_name": "starsplitterrecords",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/77013062?v=4",
+			"url": "https://github.com/starsplitterrecords/ECAID",
+			"desc": "Ethical Creator Authorship and Intent Disclosure",
+			"lang": null,
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "784",
@@ -8974,13 +9000,13 @@
 		"name": "Baojian",
 		"slug": "baojian",
 		"repo": {
-			"id": 1014092523,
+			"id": 373502574,
 			"name": "baojian",
-			"full_name": "sarby-code/baojian",
-			"owner_name": "sarby-code",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/218709903?v=4",
-			"url": "https://github.com/sarby-code/baojian",
-			"desc": "保健老嗮",
+			"full_name": "baojian/baojian",
+			"owner_name": "baojian",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/85277986?v=4",
+			"url": "https://github.com/baojian/baojian",
+			"desc": "Config files for my GitHub profile.",
 			"lang": null,
 			"stars": 0,
 			"watches": 0,
