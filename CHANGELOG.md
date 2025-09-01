@@ -1,3 +1,14 @@
+# Mon, 01 Sep 2025 01:23:08 GMT
+
+## Changed: 6
+
+- replit-discord/HootHoot → tvkhoa/hoothoot
+- vannguyenthi-agilityio/granbull → veb/Granbull
+- GeorgeWeber/lineon → Jamesfreedom/LineOn
+- prodkiran/Zoroark → Sudhanshu062/zoroark
+- WiLLzFPS/Reshiram → sadiqkhzn/reshiram
+- ActivaTalk/Flabebe → Cane-owo/flabebe
+
 # Fri, 15 Aug 2025 01:18:24 GMT
 
 ## Added: 2
