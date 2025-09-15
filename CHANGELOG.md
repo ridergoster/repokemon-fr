@@ -1,3 +1,21 @@
+# Mon, 15 Sep 2025 01:17:37 GMT
+
+## Added: 1
+
+- zaidadamugarba787-hash/CHARBI
+
+## Changed: 9
+
+- BEAMMWorks/Nidoking → angelbrunocruzhidalgo/nidoking
+- avology121/tarsal → frontenddev344/Tarsal
+- GirardiMatheus/Wailmer → evgeniyp92/wailmer
+- iamVici/rayquaza → Yuken-dev/Rayquaza
+- FelixSchlembach/torterra → rezmayyy/Torterra
+- flowersvnrain/tiplouf → Mudadaa/tiplouf
+- kkkkaon/manzai → ai-ward/manzai
+- pokettia/darkrai → Mgbaskan/darkrai
+- jambuz/zacian → RobertCoDuocUC/Zacian
+
 # Mon, 01 Sep 2025 01:23:08 GMT
 
 ## Changed: 6
