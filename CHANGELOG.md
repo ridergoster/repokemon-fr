@@ -1,3 +1,22 @@
+# Wed, 01 Oct 2025 01:18:20 GMT
+
+## Removed: 1
+
+- GabrieleAsaro/Floette
+
+## Changed: 10
+
+- angelbrunocruzhidalgo/nidoking → BEAMMWorks/Nidoking
+- frontenddev344/Tarsal → avology121/tarsal
+- evgeniyp92/wailmer → GirardiMatheus/Wailmer
+- Hazza85/Tropius → Shojam/Tropius
+- Yuken-dev/Rayquaza → iamVici/rayquaza
+- Mudadaa/tiplouf → flowersvnrain/tiplouf
+- ai-ward/manzai → Shimatora0/manzai
+- Sudhanshu062/zoroark → prodkiran/Zoroark
+- Lacrymosaa/Meloetta → spktrm/meloetta
+- ladecadence/Vemini → iamkhalid2/Vemini
+
 # Mon, 15 Sep 2025 01:17:37 GMT
 
 ## Added: 1
